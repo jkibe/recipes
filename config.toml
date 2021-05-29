@@ -1,4 +1,4 @@
-baseURL = "http://example.org/"
+baseURL = "https://recipes.onrender.com/"
 languageCode = "en-us"
-title = "My New Hugo Site"
+title = "Recipes"
 theme = "noteworthy"
