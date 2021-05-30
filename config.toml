@@ -1,4 +1,38 @@
-baseURL = "https://recipes.onrender.com/"
+baseURL = "https://therecipelog.com/"
 languageCode = "en-us"
-title = "Recipes"
+title = "Recipe Log"
 theme = "noteworthy"
+summaryLength = 10
+
+[taxonomies]
+  tag = "tags"
+
+[[menu.main]]
+    identifier = "home"
+    name = "Home"
+    url = "/"
+    weight = 1
+
+[[menu.main]]
+    identifier = "about"
+    name = "About"
+    url = "/about"
+    weight = 2
+
+[[menu.main]]
+    identifier = "recipes"
+    name = "Recipes"
+    url = "/recipes"
+    weight = 3
+
+[[menu.main]]
+    identifier = "equipment"
+    name = "Equipment"
+    url = "/equipment"
+    weight = 3
+
+[[menu.main]]
+    identifier = "tags"
+    name = "Tags"
+    url = "/tags"
+    weight = 10

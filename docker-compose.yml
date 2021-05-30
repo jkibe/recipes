@@ -1,0 +1,15 @@
+version: "3.7"
+services:
+
+  blog:
+    image: klakegg/hugo
+    ports:
+     - "1313:1313"
+    networks:
+      default:
+    volumes:
+      - ./:/src
+    command: ["server", "--disableFastRender"]
+
+networks:
+  default:
