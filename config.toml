@@ -3,6 +3,7 @@ languageCode = "en-us"
 title = "Recipe Log"
 theme = "noteworthy"
 summaryLength = 10
+paginate = 4
 
 [taxonomies]
   tag = "tags"
@@ -17,7 +18,7 @@ summaryLength = 10
     identifier = "about"
     name = "About"
     url = "/about"
-    weight = 2
+    weight = 10
 
 [[menu.main]]
     identifier = "recipes"
@@ -26,13 +27,26 @@ summaryLength = 10
     weight = 3
 
 [[menu.main]]
+    identifier = "menus"
+    name = "What's Cooking"
+    url = "/menus"
+    weight = 3
+
+[[menu.main]]
     identifier = "equipment"
     name = "Equipment"
     url = "/equipment"
-    weight = 3
+    weight = 10
 
 [[menu.main]]
     identifier = "tags"
     name = "Tags"
     url = "/tags"
     weight = 10
+
+[[menu.main]]
+    identifier = "copyright"
+    name = "Copyright"
+    url = "/copyright"
+    weight = 10
+

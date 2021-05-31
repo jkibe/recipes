@@ -1,0 +1,60 @@
+{{ define "main" }}
+<div class = "article-content">
+        <h1>Welcome</h1>
+        <p>In the spring of 2020 the world shut down confronted with an immense public health crisis. It meant I couldn't eat out, be fed by friends, or even go to the store more than once a week. I started a weekly newsletter to document my experience over the span of that unusual period in our history.</p>
+        <p>I've decided to continue that on a slightly different basis while slowly transitioning my paper notebooks into a digital format. Each month, I'll do a write up in the What's Cooking section, the latest just below. In the Recipes section, I'll slowly add and refine the formulas for what I cook and bake.</p>
+
+        {{ if isset .Site.Params "description" }}
+        <div class="description">
+            <p>{{ .Site.Params.Description | markdownify }}</p>
+        </div>
+        {{ end }}
+
+        <h2>What I'm Cooking</h2>
+
+        {{ range where .Site.RegularPages "Type" "menus" | first 1 }}
+        <article>
+            <h3>
+                <a href="{{ .Permalink }}">
+                    {{ .Title }}
+                </a>
+            </h3>
+            <p><img class="article-image" src='{{ .Param "feature_image" }}'></p>
+
+            <p>{{ .Summary }}</p>
+            <div class="post-footer">
+
+            <!-- Display tags -->
+            {{if .Params.tags}}
+                {{ range .Params.tags }}
+                    <a class="tag" href="/tags/{{ . | urlize }}">#{{.}}</a>
+                {{ end }}
+            {{ end }}
+            </div> 
+           
+        </article>
+        {{ end }}
+
+        <h2>Newest Recipes</h2>
+
+        {{ range where .Site.RegularPages "Type" "recipes" | first 5 }}
+        <article>
+            <h3>
+                <a href="{{ .Permalink }}">
+                    {{ .Title }}
+                </a>
+            </h3>
+            <div class="post-footer">
+
+            <!-- Display tags -->
+            {{if .Params.tags}}
+                {{ range .Params.tags }}
+                    <a class="tag" href="/tags/{{ . | urlize }}">#{{.}}</a>
+                {{ end }}
+            {{ end }}
+            </div> 
+           
+        </article>
+        {{ end }}
+    </div>
+{{ end }}

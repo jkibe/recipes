@@ -49,6 +49,6 @@ Cover the bread and let the baguettes rise for about an hour, until they're abou
 
 Then transfer those to a baking peel and slide them directly onto the preheated baking stone in the oven. If you're not using a steam or combi-oven, pour boiling water into the preheated baking tray to generate water vapor. This all needs to be done as quickly as possible.
 
-Bake the bread for 15-25 minutes. How dark you'd like the bread is a matter of taste, though for a baguette it shouldn't be too light or the kind of deep browning in something like the classic Poilâne mîche.
+Bake the bread for 15-25 minutes. How dark you'd like the bread is a matter of taste. For a baguette, you would be a little eccentric if it's too light (which smacks of questionable grocery store "French" "bread") or has the deep amber color of a classic Poilâne mîche.
 
 Slide the bread out of the oven and let it cool, inverted, to room temperature.
