@@ -2,6 +2,11 @@
 title: "Cauliflower Miznon"
 date: 2021-05-31T20:44:01Z
 draft: false
+tags: [
+    "cauliflower",
+    "veggie",
+    "vegan",
+]
 ---
 
 This is a simple, excellent way to prepare cauliflower. I claim no credit: it was made famous by Café Miznon. They have locations all around the world; I learned about it [via Le Fooding](https://lefooding.com/en/recipes-video-toquera/toquera-295-an-affair-with-un-chou-fleur).

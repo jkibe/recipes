@@ -5,7 +5,7 @@ draft: false
 tags: [
     "dessert",
     "peanut",
-    "USA",
+    "usa",
     "veggie",
     "baking",
 ]
