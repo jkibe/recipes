@@ -13,7 +13,6 @@ A crumble is about the easiest dessert it's possible to make. Get good fruit, to
 
 {{< resize-image src="crumble.jpg" alt="Mixed berry crumble" >}}
 
-
 It's so easy, I haven't really felt the need to write the recipe for the actual crumble. For anyone else reading this, bake at around 220 °C (425 °F) for about 20 minutes. You're looking for the fruit to bubble and the topping to brown nicely.
 
 While any flour will work, I like what's sold in the US as "white whole wheat". There is no magic: it's less refined than all-purpose flour. But it's still considerably more refined than whole wheat, so it doesn't overwhelm the butter and sugar. This is a dessert after all.
