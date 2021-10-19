@@ -9,6 +9,22 @@ tags: [
 ]
 ---
 
+This is one of those dishes that's ubiquitous and still manages to raise the hackles of purists. I would argue that the purity tests around the _ragù alla bolognese_. Yes, fine, there is an organization in Bologna (or maybe in Emilia Romana) that has tried to codify the "real" _ragù_ recipe. But like so many regional dishes, everyone has their own variation.
+
+The dish is and has always been evolving. Consider: we can dispute the precise contours of the recipe, but most people would agree that on some level it's a tomato-based sauce. Then consider that tomatoes aren't native to Italy. They were imported from South America by European explorers and were valued more for their decorative potential until the 19th century.
+
+Riffing on ideas from food science research, I like to spike mine with star anise. The aniseed flavor amplifies the umami in the meat, mushrooms, and tomatoes. But it's a subtle enough flavor --- definitely prefer the whole spice for that reason --- not to dominate the dish.
+
+My version here may not be the "best" --- certainly it's not the absolute most complicated or complexly flavored --- but it gets the job done, and it doesn't disappoint.
+
+{{< resize-image src="ragu.jpg" alt="Cooking down" >}}
+
+In Bologna, the sauce is usually served with flat, thick noodles like tagliatelle. Putting aside questions of tradition, from an engineering standpoint this is obviously a better choice than spaghetti. This is a thick, chunky sauce: you want something that can pick it up. If tagliatelle are too hard to find or too much work to make from scratch, I like using something like rigatoni. Or, if you can get your hands on a box, the much-vaunted cascatelli from Sfoglini is also excellent.
+
+{{< resize-image src="pouring.jpg" alt="Pasta into water" >}}
+
+{{< resize-image src="sauced.jpg" alt="Finished cascatelli with ragù" >}}
+
 ### Ingredients
 
 * Olive oil
