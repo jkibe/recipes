@@ -12,6 +12,8 @@ tags: [
 
 Unfortunately, we haven't gotten our act together and settled on standards for flour types in the US. I'm using King Arthur white whole wheat flour here. If you can't (or don't want to) hunt that down, I'd recommend substituting a roughly 1:3 ratio of whole wheat to all-purpose flour. 
 
+{{< resize-image src="scones.jpg" alt="Scone" >}}
+
 ### Ingredients
 
 * 210 g white whole wheat flour

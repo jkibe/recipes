@@ -27,8 +27,8 @@ If you're in the habit of making PLF somewhat regularly, adding the scraps and t
 ### Ingredients
 
 * 10 g egg
-* 25 g whole milk (do not use non-dairy alternative)
-* 25 g water
+* 50 g whole milk (do not use non-dairy alternative)
+* 50 g water
 * 4 g instant yeast (8 g fresh yeast)
 * 100 g bread flour
 * 100 g all-purpose flour
