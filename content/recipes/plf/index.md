@@ -16,6 +16,8 @@ This is the dough to make _viennoiserie_, risen buttery concoctions like croissa
 
 One essential step: get the best --- by which I mean highest fat content --- butter you can find. Kerrygold is widely available in the US, and is a good option.
 
+{{< resize-image src="croissants.jpg" alt="Croissants" >}}
+
 It's also critical that you weigh out the ingredients and work with precision. It may look strange to see a measurement like 10 grams of egg, but that is not a mistake. Use a whole egg (about 50 g) and this won't work very well. Likewise, this is one case where trying to get everything to be uniform and angles as close to 90° as possible will do you favors. The more robotic you can be, the better the results.
 
 If you're in the habit of making PLF somewhat regularly, adding the scraps and trimmings from a previous batch will improve the dough's flavor and malleability as well as cutting down on waste.
@@ -50,9 +52,9 @@ When the dough has finished resting, place the butter between sheets of baking p
 
 Place the butter in the center of the dough sheet, and then fold the left and right sides of the dough over to encase the butter. The dough should just touch and not overlap. Then with a rolling pin, gently push to seal the butter inside. Roll the dough out perpendicular to the seam. It should be about 50 cm (20 inches) and about 3 mm (about 1/8 inch) thick.
 
-Now complete the first turn. With the long side of the dough parallel to your body, fold a few centimeters from the left over, and then fold from the other side to meet it. Fold this in half again, and gently press it together to seal with a rolling pin. Wrap the dough in plastic again, and refrigerate it for about 45 minutes to let the butter firm back up.
+Now complete the first turn. With the long side of the dough parallel to your body, fold a few centimeters from the left over, and then fold from the other side to meet it. Fold this in half again, and gently press it together to seal with a rolling pin. Using a baker's lame or sharp knife, slit the dough at each of the three folds. Wrap the dough in plastic again, and refrigerate it for about 45 minutes to let the butter firm back up.
 
-After resting, roll the dough out to about 50 cm (20 inches) in length again. Do the second turn: fold about a third of the sheet in toward the center and fold the other side of the sheet over the top. You should have three layers. Press the dough gently together with a rolling pin to seal it. Cover the dough in plastic again for a further 60 minutes in the refrigerator.
+After resting, roll the dough out to about 50 cm (20 inches) in length again. Do the second turn: fold about a third of the sheet in toward the center and fold the other side of the sheet over the top. You should have three layers. Press the dough gently together with a rolling pin to seal it. Use the baker's lame or sharp kinfe to slit each of the folds. Cover the dough in plastic again for a further 60 minutes in the refrigerator.
 
 Remove the dough from the refrigerator. Roll out the dough to about 25 by 25 cm (10 by 10 inches).
 

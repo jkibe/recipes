@@ -12,7 +12,9 @@ tags: [
 
 The Slanted Door, in San Francisco, is one of my favorite restaurants. Possibly the first time I ever ate there, many years ago, I ordered the lemongrass chicken, and I set about trying to recreate it. After several years trying to get it right against my taste memory, Charles Phan, who started the restaurant, published a recipe in [Vietnamese Home Cooking](https://www.penguinrandomhouse.com/books/209665/vietnamese-home-cooking-by-charles-phan/).
 
-{{< resize-image src="lemongrass.jpg" alt="Lemongrass chicken" >}}
+{{< resize-image src="deglazing.jpg" alt="Deglazing" >}}
+
+{{< resize-image src="chicken.jpg" alt="Lemongrass chicken" >}}
 
 It turns out I got pretty close. While I could go back and adjust my memory, I've come to like the version I do for its simplicity.
 
