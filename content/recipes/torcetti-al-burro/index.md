@@ -15,12 +15,12 @@ Depending on who you ask, these come from either Piedmont or Aosta. It's much di
 
 ### Ingredients
 
-2 g active dry yeast (4 g fresh yeast)
-120 g water, room temperature
-250 g "00" flour (or substitute all-purpose)
-50 g sugar
-5 g salt
-120 g butter, cut into small cubes, at room temperature
+* 2 g active dry yeast (4 g fresh yeast)
+* 120 g water, room temperature
+* 250 g "00" flour (or substitute all-purpose)
+* 50 g sugar
+* 5 g salt
+* 120 g butter, cut into small cubes, at room temperature
 
 ### Method
 
