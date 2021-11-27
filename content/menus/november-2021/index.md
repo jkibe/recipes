@@ -1,6 +1,6 @@
 ---
 title: "November 2021"
-date: 2021-10-19T00:37:59Z
+date: 2021-11-13T12:00:00Z
 draft: false
 tags: [
     
