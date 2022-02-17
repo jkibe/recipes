@@ -31,7 +31,7 @@ Get yourself a kitchen scale, and get on board.
 
 ### On dietary restrictions
 
-I have no qualms with "dietary restrictions" per se. To some degree, we all have dietary restrictions to the extent we simply don't like certain foods. I'm not a huge fan of extremely funky cheeses, for instance. If we're honest, people who are vegetarian or vegan are probably deserve their feelings of moral smugness.
+I have no qualms with "dietary restrictions" per se. To some degree, we all have dietary restrictions to the extent we simply don't like certain foods. I'm not a huge fan of extremely funky cheeses, for instance. If we're honest, people who are vegetarian or vegan probably deserve their feelings of moral smugness.
 
 Accordingly, where possible I've tried to tag recipes with annotations like "veggie" to indicate they don't contain meat, fish, or poultry.
 
