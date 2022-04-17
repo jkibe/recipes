@@ -48,4 +48,4 @@ A few other places I've tried shall remain unnamed for not doing such a great jo
 
 And then a few nights I've treated myself to a meal out or something higher end. Aside from existing favorites, on one evening that I was too exhausted to even walk to pick something up, I tried [Mela Indian](https://www.melaboston.com). They did a pretty serviceable biryani.
 
-And that's more or less my life for the month to come and through the end of June, if the construction goes to plan. I'll do another installment in May, possibly including some charts to explore my revealed preference for takeout places around Boston.
+More of the same awaits me for the month to come and through the end of June, if the construction goes to plan. I'll do another installment in May, possibly including some charts to explore my revealed preference for takeout places around Boston.
