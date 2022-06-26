@@ -5,7 +5,7 @@ draft: false
 tags: [
     
 ]
-feature_image: /menus/may-2022/ff-checklist.jpg
+feature_image: /menus/may-2022/ff-two-gang.jpg
 ---
 
 The renovation is in full swing. This point in the process feels the way I'd imagine a very long ocean voyage might. You know you're on course, but at the same time you haven't seen land or eaten a  proper meal for weeks.
