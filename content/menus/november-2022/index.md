@@ -10,7 +10,7 @@ feature_image: menus/november-2022/angle-partial.jpg
 
 My kitchen is still not quite done. I think there's at least another week of work for the crew to do, optimistically.
 
-But we have achieved an important milestone: I can cook again. It's a huge relief as well as a bit frustrating. A relief for obvious reasons. I no longer have to rely exclusively on the monotony of takeout. A frustration because until the project is done-done, my house doesn't really feel like a home. Being so close to being done without actually being done is maddening. I want my sofa back.
+But we have achieved an important milestone: [I can cook again](https://jkibe.github.io/kitchen145/functional). It's a huge relief as well as a bit frustrating. A relief for obvious reasons. I no longer have to rely exclusively on the monotony of takeout. A frustration because until the project is done-done, my house doesn't really feel like a home. Being so close to being done without actually being done is maddening. I want my sofa back.
 
 {{< resize-image src="angle-partial.jpg" alt="Kitchen" >}}
 
