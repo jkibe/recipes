@@ -15,6 +15,10 @@ This is a "liquid" levain, which is to say that you're aiming for a roughly 1:1 
 
 If you're not planning to bake every day --- I certainly don't --- it's easy enough to stash this in the refrigerator and give a quick warm up to room temperature before using. Though even in the refrigerator, you'll want to refresh the starter weekly.
 
+Recipes that use this levain:
+
+* [Baguettes]({{< ref "recipes/baguette-au-levain" >}})
+
 ### On flour
 
 Any flour will work here. I like to use King Arthur white whole wheat flour, which adds extra flavor without being too heavy. It's not clear from their product information what the ash content of the flour is (to put it on the French-style scale), but I'd guess it's something like a T85, versus an all-purpose flour at T45 and whole wheat closer to T150.
