@@ -31,3 +31,21 @@ Brands I'd recommend:
 If cooking with bad knives is the most frustrating, then not having a kitchen scale is a very close second. Putting aside precision, they make cooking a lot easier. You don't have to hunt down the right size measuring scoop and then wash a dozen of them when you're done making a simple cake. With a scale, you can tare and then drop each ingreident into the same bowl.
 
 Not that the precision doesn't matter at all. Especially with difficult ingredients, it can make a huge difference. No matter how hard you try, you'll never get consistent quantities of flour or brown sugar out of the bag with a measuring scoop.
+
+## Sources
+
+### Storecupboard
+
+* [Curio Spice Company](http://curiospice.com)
+* [Postcard Teas](http://postcardteas.com)
+* [Rancho Gordo](http://ranchogordo.com)
+
+### Tableware
+
+* [Fog Linen](https://www.shop-foglinen.com)
+* [Heath Ceramics](https://www.heathceramics.com)
+* [Liberty](https://www.libertylondon.com)
+* [Merci](http://merci-merci.com)
+* [Myrth](https://www.myrth.us)
+* [Williams Sonoma](https://www.williams-sonoma.com)
+* [Zara Home](https://www.zarahome.com)
