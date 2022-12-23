@@ -23,7 +23,7 @@ In Bologna, the sauce is usually served with flat, thick noodles like tagliatell
 
 {{< resize-image src="pouring.jpg" alt="Pasta into water" >}}
 
-{{< resize-image src="sauced.jpg" alt="Finished cascatelli with ragù" >}}
+{{< resize-image src="rigatoni.jpg" alt="Finished rigatoni with ragù" >}}
 
 ### Ingredients
 
