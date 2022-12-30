@@ -6,6 +6,8 @@ tags: [
     "china",
     "veggie",
 ]
+service: Savory
+kind: Rice
 ---
 
 While you could make this with leftover rice, you'll get a better result steaming the rice specifically for this purpose.

@@ -7,6 +7,10 @@ tags: [
     "vegan",
     "dessert"
 ]
+cover:
+    image: /recipes/tintoretto-amaro/tintoretto.jpg
+service: Desserts
+kind: Cakes
 ---
 
 This is one of my favorite ways to make chocolate cake. It's moist, rich, and incredibly chocolate-forward. And incidentally vegan to boot. To quote Nigella Lawson, whose recipe I have liberally adapted here, "No need to fofer explanations; you just need to offer the cake."

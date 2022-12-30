@@ -9,6 +9,8 @@ tags: [
     "spain",
     "valencia"
 ]
+service: Mains
+kind: Rice
 ---
 
 I've never been to Spain, so I have only hints at what a great paella is or could be. In the meantime, the wonders of the Internet, restaurants, and lots of home tinkering have given me enough information to form an opinion.

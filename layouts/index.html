@@ -44,6 +44,15 @@
                     {{ .Title }}
                 </a>
             </h3>
+
+            {{if .Params.blurb }}
+            <p>{{ .Param "blurb" }}</p>
+            {{ end }}
+
+            {{if .Params.feature_image }}
+            <p><img class="article-image" src='{{ .Param "feature_image" }}'></p>
+            {{ end }}
+
             <div class="post-footer">
 
             <!-- Display tags -->

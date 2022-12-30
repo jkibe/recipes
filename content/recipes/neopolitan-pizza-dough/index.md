@@ -9,6 +9,8 @@ tags: [
     "vegan",
     "veggie",
 ]
+service: Basics
+kind: Breads
 ---
 
 Credit where credit is due: I got this from Ken Forkish of Ken's Artisan Pizza in Portland. It's one of my favorite pizza places. Sadly I don't have a wood-burning oven at home. But at least I can use the same dough.

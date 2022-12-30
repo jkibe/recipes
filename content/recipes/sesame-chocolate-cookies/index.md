@@ -10,6 +10,8 @@ tags: [
     "sesame",
     "chocolate",
 ]
+service: Desserts
+kind: Biscuits and Cookies
 ---
 
 These come from the excellent Mokonuts in Paris. Everything they do is delicious, these as much or more than everything else.

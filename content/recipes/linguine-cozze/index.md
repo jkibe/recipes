@@ -7,6 +7,8 @@ tags: [
     "pasta",
     "seafood",
 ]
+service: Mains
+kind: Noodles
 ---
 
 There's a case to be made for making this as the recipe suggests, with actual live mussels in the shell. It's more work, but the oceanic flavor of the fresh mussels adds an undeniable complexity to the pasta. On the other hand, fresh mussels need to be used pretty quickly after purchase and it's a pain to remove them from their shells. For that reason, I often use fancy tinned mussels (the smoked ones are great) available now at many supermarkets.

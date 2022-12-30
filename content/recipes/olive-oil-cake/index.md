@@ -7,6 +7,8 @@ tags: [
     "paca",
     "veggie",
 ]
+service: Desserts
+kind: Cakes
 ---
 
 As a rule, when I work from home during the week I take an hour at lunchtime to walk somewhere and buy lunch. If I'm feeling indulgent, I sometimes like to order a small piece of cake or another dessert-y item. During the pandemic, I cycled through most (if not all) the dessert options at one of my favorite lunch places, which introduced me to olive oil cake.

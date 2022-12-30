@@ -5,6 +5,8 @@ draft: false
 tags: [
     "japan",
 ]
+service: Mains
+kind: Fish
 ---
 
 This was a 2020 lockdown favorite of mine. It [comes from the late Taku Sekine](https://www.instagram.com/p/B_edxtSpg3q/) of Dersou and Cheval d'Or, two excellent restaurants in Paris. This makes one portion, though it's easy enough to scale up. I would recommend doing individual filets, however, rather than treating an enitre side of salmon as one piece.

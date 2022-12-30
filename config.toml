@@ -1,9 +1,12 @@
 baseURL = "https://therecipelog.com/"
 languageCode = "en-us"
-title = "Recipe Log"
-theme = "noteworthy"
+title = "The Recipe Log"
+theme = "PaperMod"
 summaryLength = 10
 paginate = 4
+
+[params]
+  disableThemeToggle = true
 
 [taxonomies]
   tag = "tags"
@@ -18,7 +21,7 @@ paginate = 4
     identifier = "about"
     name = "About"
     url = "/about"
-    weight = 10
+    weight = 20
 
 [[menu.main]]
     identifier = "recipes"
@@ -42,11 +45,5 @@ paginate = 4
     identifier = "tags"
     name = "Tags"
     url = "/tags"
-    weight = 10
-
-[[menu.main]]
-    identifier = "copyright"
-    name = "Copyright"
-    url = "/copyright"
     weight = 10
 

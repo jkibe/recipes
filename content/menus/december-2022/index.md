@@ -5,7 +5,9 @@ draft: false
 tags: [
     
 ]
-feature_image: /menus/december-2022/rice.jpg
+cover:
+    image: /menus/december-2022/rice.jpg
+
 ---
 
 I had really hoped that this time I'd be able to write that my kitchen project had finally wrapped up. Alas, it was not to be. While I can cook again, there are a few troublesome details getting in the way of me completely unpacking and getting back to my usual rhythms.
