@@ -9,14 +9,14 @@ tags: [
     "veggie",
 ]
 cover:
-    image: croissants.jpg
+    image: dough.jpg
 service: Basics
 kind: Viennoiserie
 ---
 
 This is the dough to make _viennoiserie_, risen buttery concoctions like croissants and pains au chocolat. It's incredibly fiddly to say the least.
 
-![PLF after two turns](dough.jpg)
+![Croissants](croissants.jpg)
 
 One essential step: get the best --- by which I mean highest fat content --- butter you can find. Kerrygold is widely available in the US, and is a good option.
 

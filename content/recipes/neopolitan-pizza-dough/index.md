@@ -11,11 +11,11 @@ tags: [
 ]
 service: Basics
 kind: Breads
+cover:
+    image: dough.jpg
 ---
 
 Credit where credit is due: I got this from Ken Forkish of Ken's Artisan Pizza in Portland. It's one of my favorite pizza places. Sadly I don't have a wood-burning oven at home. But at least I can use the same dough.
-
-![Pizza dough rising](dough.jpg)
 
 When I make this, I do use the Caputo 00 flour that good Neopolitan pizza places tend to use. Though in my informal testing, it's very difficult to perceive the difference between it and my usual King Arthur all-purpose flour.
 
