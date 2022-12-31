@@ -22,9 +22,22 @@
     {{- replace .Key "0001" "" }}<sup class="archive-count">&nbsp;&nbsp;{{ len .Pages }}</sup>
   </h2>
   {{- range .Pages.GroupByParam "kind" }}
+  {{- $foundImage := false }}
   <div class="archive-month">
     <h3 class="archive-month-header">{{- .Key }}<sup class="archive-count">&nbsp;&nbsp;{{ len .Pages }}</sup></h3>
+
     <div class="archive-posts">
+
+      <div class="archive-entry">
+        {{- range .Pages }}
+          {{- if and (.Params.cover.image) (not $foundImage) }}
+              {{- $isHidden := (site.Params.cover.hidden | default site.Params.cover.hiddenInList) }}
+              {{- partial "cover.html" (dict "cxt" . "IsHome" true "isHidden" $isHidden) }}
+              {{- $foundImage = true }}
+          {{- end }}
+        {{- end }}
+      </div>
+
       {{- range .Pages }}
       {{- if eq .Kind "page" }}
       <div class="archive-entry">
