@@ -5,7 +5,8 @@ draft: false
 tags: [
     
 ]
-feature_image: /menus/september-2021/strawberries.jpg
+cover:
+    image: strawberries.jpg
 ---
 
 I've managed to avoid catching another bug, Covid or otherwise, over the last few weeks. It's been nice to get back to normal in that sense. Though in another sense, I feel like I haven't profited enough of the summer. Now that the delta variant is causing problems, I'm afraid to venture far beyond the protective Massachusetts bubble. The delta variant (and my fellow citizens' poor response to the whole situation), may also scupper my plans for a fall vacation in Europe.
@@ -18,25 +19,23 @@ With travel relatively limited and indoor dining seeming like a less great idea 
 
 Much of what I've been up to has been relatively unexciting. I've been big on summer staples that, in an ideal world, make a lot more sense outdoors than in my very urban apartment setting. That is to say, dishes like linguine with shellfish, seafood paella, tacos of all sorts, and lots pizza. I'm increasingly happy with my ability to consistently execute a deeply-flavored paella in under 30 minutes. I also splashed out a couple of times for some very pricey (but delicious) peak-season king salmon from Alaska, served, of course, with some salsa verde.
 
-{{< resize-image src="strawberries.jpg" alt="Strawberries" >}}
-
 For sweets, I kept taking advantage of the very brief window I could get truly great strawberries. I shudder to think how much butter and cream I ate with all the shortcake that I baked at the end of August, but I think it was worth it.
 
-{{< resize-image src="shortcakes-raw.jpg" alt="Shortbread about to bake" >}}
+![Shortbread about to bake](shortcakes-raw.jpg)
 
-{{< resize-image src="shortcakes-baked.jpg" alt="Shortbread out of the oven" >}}
+![Shortbread out of the oven](shortcakes-baked.jpg)
 
 After a forced hiatus when my sourdough culture collapsed, I'm slowly getting my bread situation back to where I'd like it to be as well. I did the best baguettes I've done in months this afternoon.
 
-{{< resize-image src="bread.jpg" alt="Bread" >}}
+![Bread](bread.jpg)
 
 Less rosily, the people at Ottolenghi let me down. Not in a big way, but more in an underwhelming way. I tried one of their recipes for a mushroom-orzo dish, which, however much they suggested gussying it up, was exactly what it sounded like. Which is fine: nicely roasted mushrooms with the not pilaf-pilaf quality of the orzo was nice. But it wasn't quite as much of a revelation as something like the black pepper tofu that I tired a few months ago.
 
-{{< resize-image src="mushrooms.jpg" alt="Ottolenghi orzo with mushrooms" >}}
+![Ottolenghi orzo with mushrooms](mushrooms.jpg)
 
 There was also an incidentally vegan cashew curry that was equally underwhelming. To the extent I didn't bother to write down the provenance.
 
-{{< resize-image src="curry.jpg" alt="Not so impressive curry" >}}
+![Not so impressive curry](curry.jpg)
 
 My annual peach tart experiment still didn't hit the level of the original. Though it was good enough that when I sat down to write this newsletter, I realized I had forgotten to take photos in my eagerness to try it. My new hunch is that it needs more intense heat to really caramelize the peaches.
 
@@ -50,9 +49,9 @@ Cooler weather makes hot soups --- a favorite genre --- more of a possibility. I
 
 It's apple season in New England, so there's a possibility of getting apples that are both local and delicious, in my continuing seasonal dessert theme. They're great in a galette. I may also try my hand at recreating the legendary tarte aux pommes from one of my favorite bakeries in Paris. I'm also a big fan of Italian-style apple cake, which is one of the easiest desserts to whip together on a whim.
 
-{{< resize-image src="poilane.jpg" alt="Poilane" >}}
+![Poilane](poilane.jpg)
 
-{{< resize-image src="tartes.jpg" alt="Poilane apple tarts" >}}
+![Poilane apple tarts](tartes.jpg)
 
 The cooler weather also opens the door to dipping my toes back into the subtle world of the croissant. I've been working on getting those down for two years now, and I'm getting closer. They're a lot easier to pull off when it's not incredibly hot and the butter melts more easily than you'd like. Stayed tuned for photos there.
 

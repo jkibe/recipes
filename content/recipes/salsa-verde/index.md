@@ -1,5 +1,5 @@
 ---
-title: "Salsa verde"
+title: "Salsa verde italiana"
 date: 2021-06-05T22:56:42Z
 draft: false
 tags: [
@@ -8,6 +8,10 @@ tags: [
     "basil",
     "anchovy",
 ]
+cover:
+    image: 
+service: Basics
+kind: Sauces
 ---
 
 

@@ -5,28 +5,27 @@ draft: false
 tags: [
     
 ]
-feature_image: menus/november-2022/angle-partial.jpg
+cover:
+    image: angle-partial.jpg
 ---
 
 My kitchen is still not quite done. I think there's at least another week of work for the crew to do, optimistically.
 
 But we have achieved an important milestone: [I can cook again](https://jkibe.github.io/kitchen145/functional). It's a huge relief as well as a bit frustrating. A relief for obvious reasons. I no longer have to rely exclusively on the monotony of takeout. A frustration because until the project is done-done, my house doesn't really feel like a home. Being so close to being done without actually being done is maddening. I want my sofa back.
 
-{{< resize-image src="angle-partial.jpg" alt="Kitchen" >}}
-
 Progress is progress, of course. I'm taking my victories where I can. I was able to make a halfway decent Thanksgiving dinner.
 
 While I haven't completely lost my touch, I'm a little rusty. The new kitchen will also take some getting used to. I can't quite figure out where everything goes yet, because the kitchen isn't completely done. Getting appliances that aren't 40 years old has also thrown me for a loop. My new oven is the first one I've ever used where the difference between fan and unassisted baking is so clear.
 
-{{< resize-image src="cookies-raw.jpg" alt="Cookies ready to bake" >}}
+![Cookies ready to bake](cookies-raw.jpg)
 
 I made some of my favorite miso peanut butter cookies, and I was very impressed and almost surprised by the speed and evenness. Whether this is because I have an oven that isn't 40 years old, or I twisted myself into a pretzel to get a true European-style 60 cm oven, I can't say. But it's definitely better than any other convection oven I've ever used.
 
-{{< resize-image src="cookies-baked.jpg" alt="Cookies out of the oven" >}}
+![Cookies out of the oven](cookies-baked.jpg)
 
 Likewise, I was really impressed with my first attempt at making bread in the new oven. I don't think I've ever gotten such good oven spring in my old oven.
 
-{{< resize-image src="bread.jpg" alt="Bread" >}}
+![Bread](bread.jpg)
 
 For my mini-Thanksgiving, I kept it simple. With my partially-completed renovation, I didn't have a big group (me plus my girlfriend), so I did a roast chicken --- a turkey felt excessive --- plus mashed potatoes, green beans, and gravy.
 

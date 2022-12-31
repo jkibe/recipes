@@ -7,6 +7,10 @@ tags: [
     "sauce",
     "italy",
 ]
+cover:
+    image: rigatoni.jpg
+service: Small Plates
+kind: Noodles
 ---
 
 This is one of those dishes that's ubiquitous and still manages to raise the hackles of purists. I would argue that the purity tests around the _ragù alla bolognese_ are unfounded. Yes, fine, there is an organization in Bologna (or maybe in Emilia-Romagna) that has tried to codify the "real" _ragù_ recipe. But like so many regional dishes, everyone has their own variation.
@@ -17,13 +21,11 @@ Riffing on ideas from food science research, I like to spike mine with star anis
 
 My version here may not be the "best" --- certainly it's not the absolute most complicated or complexly flavored --- but it gets the job done, and it doesn't disappoint.
 
-{{< resize-image src="ragu.jpg" alt="Cooking down" >}}
+![Cooking down](ragu.jpg)
 
 In Bologna, the sauce is usually served with flat, thick noodles like tagliatelle. Putting aside questions of tradition, from an engineering standpoint this is obviously a better choice than spaghetti. This is a thick, chunky sauce: you want something that can pick it up. If tagliatelle are too hard to find or too much work to make from scratch, I like using something like rigatoni. Or, if you can get your hands on a box, the much-vaunted cascatelli from Sfoglini is also excellent.
 
-{{< resize-image src="pouring.jpg" alt="Pasta into water" >}}
-
-{{< resize-image src="rigatoni.jpg" alt="Finished rigatoni with ragù" >}}
+![Pasta into water](pouring.jpg)
 
 ### Ingredients
 
@@ -50,5 +52,3 @@ Then add the ground beef and pork, followed immediately by the milk. Use a spoon
 Add the wine plus the star anise and bay, and cook it until most of the liquid has evaporated and it no longer smells of alcohol. Then add the re-hydrated mushrooms and the strained liquid. Cook that down until the pan is one again fairly dry.
 
 Make a space in the pan and add more olive oil, followed by the tomato paste. Cook and fry the tomato paste until it's a deep rust color. Then stir the tomato through the rest of the sauce. Add some of the water from cooking the pasta to dilute the sauce. It should be loose, but not watery. Then season to taste with salt. Remove and discard the star anise and bay. Serve immediately.
-
-

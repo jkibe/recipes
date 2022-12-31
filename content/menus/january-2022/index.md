@@ -5,7 +5,8 @@ draft: false
 tags: [
     
 ]
-feature_image: /menus/january-2022/mochi.jpg
+cover:
+    image: mochi.jpg
 ---
 
 The latest virus variant has pushed me a lot closer to where this whole project began in March or April of 2020. We're back at the point that, despite being vaccinated and boosted, I'm not in love with the idea of doing any indoor dining.
@@ -16,17 +17,15 @@ Looking back over the last month, on the more prosaic side, I did a nice apple a
 
 At Christmas, for one of the less high-stakes dinners between the big days, I tried out a pair of recipes from the always reliable Ottolenghi team: four-allium baked rice and poached cod in a tomato sauce. The fish was not bad, though not revelatory. The rice was a surprise, though. The technique is incredibly simple, and the alliums give what could be very ordinary rice a nice twist.
 
-{{< resize-image src="croissant.jpg" alt="Shaped croissants" >}}
+![Shaped croissants](croissant.jpg)
 
 For Christmas, I had fairly minimal involvement. I did a classic River Cafe lemon polenta cake with my own raspberry twist. The raspberries add complexity, and they pair extremely well with citrus. More critically, I achieved redemption with a relatively successful batch of croissants. They were not my best effort. The lamination wasn't fantastic, and I suspect I didn't let them rise enough. While in many ways my parents' kitchen is better equipped than my current one, it's hard not to suffer a bit in a less familiar environment.
 
 At New Year, the food situation was closer to normal. The start of the new year is a big deal in Japanese culture, so on the Japanese side of my family we do a lot of Japanese food on the 1st. From my perspective, it was a lot closer to "normal" than 2020 when I had to eat mochi outdoors in the rain. From the perspective of taking photos, there wasn't quite as much as in a pre-pandemic year, and we (by which I mean the people other than me who did all the cooking) didn't spend as much time arranging it photogenically.
 
-{{< resize-image src="sushi.jpg" alt="Sushi" >}}
+![Sushi](sushi.jpg)
 
-{{< resize-image src="fabrication.jpg" alt="Mochi making" >}}
-
-{{< resize-image src="mochi.jpg" alt="Mochi" >}}
+![Mochi making](fabrication.jpg)
 
 Since getting back to Boston, I've done a bit of experimentation, too.
 
@@ -40,7 +39,7 @@ At that point, I had a realization, confirmed with research. It struck me that m
 
 What I'll do with this insight I'm still not sure. The biggest hurdle is food waste. If I do another bad batch, there's only so much mediocre pasta I can eat. I feel bad foisting bad food on friends. And there's no way I'll toss the food unless it's genuinely inedible or dangerous.
 
-{{< resize-image src="rice.jpg" alt="Four-allium rice" >}}
+![Four-allium rice](rice.jpg)
 
 Moving into the month ahead, my kitchen renovation remains in limbo. By which I mean I still don't have a contractor booked, and there's still no start date. I really hope it happens this year, it goes without saying. On the plus side, my takeout journey has yet to begin.
 

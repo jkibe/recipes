@@ -7,11 +7,13 @@ tags: [
     "usa",
     "veggie",
 ]
+cover:
+    image: granola.jpg
+service: Breakfast
+kind: Cold
 ---
 
 Based solely on my experience buying groceries, I'd say granola has gone mainstream. At the point you can buy something pre-packaged that's been flavored with real Madagascar vanilla, it's not exactly hippie food any more.
-
-{{< resize-image src="granola.jpg" alt="Granola" >}}
 
 Though, of course, granola is less of a mid-20th century food of the counterculture than another product of the strange nutrition ideas that brought us many other famous breakfast cereals. The original, called granula, was developed in the middle of the 19th century and was a sort of pre-digested agglomeration of different grains that was so hard it needed to be soaked in water or milk overnight to be edible. Later, John Harvey Kellogg of Kellogg's cornflakes fame made the cereal a bit more palatable and called it granola to avoid a trademark suit.
 

@@ -5,5 +5,9 @@ draft: true
 tags: [
     
 ]
+cover:
+    image: 
+service: 
+kind: 
 ---
 

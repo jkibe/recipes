@@ -9,6 +9,10 @@ tags: [
     "veggie",
     "vegan",
 ]
+cover:
+    image: 
+service: Small Plates
+kind: Bites
 ---
 
 This idea comes from the superb YouTube channel [Boulangerie Pas à pas](https://www.youtube.com/boulangeriepasapas). It's a great way to use what would otherwise get wasted when you need to refresh your levain but don't have the need to bake anything.

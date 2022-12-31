@@ -5,12 +5,11 @@ draft: false
 tags: [
     
 ]
-feature_image: /menus/august-2022/flooring-low.jpg
+cover:
+    image: flooring-low.jpg
 ---
 
 My new kitchen still isn't done. If I'm honest, I doubt it will be done by the time the next edition of this goes out either. In the meantime, my takeout adventures continue.
-
-{{< resize-image src="flooring-low.jpg" alt="Cabinet boxes" >}}
 
 That doesn't mean I can't have any fun with my continued food purgatory. Last time, I mentioned that I went on a bit of a bolognese bender. This month I've been exploring the biryani, the Indian-Muslim rice dish. I love a nice biryani. In the universe of "global" Indian dishes --- think tandoori chicken or chicken tikka masala --- I think it's underappreciated.
 

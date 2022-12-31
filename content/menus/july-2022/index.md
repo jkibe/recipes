@@ -5,12 +5,11 @@ draft: false
 tags: [
     
 ]
-feature_image: /menus/july-2022/electric-rough-back-wall.jpg
+cover:
+    image: electric-rough-back-wall.jpg
 ---
 
 The [kitchen project](http://jkibe.github.io/kitchen145/) remains behind schedule. Substantial completion was supposed to happen a couple weeks ago, and the walls still aren't closed. It's especially discouraging when nothing has happened, even behind the scenes, for the last couple of weeks.
-
-{{< resize-image src="electric-rough-back-wall.jpg" alt="Photo of the plumbing chase" >}}
 
 At this point, I'm a little skeptical that I'll even have more to share food-wise in next month's installment. Suffice to say I've learned a lot about the realities of a home renovation project. For better or worse, I suspect this will not be the last time I do a project like this.
 

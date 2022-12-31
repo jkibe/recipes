@@ -8,6 +8,10 @@ tags: [
     "veggie",
     "vegan",
 ]
+cover:
+    image: 
+service: Small Plates
+kind: Bites
 ---
 
 This comes from the late Taku Sekine of [Dersou](https://www.dersouparis.com) and [Le Cheval d'or](https://chevaldorparis.com). It's wonderfully simple as a side. While optional in the sense it's possible to make and eat the pancakes without it, the real coup de grâce of these is the dipping sauce.

@@ -1,5 +1,5 @@
 ---
-title: "Galette"
+title: "Galette Base"
 date: 2021-07-25T21:27:31Z
 draft: false
 tags: [
@@ -7,6 +7,10 @@ tags: [
     "france",
     "veggie",
 ]
+cover:
+    image: 
+service: Desserts
+kind: Tarts
 ---
 
 The galette has an excellent effort-reward ratio. The fancy French name aside, they're incredibly easy to make and look reasonably impressive if executed well.
