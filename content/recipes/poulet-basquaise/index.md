@@ -7,6 +7,10 @@ tags: [
     "chicken",
     "braise"    
 ]
+cover:
+    image: 
+service: Mains
+kind: Poultry
 ---
 
 I have such a funny relationship with this dish. In France, it has a reputation for being a cliché: the kind of thing people haul out to impress their friends at a dinner party. On that basis, I always feel a bit silly making this. On the other hand, it's a cinch to prepare and it has to be said, it is pretty tasty.

@@ -11,11 +11,11 @@ tags: [
 ]
 service: Mains
 kind: Rice
+cover:
+    image: seafood.jpg
 ---
 
 I've never been to Spain, so I have only hints at what a great paella is or could be. In the meantime, the wonders of the Internet, restaurants, and lots of home tinkering have given me enough information to form an opinion.
-
-{{< resize-image src="seafood.jpg" alt="Paella with scallops" >}}
 
 The trick with paella is replicating the technical conditions a "traditional" one might be cooked under. That is, a giant wood fire with a very wide, very shallow pan. The term _paella_ means "pan" in Valencian. Paella pans are readily available if you want one --- they're not strictly speaking necessary --- but the heat source is more of an issue.
 

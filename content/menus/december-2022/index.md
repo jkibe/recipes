@@ -7,34 +7,31 @@ tags: [
 ]
 cover:
     image: /menus/december-2022/rice.jpg
-
 ---
 
 I had really hoped that this time I'd be able to write that my kitchen project had finally wrapped up. Alas, it was not to be. While I can cook again, there are a few troublesome details getting in the way of me completely unpacking and getting back to my usual rhythms.
 
 You can venture over to my [renovation blog](http://jkibe.github.io/kitchen145/) for more details on what is (or isn't) happening with the construction itself. As concerns my ability to fill this monthly update, there are really two main issues.
 
-{{< resize-image src="refrigerator.jpg" alt="Refrigerator" >}}
+![Refrigerator](refrigerator.jpg)
 
-{{< resize-image src="vent.jpg" alt="Empty cabinet" >}}
+![Empty cabinet](vent.jpg)
 
 First and foremost, they still haven't installed my vent hood. While it's not vented to the outside as would be ideal, it does at least have some filters that would make grease and smoke less annoying. It would also protect the upper cabinets. Second, my fancy built-in refrigerator still isn't quite installed correctly. I'm hesitating to fill it back up for fear they'll have to empty it in order to take it out and fix the remaining installation problems.
 
-{{< resize-image src="rice.jpg" alt="Four allium rice" >}}
-
 With my wings slightly clipped, I haven't been quite as adventurous as I would have hoped by this point. There have been a lot of basics and favorites. I've realized I really need to buy a food processor making a [basic ragù](/recipes/ragu) and that pine nuts (that should have adorned a batch of four allium rice) do eventually go bad after being stored in the basement for almost a year.
 
-{{< resize-image src="rigatoni.jpg" alt="Ragù with rigatoni" >}}
+![Ragù with rigatoni](rigatoni.jpg)
 
 I tried making madeleines for the first time in almost a year. Despite literal decades of trying, I still can't get them to come out the way I want them. This latest batch was over leavened: they were too light and airy. And I cannot for the life of me get my cakes to acquire the distinctive hump that I see as the hallmark of a madeleine well-made.
 
-{{< resize-image src="madeleines.jpg" alt="Madeleines" >}}
+![Madeleines](madeleines.jpg)
 
 More excitingly, I hosted the first group dinner in the new space only a few days ago. I'm not quite ready to go full Ina Garten and introduce readers here to my cast of equally (if differently) impressive friends and family.
 
 It did give me an opportunity to dip my toes back in the world of bread. I tried doing a big, dark sourdough loaf. My sourdough skills are definitely a bit rusty. The loaf was not bad. The crust was very tasty, I got reasonable oven spring, and I got a nice color on the loaf. I need more time and experimentation to get the tang and crumb closer to where I want it. These large loaves present another challenge in the fact that it's a lot to eat even for a bread enthusiast. Perhaps this is a vector to bond with my neighbors.
 
-{{< resize-image src="bread.jpg" alt="Bread ready to go in the oven" >}}
+![Bread ready to go in the oven](bread.jpg)
 
 Getting back into the cooking groove over the last month has been a somewhat surprising experience from a personal finance perspective. While I'm hardly going to starve, there's something really shocking about having to pay almost $10 for a bag of flour. Inflation is real.
 
@@ -46,7 +43,7 @@ Later in the month, I'm planning to make my first trip abroad since the pandemic
 
 Winter will truly be with us in January. That screams soups and other food slowly simmered. It could be an opportunity to restock from my friends over at [Rancho Gordo](https://www.ranchogordo.com). Their heirloom midnight black beans make an excellent soup.
 
-{{< resize-image src="paris.jpg" alt="Café in Paris" >}}
+![Café in Paris](paris.jpg)
 
 Thinking of travel jogged memories of favorite meals on other trips as well. And something in particular made me think of [Breizh Café](https://www.breizhcafe.com/menus) in Paris. Short of actually going to Brittany, they do the best crêpes I've ever eaten. In particular the buckwheat savory crêpes that I associate with _Breizh_. This experiment may turn out like my ill-fated soba noodle experiment: the right flour really does make a difference! Though I think crêpes are a bit more forgiving.
 

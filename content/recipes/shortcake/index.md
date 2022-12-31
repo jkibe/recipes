@@ -8,14 +8,15 @@ tags: [
     "uk",
     "veggie",
 ]
+cover:
+    image: after.jpg
+service: Desserts
+kind: Cakes
 ---
 
 According to my notebook, this was at least initially inspired by a Felicity Cloake column, though which one is lost to the sands of time.
 
-{{< resize-image src="before.jpg" alt="Before baking" >}}
-
-{{< resize-image src="after.jpg" alt="After baking" >}}
-
+![Before baking](before.jpg)
 
 These are great to toss together when there's some excellent summer fruit to be enjoyed. Toss over some macerated fraises des bois and whipped cream and there's little better.
 

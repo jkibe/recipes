@@ -6,6 +6,10 @@ tags: [
     "veggie",
     "vegan",    
 ]
+cover:
+    image: 
+service: Small Plates
+kind: Veggies
 ---
 
 ### Ingredients

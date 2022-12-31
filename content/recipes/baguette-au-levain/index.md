@@ -9,14 +9,12 @@ tags: [
     "vegan",
 ]
 cover:
-    image: /recipes/baguette-au-levain/baguette.jpg
+    image: baguette.jpg
 service: Basics
 kind: Breads
 ---
 
 While there is some pleasure to be had in baking my own bread, I'd honestly be a lot happier if I could pop into a bakery in the morning and pick up a great loaf of professionally-baked bread every day. Until I buy my second home in Paris, though, this is my go-to recipe for making baguettes at home.
-
-{{< resize-image src="baguette.jpg" alt="Baguettes" >}}
 
 One challenge is replicating the environment in a professional oven. They typically have a baking surface that's a lot more substantial than a home baking tray. This lets them act as an energy store that blasts the dough with energy as it goes in the oven. They also have steam injectors that create a very humid environment for the bake. The crust can only form when enough water has been driven out of the surface to allow browning reactions to occur. Delaying the crust formation by preventing the surface from drying out means more time for the bread to rise and expand in the oven.
 

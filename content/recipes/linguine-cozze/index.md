@@ -7,13 +7,13 @@ tags: [
     "pasta",
     "seafood",
 ]
-service: Mains
+service: Small Plates
 kind: Noodles
+cover:
+    image: noodles.jpg
 ---
 
 There's a case to be made for making this as the recipe suggests, with actual live mussels in the shell. It's more work, but the oceanic flavor of the fresh mussels adds an undeniable complexity to the pasta. On the other hand, fresh mussels need to be used pretty quickly after purchase and it's a pain to remove them from their shells. For that reason, I often use fancy tinned mussels (the smoked ones are great) available now at many supermarkets.
-
-{{< resize-image src="noodles.jpg" alt="Linguine with scallops and mussels" >}}
 
 This makes enough for two people as a main, four as a starter. Or: 200 g of dried pasta as indicated. It comes together quickly. I usually don't start making the sauce until the water for the pasta is boiling and the noodles are in. It's that quick.
 

@@ -10,13 +10,13 @@ tags: [
     "sesame",
     "chocolate",
 ]
+cover:
+    image: cookies.jpg
 service: Desserts
 kind: Biscuits and Cookies
 ---
 
 These come from the excellent Mokonuts in Paris. Everything they do is delicious, these as much or more than everything else.
-
-{{< resize-image src="cookies.jpg" alt="Sesame chocolate cookies" >}}
 
 It can be a little difficult to find black sesame seeds. They're not really necessary for flavor purposes. As far as I can tell, they taste exactly like white sesame seeds. But I think it's worth hunting them down for visual interest. Also: yes, this requires an awful lot of sesame seeds.
 

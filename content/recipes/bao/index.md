@@ -7,6 +7,10 @@ tags: [
     "veggie",
     "vegan",
 ]
+cover:
+    image: 
+service: Small Plates
+kind: Dumplings
 ---
 
 There are innumerable ways to make bao, Chinese-style steamed buns. Eventually I'll fill this page with different suggestions for fillings and wrapping techniques. To start, the recipe for the dough.

@@ -8,7 +8,7 @@ tags: [
     "dessert"
 ]
 cover:
-    image: /recipes/tintoretto-amaro/tintoretto.jpg
+    image: 
 service: Desserts
 kind: Cakes
 ---

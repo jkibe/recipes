@@ -12,13 +12,13 @@ tags: [
     "veggie",
     "vegan",
 ]
+cover:
+    image: berries.jpg
 service: Desserts
 kind: Fruit
 ---
 
 My moment of discovery with alcohol and desserts came one of the first times I went to the [River Cafe](https://rivercafe.co.uk) and ordered the panna cotta. At the time, they were serving it with raspberries and a healthy dose of grappa poured over the plate. It wasn't much --- certainly not enough to really affect anything --- but that boozy note was really nice.
-
-{{< resize-image src="berries.jpg" alt="Macerating strawberries" >}}
 
 I've taken that idea and crossed it with a Pimm's cup, usually made with gin and strawberries.
 

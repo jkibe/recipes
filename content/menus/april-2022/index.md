@@ -5,7 +5,8 @@ draft: false
 tags: [
     
 ]
-feature_image: /menus/april-2022/plumbing-wall-wide.jpg
+cover:
+    image: plumbing-wall-wide.jpg
 ---
 
 There isn't a ton of interesting food content for April: my long-awaited renovation [finally got going](http://jkibe.github.io/kitchen145/) at the beginning of April, taking with it my access to a kitchen at home. I'm currently living on a construction site with Zipwalls keeping the areas I'm living in as dust-free as possible.
@@ -13,8 +14,6 @@ There isn't a ton of interesting food content for April: my long-awaited renovat
 If you're interested in following the renovation project, I set up a system to let you [get an email every time there's a new post](https://landing.mailerlite.com/webforms/landing/k3e7b4).
 
 While I didn't have the presence of mind to take any photos of the food, I had the chance to visit Nashville, Tennessee the first week of April.
-
-{{< resize-image src="plumbing-wall-wide.jpg" alt="What was my kitchen" >}}
 
 It's an interesting place culturally. On the one hand, it's clear you're in the South. Most obviously at least to me, the number of people smoking as soon as you walk outside the airport. At the airports I frequent, that group is shunned into special ventilated shelters to protect the rest of us. Ditto the conspicuous lack of options for the vegan and vegetarian members of our group.
 

@@ -9,6 +9,10 @@ tags: [
     "veggie",
     "vegan",
 ]
+cover:
+    image: 
+service: Basics
+kind: Breads
 ---
 
 This is a "liquid" levain, which is to say that you're aiming for a roughly 1:1 ratio of water to flour on each refresh of the culture.

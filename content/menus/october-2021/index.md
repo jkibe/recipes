@@ -5,40 +5,39 @@ draft: false
 tags: [
     
 ]
-feature_image: /menus/october-2021/sf.jpg
+cover:
+    image: sf.jpg
 ---
 
 Summer has clung on with tenacity in New England this year. It was warm enough this weekend to have dinner outside without even a sweater. Though it's certainly (and reassuringly) getting cooler.
 
 All of which is to say, it's been a balancing act. I still haven't done a ragù to try out the fancy Sporkful pasta. The weather hasn't felt bracing enough for something so rich and warming. But I have begun to dabble: I managed to get my hands on delicatta squash to roast, and to get back into soups with a pasta e fagioli and the last of my Rancho Gordo beans. On one of the colder evenings, I did a white wine chicken braise. I could tell I was a bit out of practice: it needed more time braising, and was a bit tough. My seafood risotto --- light enough to feel like a fall dish, but with that creamy, starchy denseness from the stirred rice --- was more successful.
 
-{{< resize-image src="squash.jpg" alt="Delicatta squash" >}}
+![Delicatta squash](squash.jpg)
 
 My more ambitious projects didn't happen. I didn't get around to trying my hand at Poilâne-style apple tarts. Nor did I bend my "no new stuff rule" to get a copy of the new Ottolenghi cookbook. On reflection I wish I'd spent a bit more time being a bit more adventurous.
 
-{{< resize-image src="soup.jpg" alt="Pasta e fagioli" >}}
+![Pasta e fagioli](soup.jpg)
 
 My levain is in much better shape. The bread still isn't quite in top form, but I did a few batches that I was more than pleased with. It was also the first excuse that I had to try out my new camera. Given I hadn't bought a new one for about a decade, it's maybe not that shocking it's a lot better than my old D90.
 
-{{< resize-image src="bread.jpg" alt="Bread" >}}
+![Bread](bread.jpg)
 
 More excitingly, I made it out to the West Coast again for a few days, first in the Bay Area, and then a very brief stop in Seattle.
 
-{{< resize-image src="sf.jpg" alt="North Beach, San Francisco" >}}
-
 I tried what must be the fanciest vegan restaurant in San Francisco. They didn't wear the no-animal-products conceit on their sleeve, and I think they get away with it. It's an Italian restaurant first, and vegan restaurant almost incidentally. Though it must be said there was a slight whiff of abstemiousness. My negroni was excellent and as potent as it should've been. My simulated pasta _alle vongole_ lacked a certain richness and unctuousness, something less forgivable as clams (not, say, butter) are the only ingredient in the original that would be disallowed by their conceit.
 
-{{< resize-image src="baia.jpg" alt="Mafaldine alle (sort of) vongole" >}}
+![Mafaldine alle (sort of) vongole](baia.jpg)
 
 Sadly, I wasn't able to return to any real favorites, like Octavia. But I did make it to a few nice places. There were a few restaurants in Oakland that I definitely enjoyed. One was exactly the sort of neighborhood place that I wish I had around the block from me. My favorite by far (I was too greedily eating to get a photo) was a dish of seared scallops over an herb-y and verdant bed of polenta. Maybe with some brown butter on top. It was great. Another was a more Chicago-style pizza place where I tried a delicious but very dense white pizza with ricotta rather than tomato sauce.
 
-{{< resize-image src="cote.jpg" alt="Oakland egg bread" >}}
+![Oakland egg bread](cote.jpg)
 
-{{< resize-image src="pizza.jpg" alt="Oakland pizza" >}}
+![Oakland pizza](pizza.jpg)
 
 In the city, North Beach --- San Francisco's answer to Little Italy or the North End --- happened to be close to where I was staying, so there was really a lot of Italian food. I'd highly recommend The Italian Homemade company. It definitely doesn't have the fanciest dining room, but the prices are very reasonable and the pasta is fantastic. It must be said, the croissants I got at the various cafés in the area didn't impress me. But I did stumble upon a fantastic pizza place that did probably the best Neapolitan-style pizza that I've had in the last two years.
 
-{{< resize-image src="cafe.jpg" alt="Walking North Beach" >}}
+![Walking North Beach](cafe.jpg)
 
 Up north in Seattle, I didn't really have enough time to explore. I made it back to one of the better French bakeries, and a friend got some very above-average Afghani food.
 

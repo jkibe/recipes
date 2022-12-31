@@ -5,34 +5,33 @@ draft: false
 tags: [
     
 ]
-feature_image: /menus/february-2022/tahini.jpg
+cover:
+    image: tahini.jpg
 ---
 
 In an exciting twist, I think my [kitchen project](https://jkibe.github.io/kitchen145/) may actually happen soon. My architects, contractor, and I are still working out the final details, but it's looking like we'll get going in March. I'll keep this going as well, though it may be more about my descent into madness eating Sweetgreen for dinner five nights a week.
 
 Other than that, the last month has been relatively uneventful. No travel, not a ton of dining out. I did have a chance to try a place called [Bar Mezzana](https://www.barmezzana.com) for the first time, which I'd recommend. There was an attempt to try a new small plate Thai restaurant, but, despite the pandemic, it was impossible to get a table.
 
-{{< resize-image src="tahini.jpg" alt="Tahini sauce" >}}
-
 In my kitchen, this has been an even more Ottolenghi-heavy month than usual. For the salmon with greens and tahini sauce, I started my journey to mastering the simple art of making a tahini sauce. However much people may mock the Ottolenghi gang for the amount of tahini they use, it's such a wonderfully simple sauce, it's difficult not to reflexively put it everywhere. Like a beurre blanc, but a lot less complicated.
 
-{{< resize-image src="salmon.jpg" alt="Za'atar crusted salmon with tahini sauce and greens" >}}
+![Za'atar crusted salmon with tahini sauce and greens](salmon.jpg)
 
 The salmon with greens and tahini sauce did leave something to be desired. It's very tasty. Visually, I can't quite get behind the look of the greens in sauce on the plate. Maybe I need to slightly thin down my sauce more.
 
-{{< resize-image src="fish.jpg" alt="Striped bass with chermoula on a bed of farro and beans" >}}
+![Striped bass with chermoula on a bed of farro and beans](fish.jpg)
 
 The bean-and-farro fish with chermoula was more unambiguously good. I wound up doing striped bass rather than halibut, which, at about $30 per pound at my friendly neighborhood Whole Foods, was a bit rich for a weeknight. I couldn't get the vivid green broad beans, so I swapped in possibly more delicious (if visually blander) borlotti beans instead. It goes without saying, the real triumph of the dish is the chermoula: anything with preserved lemon is a winner in my book.
 
 As a side, I did roasted Brussels sprouts drizzled with --- what else? --- tahini sauce.
 
-{{< resize-image src="sprouts.jpg" alt="Brussels sprouts with tahini sauce" >}}
+![Brussels sprouts with tahini sauce](sprouts.jpg)
 
-{{< resize-image src="pizza.jpg" alt="Pizza" >}}
+![Pizza](pizza.jpg)
 
 My foray into pizza was a bit less exciting. I keep it simple, and I've more or less gotten the process as good as it can get until I have a super hot pizza oven.
 
-{{< resize-image src="croissants.jpg" alt="Croissants" >}}
+![Croissants](croissants.jpg)
 
 After a month-long hiatus, I did another batch of croissants. This was probably my best batch to date, though there were still issues. For my entire arc of mastery so far, the dominant issue is what I'd describe as "butter bleeding." When the croissants bake, you want the butter to stay in the croissants, so they come out rich and soft. If you don't laminate them very well or let them rise enough, though, butter leaks out, and the baking tray is a slick of fat when the croissants come out of the oven.
 

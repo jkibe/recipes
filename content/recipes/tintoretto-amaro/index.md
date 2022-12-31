@@ -16,8 +16,6 @@ I had this at one of those great restaurants that reinvents its menu every day. 
 
 It's been long enough that my memory of the original is hazy. But I liked it enough I wrote down the ingredients, and then the unmodified tintoretto is a standard prosecco-pomegranate cocktail.
 
-{{< resize-image src="tintoretto.jpg" alt="Tintoretto amaro" >}}
-
 ### Ingredients
 
 * 100 g prosecco

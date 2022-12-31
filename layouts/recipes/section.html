@@ -32,8 +32,8 @@
           {{- .Title | markdownify }}
           {{- if .Draft }}<sup><span class="entry-isdraft">&nbsp;&nbsp;[draft]</span></sup>{{- end }}
         </h3>
-        <div class="archive-meta">
-          {{- partial "post_meta.html" . -}}
+        <div class="post-meta">
+        Last modified {{ (.Lastmod | time.Format (default "2 January 2006" site.Params.DateFormat)) }}
         </div>
         <a class="entry-link" aria-label="post link to {{ .Title | plainify }}" href="{{ .Permalink }}"></a>
       </div>

@@ -8,6 +8,10 @@ tags: [
     "veggie",
     "vegan",
 ]
+cover:
+    image: 
+service: Basics
+kind: Breads
 ---
 
 This [recipe](https://www.youtube.com/watch?v=YOkZCTuGvs0) comes to me almost exactly from my favorite YouTube channel, Boulangerie Pas à pas. I won't pretend these are quite as easy as popping to the store and buying burger buns. But they're not all that hard to make and they taste a lot better.

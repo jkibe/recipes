@@ -6,6 +6,8 @@ tags: [
     "breakfast",
     "veggie",
 ]
+cover:
+    image: 
 service: Breakfast
 kind: Hot
 ---

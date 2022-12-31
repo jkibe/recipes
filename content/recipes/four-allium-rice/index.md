@@ -6,7 +6,10 @@ tags: [
     "veggie",
     "rice"
 ]
-genre: "hello"
+cover:
+    image: 
+service: Small Plates
+kind: Grains
 ---
 
 Baked rice isn't a particularly novel concept. But for whatever reason this version from the Ottolenghi team's weekly column in _The Guardian_ really captured my heart.

@@ -5,7 +5,8 @@ draft: false
 tags: [
     
 ]
-feature_image: /menus/may-2022/ff-two-gang.jpg
+cover:
+    image: ff-two-gang.jpg
 ---
 
 The renovation is in full swing. This point in the process feels the way I'd imagine a very long ocean voyage might. You know you're on course, but at the same time you haven't seen land or eaten a  proper meal for weeks.
@@ -13,8 +14,6 @@ The renovation is in full swing. This point in the process feels the way I'd ima
 It's less clear to me that this really will be done in early July, per the contract. And indeed, thanks to the ongoing global pandemic, my oven definitely won't be here until August by the latest. The bread withdrawal is real. Doing a project like this is not for the fainthearted.
 
 But I'm [chronicling the construction process](http://jkibe.github.io/kitchen145/) [elsewhere](https://landing.mailerlite.com/webforms/landing/k3e7b4).
-
-{{< resize-image src="ff-two-gang.jpg" alt="An electrical box" >}}
 
 Here, I wanted to continue sharing peculiar experience of eating restaurant or takeout food at every meal. It's teaching me a lot about myself, the restaurant economy, and the mental burden of choice in a developed country.
 
@@ -34,7 +33,7 @@ Absurd as it may sound, choosing where to go can be difficult. It seems so easy 
 
 When you're eating takeout every day for every meal, a choice dilemma creeps in. Am I really in the mood for cheap and cheerful Japanese? When was the last time I had it?
 
-{{< resize-image src="ramen.jpg" alt="Ramen" >}}
+![Ramen](ramen.jpg)
 
 On top of which there's the literal physical work required to make it happen. You have to figure out which of the online ordering platforms the restaurant uses for takeout. Or you have to call them, and spend a few minutes softly screaming into the phone while an overburdened front of house person logs your order. Then you have to get to the restaurant, wait, pick the food up and (in most cases) take a longer route home due to the food detour.
 
@@ -42,7 +41,7 @@ None of which is really that strenuous. On the scale of adversity, the minor inc
 
 It does make me more sympathetic to the argument someone like Jamie Oliver makes around (as he would call them) takeaways. In his worldview, with a bit of thoughtful planning and knowledge, making dinner at home is actually a lot cheaper and faster than getting takeout.
 
-{{< resize-image src="charles.jpg" alt="Outdoor dining" >}}
+![Outdoor dining](charles.jpg)
 
 There was a part of me that did (or still does) find that problematic. In the vein of something like Sarah Bowen and coauthor's paper [_The Joy of Cooking?_](https://journals.sagepub.com/doi/full/10.1177/1536504214545755), getting people back into the kitchen is not really the answer to the obesity crisis so much as addressing deeper issues like the wage stagnation that means a household's adults barely have time for anything, let alone cooking more expensive healthy food their children may reject.
 

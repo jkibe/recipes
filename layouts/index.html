@@ -1,69 +1,71 @@
 {{ define "main" }}
-<div class = "article-content">
+    <div class="post-content">
         <h1>Welcome</h1>
+
         <p>In the spring of 2020 the world shut down confronted with an immense public health crisis. It meant I couldn't eat out, be fed by friends, or even go to the store more than once a week. I started a weekly newsletter to document my experience over the span of that unusual period in our history.</p>
+
         <p>I've decided to continue that on a slightly different basis while slowly transitioning my paper notebooks into a digital format. Each month, I'll do a write up in the What's Cooking section, the latest just below. In the Recipes section, I'll slowly add and refine the formulas for what I cook and bake.</p>
-
-        {{ if isset .Site.Params "description" }}
-        <div class="description">
-            <p>{{ .Site.Params.Description | markdownify }}</p>
-        </div>
-        {{ end }}
-
-        <h2>What I'm Cooking</h2>
-
-        {{ range where .Site.RegularPages "Type" "menus" | first 1 }}
-        <article>
-            <h3>
-                <a href="{{ .Permalink }}">
-                    {{ .Title }}
-                </a>
-            </h3>
-            <p><img class="article-image" src='{{ .Param "feature_image" }}'></p>
-
-            <p>{{ .Summary }}</p>
-            <div class="post-footer">
-
-            <!-- Display tags -->
-            {{if .Params.tags}}
-                {{ range .Params.tags }}
-                    <a class="tag" href="/tags/{{ . | urlize }}">#{{.}}</a>
-                {{ end }}
-            {{ end }}
-            </div> 
-           
-        </article>
-        {{ end }}
-
-        <h2>Newest Recipes</h2>
-
-        {{ range where .Site.RegularPages "Type" "recipes" | first 5 }}
-        <article>
-            <h3>
-                <a href="{{ .Permalink }}">
-                    {{ .Title }}
-                </a>
-            </h3>
-
-            {{if .Params.blurb }}
-            <p>{{ .Param "blurb" }}</p>
-            {{ end }}
-
-            {{if .Params.feature_image }}
-            <p><img class="article-image" src='{{ .Param "feature_image" }}'></p>
-            {{ end }}
-
-            <div class="post-footer">
-
-            <!-- Display tags -->
-            {{if .Params.tags}}
-                {{ range .Params.tags }}
-                    <a class="tag" href="/tags/{{ . | urlize }}">#{{.}}</a>
-                {{ end }}
-            {{ end }}
-            </div> 
-           
-        </article>
-        {{ end }}
     </div>
+
+    <hr>
+
+    <div class="post-content">
+    <h2>What I'm Cooking</h2>
+
+    {{ range where .Site.RegularPages "Type" "menus" | first 1 }}
+    <article>
+        <h3>
+            <a href="{{ .Permalink }}">
+                {{ .Title }}
+            </a>
+        </h3>
+        
+        {{- $isHidden := (site.Params.cover.hidden | default site.Params.cover.hiddenInList) }}
+        {{- partial "cover.html" (dict "cxt" . "IsHome" true "isHidden" $isHidden) }}
+
+        <p>{{ .Summary }}</p>
+        <div class="post-footer">
+
+        <!-- Display tags -->
+        {{if .Params.tags}}
+            {{ range .Params.tags }}
+                <a class="tag" href="/tags/{{ . | urlize }}">#{{.}}</a>
+            {{ end }}
+        {{ end }}
+        </div> 
+        <a class="entry-link" aria-label="post link to {{ .Title | plainify }}" href="{{ .Permalink }}"></a>
+    </article>
+    {{ end }}
+
+    </div>
+
+    <hr>
+
+    <header class="page-header">
+        <h2>Newest Recipes</h2>
+    </header>
+
+    {{ range where .Site.RegularPages "Type" "recipes" | first 5 }}
+        <article class="post-entry">
+          {{- $isHidden := (site.Params.cover.hidden | default site.Params.cover.hiddenInList) }}
+          {{- partial "cover.html" (dict "cxt" . "IsHome" true "isHidden" $isHidden) }}
+          <header class="entry-header">
+            <h2>
+              {{- .Title }}
+              {{- if .Draft }}<sup><span class="entry-isdraft">&nbsp;&nbsp;[draft]</span></sup>{{- end }}
+            </h2>
+          </header>
+          {{- if (ne (.Param "hideSummary") true) }}
+          <div class="entry-content">
+            <p>{{ .Summary | plainify | htmlUnescape }}{{ if .Truncated }}...{{ end }}</p>
+          </div>
+          {{- end }}
+          {{- if not (.Param "hideMeta") }}
+          <footer class="entry-footer">
+            {{- partial "post_meta.html" . -}}
+          </footer>
+          {{- end }}
+          <a class="entry-link" aria-label="post link to {{ .Title | plainify }}" href="{{ .Permalink }}"></a>
+        </article>
+    {{ end }}
 {{ end }}

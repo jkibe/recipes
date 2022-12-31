@@ -8,6 +8,10 @@ tags: [
     "veggie",
     "vegan",
 ]
+cover:
+    image: 
+service: Basics
+kind: Sauces
 ---
 
 This is a salsa in the Mexican, rather than Italian sense. I don't entirely remember how this name came to be. Perhaps that this is a step up from the most basic salsa it's possible to make, tossing a few ingredients together in a bowl. This one requires some (though not much) actual cooking.

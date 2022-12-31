@@ -3,7 +3,8 @@ languageCode = "en-us"
 title = "The Recipe Log"
 theme = "PaperMod"
 summaryLength = 10
-paginate = 4
+paginate = 10
+enableGitInfo = true
 
 [params]
   disableThemeToggle = true
