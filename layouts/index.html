@@ -20,8 +20,10 @@
             </a>
         </h3>
         
+        <a href="{{ .Permalink }}">
         {{- $isHidden := (site.Params.cover.hidden | default site.Params.cover.hiddenInList) }}
         {{- partial "cover.html" (dict "cxt" . "IsHome" true "isHidden" $isHidden) }}
+        </a>
 
         <p>{{ .Summary }}</p>
         <div class="post-footer">
@@ -33,7 +35,6 @@
             {{ end }}
         {{ end }}
         </div> 
-        <a class="entry-link" aria-label="post link to {{ .Title | plainify }}" href="{{ .Permalink }}"></a>
     </article>
     {{ end }}
 
