@@ -20,7 +20,7 @@ One challenge is replicating the environment in a professional oven. They typica
 
 I'm a huge fan of the [baking steel](https://bakingsteel.com) from a company of the same name. It's what it says on the tin: a 7 kilo slab of steel. For the steam, I stick a standard baking tray (such as a half-sheet pan) in the oven during the preheat, and then dump boiling water onto that after sliding in the bread. If you want to go to the next level, it's possible to get a home combi-oven (Miele makes [a nice one](https://www.mieleusa.com/e/steam-oven-with-full-fledged-oven-function-and-xxl-cavity-dgc-6760-clean-touch-steel-10265740-p)) or something like the Anova [Precision Oven](https://anovaculinary.com/anova-precision-oven/).
 
-Shaping baguettes is a pretty complicated procedure. I've learned everything I know watching the excellent Boulangerie Pas à Pas channel on YouTube. I'll attempt to describe the process here in text, but you're much better off watching his videos (even if you don't understand what he's saying) than trying to puzzle through with my instructions.
+Shaping baguettes is a pretty complicated procedure. I've learned everything I know watching the excellent [Boulangerie Pas à Pas channel](https://www.youtube.com/boulangeriepasapas) on YouTube. I'll attempt to describe the process here in text, but you're much better off watching his videos (even if you don't understand what he's saying) than trying to puzzle through with my instructions.
 
 ### Special equipment
 
@@ -30,7 +30,7 @@ Shaping baguettes is a pretty complicated procedure. I've learned everything I k
 
 ### Ingredients
 
-* 150 g levain liquide
+* 150 g [levain liquide](/recipes/levain-liquide)
 * 200 g water (at around 30 °C)
 * 375 g all-purpose flour
 * 5 g salt
