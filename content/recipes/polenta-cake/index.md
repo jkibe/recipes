@@ -7,6 +7,10 @@ tags: [
     "dessert",
     "veggie"    
 ]
+cover:
+    image: 
+service: Desserts
+kind: Cakes
 ---
 
 This is one of my go-to desserts. I've adapted it from something I've had at the wonderful [River Cafe](http://rivercafe.co.uk) in London. The original version has more drama: it's much larger and made in a very wide cake tin. This version is cozier and more scaled to a small dinner.

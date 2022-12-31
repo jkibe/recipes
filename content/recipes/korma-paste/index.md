@@ -9,11 +9,13 @@ tags: [
     "veggie",
     "vegan",
 ]
+cover:
+    image: paste.jpg
+service: Basics
+kind: Sauces
 ---
 
 After doing some research, I decided to use [this recipe](https://nishkitchen.com/korma-paste/) from Nish Kitchen as a starting point.
-
-{{< resize-image src="paste.jpg" alt="Korma paste" >}}
 
 For the current version, I made some changes (i.e., omitted or substituted ingredients) based on what I had on hand.
 

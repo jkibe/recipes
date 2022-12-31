@@ -5,12 +5,11 @@ draft: false
 tags: [
     
 ]
-feature_image: /menus/march-2022/kitchen.jpg
+cover:
+    image: kitchen.jpg
 ---
 
 March has been a roller coaster. My kitchen project is finally charging ahead. I've signed the contract for the work, and, in what must be a first for a construction project (and certainly this construction project), it's running ahead of schedule. My contractors applied for the permit on a Monday, and they had it two days later, rather than the 30 they were expecting! As I think about it, this is likely the last edition of this from my current kitchen.
-
-{{< resize-image src="kitchen.jpg" alt="A very old range" >}}
 
 If you'd like to follow along on the project, I finally went to the trouble of setting up a tool to [send an email update](https://landing.mailerlite.com/webforms/landing/k3e7b4) when I make a new post.
 
@@ -20,7 +19,7 @@ That project has inspired some fun combinations to make sure I don't waste any f
 
 While flour is not necessarily perishable, the less I have to store, the easier, and I had half a bag of 00 flour left over. I suppose I could've made fresh pasta, but faced with the choice I decided to do another batch of pizza.
 
-{{< resize-image src="pizza.jpg" alt="Pizza" >}}
+![Pizza](pizza.jpg)
 
 Not to say there was no space for me to experiment.
 
@@ -28,7 +27,7 @@ I did get around to one of the desserts I had been planning to try out. While th
 
 On the savory side, I tried out the Ottolenghi smoky eggplant pasta. It got me closer to using up my cascatelli pasta as well. I was a little skeptical at first, given tahini isn't something typically used in Italian food. But true to form, it was very good.
 
-{{< resize-image src="pasta.jpg" alt="Eggplant pasta" >}}
+![Eggplant pasta](pasta.jpg)
 
 Also from the Ottolenghi kitchen: confit chickpeas. I did these for the first time sometime in 2020 or 2021, during the (even more) acute phase of the pandemic. They're amazingly easy, and completely delicious.
 

@@ -7,6 +7,10 @@ tags: [
     "taco",
     "veggie",
 ]
+cover:
+    image: 
+service: Small Plates
+kind: Tacos
 ---
 
 From a [Rick Bayless recipe](https://www.rickbayless.com/recipe/roasted-cauliflower-tacos-with-poblano-chile-and-caramelized-onion/).

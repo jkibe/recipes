@@ -5,20 +5,19 @@ draft: false
 tags: [
     
 ]
-feature_image: /menus/october-2022/sprinkler-moved.jpg
+cover:
+    image: sprinkler-moved.jpg
 ---
 
 For a variety of reasons, this is late by a couple of weeks.
 
 Unfortunately this was not because my new kitchen was so close to completion, waiting another week would make the difference. Though there's been at least some progress since last month. The fire protection contractor came along to take care of moving a sprinkler since I'm moving my cooktop, which removed a project impediment that was my (rather than the general contractor's) responsibility.
 
-{{< resize-image src="appliances-oven-open.jpg" alt="New oven, open" >}}
+![New oven, open](appliances-oven-open.jpg)
 
 In the meantime, it's been something of a quiet few weeks food-wise as I've bided my time on the project. I'm still stuck in the takeout grind, and there's not much to say about that.
 
 Anticipating the eventual completion of the new kitchen, however, I've restarted my levain. Last weekend, I also borrowed a kitchen to try it out.
-
-{{< resize-image src="sprinkler-moved.jpg" alt="Relocated sprinkler" >}}
 
 The first attempt left something to be desired. I also didn't have the presence of mind to remember my camera and take a photo. You're not missing much.
 

@@ -7,11 +7,13 @@ tags: [
     "veggie",
     "vegan",
 ]
+cover:
+    image: choufleur.jpg
+service: Small Plates
+kind: Veggies
 ---
 
 This is a simple, excellent way to prepare cauliflower. I claim no credit: it was made famous by Café Miznon. They have locations all around the world; I learned about it [via Le Fooding](https://lefooding.com/en/recipes-video-toquera/toquera-295-an-affair-with-un-chou-fleur).
-
-{{< resize-image src="choufleur.jpg" alt="Cauliflower" >}}
 
 At home, I've found it easier to split the cauliflower in half for the boiling step. Even my biggest stockpot is a bit too small to completely contain the cauliflower that I buy.
 

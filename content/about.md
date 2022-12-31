@@ -37,3 +37,10 @@ Accordingly, where possible I've tried to tag recipes with annotations like "veg
 
 On the other hand, I don't have a lot of time for fad diets or restrictions based on flimsy to non-existent evidence. You will not find a gluten-free label because I have enough faith in people with genuine gluten intolerance to also have the intelligence to check whether the recipe calls for wheat flour.
 
+## Copyright and IP policy
+
+### Remix, considerately
+
+This entire site --- even the source code itself --- is [open-source](http://github.com/jkibe/recipes). You're more than welcome to do whatever you want with it with a couple of restrictions. First, don't take what I've done and sell it. Non-commercial use only, please. Second, please credit me.
+
+

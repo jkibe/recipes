@@ -9,11 +9,13 @@ tags: [
     "christmas",
     "veggie",
 ]
+cover:
+    image: biscuits.jpg
+service: Desserts
+kind: Biscuits and Cookies
 ---
 
 I came across these biscuits while I began learning the Danish language during the 2020 pandemic, and also wanted to immerse myself in the culture. These are wonderfully minimal. Not too difficult and delicious.
-
-{{< resize-image src="biscuits.jpg" alt="Pebernødder ready to bake" >}}
 
 I've translated [this recipe from Alt](https://www.alt.dk/mad/opskrift/pebernodder-a-la-lagkagehuset), in Danish. At some point I'll convert the volumes to weights.
 

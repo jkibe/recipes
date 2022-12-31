@@ -5,18 +5,17 @@ draft: false
 tags: [
     
 ]
-feature_image: /menus/june-2022/plumbing-sink-rough.jpg
+cover:
+    image: plumbing-sink-rough.jpg
 ---
 
 The [kitchen project](https://jkibe.github.io/kitchen145/) is behind schedule. For perhaps understandable reasons: they found asbestos that had to be removed, and the electrical work to bring everything up to code has been difficult. As of writing, I believe the first fix plumbing is now done, but the electric isn't. That's next, and after that they can close the walls and start installing the millwork.
-
-{{< resize-image src="plumbing-sink-rough.jpg" alt="Sink rough in" >}}
 
 Because they were working on the power and water in my apartment, though, I had to relocate for a couple of weeks, which gave me a chance to do a bit of cooking for a change.
 
 I tried making a [babka](https://www.youtube.com/watch?v=Gc61v-1oyUg) for the first time, taking a cue from my favorite YouTube baking channel. It came out pretty nicely. My only real issue was a mismatch between the loaf size and the size of the loaf pan. The loaves were delicious, but looked a little spare in pans that were too big.
 
-{{< resize-image src="babka.jpg" alt="Babka" >}}
+![Babka](babka.jpg)
 
 One of my locations gave me the chance to do a [grilled pizza](https://www.youtube.com/watch?v=GkDYsQkXbxw) for the first time in ages. It was pretty clear that I'm out of practice, though by the last pizza I had gotten closer to mastery. More than anything, I felt the lack of counter space most limiting. You need a fair bit of space to assemble because you add the toppings on the grill itself.
 

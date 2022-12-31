@@ -9,6 +9,10 @@ tags: [
     "veggie",
     "baking",
 ]
+cover:
+    image: 
+service: Desserts
+kind: Biscuits and Cookies
 ---
 
 ### Ingredients

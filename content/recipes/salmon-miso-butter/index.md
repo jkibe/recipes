@@ -9,6 +9,10 @@ tags: [
     "usa",
     "fish",
 ]
+cover:
+    image: 
+service: Mains
+kind: Fish
 ---
 
 I stole the concept for this dish from a great restaurant in Portland, Oregon. I'd like to think I've made this at home often enough to call this my take.

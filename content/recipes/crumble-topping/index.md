@@ -7,11 +7,13 @@ tags: [
     "uk",
     "veggie",
 ]
+cover: 
+    image: crumble.jpg
+service: Desserts
+kind: Fruit
 ---
 
 A crumble is about the easiest dessert it's possible to make. Get good fruit, toss it in a bit of sugar to taste, add some cornflour to thicken, and then cover with this topping.
-
-{{< resize-image src="crumble.jpg" alt="Mixed berry crumble" >}}
 
 It's so easy, I haven't really felt the need to write the recipe for the actual crumble. For anyone else reading this, bake at around 220 °C (425 °F) for about 20 minutes. You're looking for the fruit to bubble and the topping to brown nicely.
 

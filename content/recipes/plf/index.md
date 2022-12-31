@@ -8,15 +8,17 @@ tags: [
     "baking",
     "veggie",
 ]
+cover:
+    image: croissants.jpg
+service: Basics
+kind: Viennoiserie
 ---
 
 This is the dough to make _viennoiserie_, risen buttery concoctions like croissants and pains au chocolat. It's incredibly fiddly to say the least.
 
-{{< resize-image src="dough.jpg" alt="PLF after two turns" >}}
+![PLF after two turns](dough.jpg)
 
 One essential step: get the best --- by which I mean highest fat content --- butter you can find. Kerrygold is widely available in the US, and is a good option.
-
-{{< resize-image src="croissants.jpg" alt="Croissants" >}}
 
 It's also critical that you weigh out the ingredients and work with precision. It may look strange to see a measurement like 10 grams of egg, but that is not a mistake. Use a whole egg (about 50 g) and this won't work very well. Likewise, this is one case where trying to get everything to be uniform and angles as close to 90° as possible will do you favors. The more robotic you can be, the better the results.
 
