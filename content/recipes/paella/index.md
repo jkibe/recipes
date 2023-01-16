@@ -21,6 +21,8 @@ The trick with paella is replicating the technical conditions a "traditional" on
 
 My workaround is pretty simple: only cook paella for one or two people at a time. Even on my (as of writing) circa 1980 GE electric range, this works. If you want to cook for a bigger group and don't want to build a wood fire, a grill (gas or otherwise) actually does work pretty well.
 
+![Paella](cooking.jpg)
+
 The prototypical Valencian paella would have terrestrial protein, typically chicken, rabbit, or perhaps snails. You can make it with almost anything: add more and different veggies to do a veggie version, or swap in seafood, which is my favorite. If you can't find one of the ingredients I've listed below, don't hesitate to make a substitution. Haricots verts work really well in place of the runner beans, and if you don't (or can't) get only a handful of fresh mussels, no one will notice if you skip them. Though if you skip the rice, paprika, or saffron, I'm not sure you're really making paella.
 
 ### Special equipment

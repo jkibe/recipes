@@ -10,7 +10,7 @@ tags: [
     "vegan",
 ]
 cover:
-    image: 
+    image: levain.jpg
 service: Basics
 kind: Breads
 ---
