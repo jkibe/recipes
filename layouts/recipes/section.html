@@ -32,7 +32,9 @@
         {{- range .Pages }}
           {{- if and (.Params.cover.image) (not $foundImage) }}
               {{- $isHidden := (site.Params.cover.hidden | default site.Params.cover.hiddenInList) }}
+              <a href="{{ .Permalink }}">
               {{- partial "cover.html" (dict "cxt" . "IsHome" true "isHidden" $isHidden) }}
+              </a>
               {{- $foundImage = true }}
           {{- end }}
         {{- end }}
