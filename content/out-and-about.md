@@ -5,7 +5,7 @@ type: section
 
 ## Les bonnes addresses
 
-A list of places I like to eat out.
+A non-exhaustive list of places I like to eat out. Prices approximate.
 
 * **$** Under $20 per person
 * **$$** Under $60 per person
@@ -42,16 +42,6 @@ A list of places I like to eat out.
 * [Honey & Co](https://honeyandco.co.uk), Middle Eastern, $$
 * [River Cafe](http://rivercafe.co.uk), Italian, $$$
 * [Bibendum](https://claudebosi.com), French, $$$
-
-### New York, USA
-
-* [Balthazar](https://balthazarny.com), French, $$
-* [Bâtard](https://www.batardtribeca.com), French, $$$
-* [Café Luxembourg](https://cafeluxembourg.com), French, $$
-* [Il laboratorio del gelato](https://www.laboratoriodelgelato.com), Dessert, $
-* [Marta](https://www.martamanhattan.com), Italian, $$
-* [Mermaid Inn](https://www.themermaidnyc.com), Seafood, $$
-* [The Smith](https://thesmithrestaurant.com), New American, $$
 
 ### Paris, France
 
@@ -90,6 +80,16 @@ A list of places I like to eat out.
 ### Nashville, USA
 
 * [Etch](http://etchrestaurant.com), New American, $$
+
+### New York, USA
+
+* [Balthazar](https://balthazarny.com), French, $$
+* [Bâtard](https://www.batardtribeca.com), French, $$$
+* [Café Luxembourg](https://cafeluxembourg.com), French, $$
+* [Il laboratorio del gelato](https://www.laboratoriodelgelato.com), Dessert, $
+* [Marta](https://www.martamanhattan.com), Italian, $$
+* [Mermaid Inn](https://www.themermaidnyc.com), Seafood, $$
+* [The Smith](https://thesmithrestaurant.com), New American, $$
 
 ### San Francisco, USA
 
