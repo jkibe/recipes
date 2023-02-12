@@ -38,7 +38,7 @@ enableGitInfo = true
 
 [[menu.main]]
     identifier = "out-and-about"
-    name = "Out and About"
+    name = "Out & About"
     url = "/out-and-about"
     weight = 3
 
