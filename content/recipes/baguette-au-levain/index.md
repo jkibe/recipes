@@ -18,6 +18,8 @@ While there is some pleasure to be had in baking my own bread, I'd honestly be a
 
 One challenge is replicating the environment in a professional oven. They typically have a baking surface that's a lot more substantial than a home baking tray. This lets them act as an energy store that blasts the dough with energy as it goes in the oven. They also have steam injectors that create a very humid environment for the bake. The crust can only form when enough water has been driven out of the surface to allow browning reactions to occur. Delaying the crust formation by preventing the surface from drying out means more time for the bread to rise and expand in the oven.
 
+![A cut section of baguette](slice.jpg)
+
 I'm a huge fan of the [baking steel](https://bakingsteel.com) from a company of the same name. It's what it says on the tin: a 7 kilo slab of steel. For the steam, I stick a standard baking tray (such as a half-sheet pan) in the oven during the preheat, and then dump boiling water onto that after sliding in the bread. If you want to go to the next level, it's possible to get a home combi-oven (Miele makes [a nice one](https://www.mieleusa.com/e/steam-oven-with-full-fledged-oven-function-and-xxl-cavity-dgc-6760-clean-touch-steel-10265740-p)) or something like the Anova [Precision Oven](https://anovaculinary.com/anova-precision-oven/).
 
 Shaping baguettes is a pretty complicated procedure. I've learned everything I know watching the excellent [Boulangerie Pas à Pas channel](https://www.youtube.com/boulangeriepasapas) on YouTube. I'll attempt to describe the process here in text, but you're much better off watching his videos (even if you don't understand what he's saying) than trying to puzzle through with my instructions.
