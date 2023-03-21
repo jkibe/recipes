@@ -20,12 +20,28 @@ These are really like a lighter, simpler hot cross bun: cardamom instead of all 
 
 125 g unsalted butter
 250 g whole milk
-50 g yeast
-50 g (about 1) egg
+7.5 g yeast
+50 g (about 1) egg, beaten
 500 g all-purpose flour
-10 g ground cardamom
+5 g ground cardamom
 5 g salt
-
+20 g light brown sugar
 
 ### Method
 
+Melt the butter, then add the milk and heat to around 40 C
+
+Add that to mixer bowl, add the yeast
+Add the egg
+Add dry ingredients
+
+Mix with hook for ~8 minutes
+Prove ~1 hour
+
+Divide into 16
+
+Prove 30 minutes
+
+Brush with egg
+
+Bake 200 C convection about 15 minutes
