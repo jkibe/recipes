@@ -13,7 +13,7 @@ service: Desserts
 kind: Cakes
 ---
 
-This is one of my favorite ways to make chocolate cake. It's moist, rich, and incredibly chocolate-forward. And incidentally vegan to boot. To quote Nigella Lawson, whose recipe I have liberally adapted here, "No need to fofer explanations; you just need to offer the cake."
+This is one of my favorite ways to make chocolate cake. It's moist, rich, and incredibly chocolate-forward. And incidentally vegan to boot. To quote Nigella Lawson, whose recipe I have liberally adapted here, "No need to offer explanations; you just need to offer the cake."
 
 The coconut butter the original recipe calls for initially tripped me up a bit. If I were braver, perhaps I'd email the woman herself and ask for clarification. In the meantime, I've come to understand "coconut butter" as vegan butter substitutes made with coconut oil.
 
