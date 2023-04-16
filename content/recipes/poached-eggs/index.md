@@ -8,7 +8,7 @@ tags: [
     "veggie",
 ]
 cover:
-    image: 
+    image: eggs.jpg
 service: Basics
 kind: Eggs
 ---
