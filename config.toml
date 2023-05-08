@@ -9,6 +9,7 @@ rssLimit = 10
 
 [params]
   disableThemeToggle = true
+  ShowFullTextinRSS = true
 
 [taxonomies]
   tag = "tags"
