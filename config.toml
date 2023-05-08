@@ -56,3 +56,9 @@ rssLimit = 10
     url = "/tags"
     weight = 10
 
+[[menu.main]]
+    identifier = "subscribe"
+    name = "Subscribe"
+    url = "/subscribe"
+    weight = 10
+
