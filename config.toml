@@ -5,6 +5,7 @@ theme = "PaperMod"
 summaryLength = 10
 paginate = 10
 enableGitInfo = true
+rssLimit = 10
 
 [params]
   disableThemeToggle = true
