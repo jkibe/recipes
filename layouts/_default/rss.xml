@@ -39,22 +39,13 @@
       <pubDate>{{ .Date.Format "Mon, 02 Jan 2006 15:04:05 -0700" | safeHTML }}</pubDate>
       {{ with site.Author.email }}<author>{{.}}{{ with site.Author.name }} ({{.}}){{end}}</author>{{end}}
       <guid>{{ .Permalink }}</guid>
-      <description>
-        {{- if .Params.cover.image }}
-        {{ (printf "<img src='%s%s'>" .Permalink .Params.cover.image) | safeHTML }}
-        {{- end}}  
-        {{ with .Description | html }}
-        {{ . }}
-        {{ else }}
-        {{ .Summary | html }}
-        {{ end -}}
-      </description>
+      <description>{{ with .Description | html }}{{ . }}{{ else }}{{ .Summary | html }}{{ end -}}</description>
       {{- if .Params.cover.image }}
       <media:content url="{{ .Permalink }}{{ .Params.cover.image }}" />
       {{- end}}
       {{- if site.Params.ShowFullTextinRSS }}
       <content:encoded>        
-        {{ (printf "<![CDATA[%s]]>" .Content) | safeHTML }}
+        {{ (printf "<![CDATA[<p><img src='%s%s'></p> %s]]>" .Permalink .Params.cover.image .Content) | safeHTML }}
       </content:encoded>
       {{- end }}
     </item>
