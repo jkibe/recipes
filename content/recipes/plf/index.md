@@ -52,7 +52,17 @@ Roll the dough into a roughly 20 by 26 cm (8 by 10 inch) rectangle, taking care 
 
 When the dough has finished resting, place the butter between sheets of baking paper and gently pound it into a thin rectangle about 18 by 13 cm (7 by 5 inches). It should be approximately the same height as the dough and about half the width so it can be encased.
 
+![Detrempe](step1.jpg)
+
+![Encasing](step2.jpg)
+
+![Sealing](step3.jpg)
+
 Place the butter in the center of the dough sheet, and then fold the left and right sides of the dough over to encase the butter. The dough should just touch and not overlap. Then with a rolling pin, gently push to seal the butter inside. Roll the dough out perpendicular to the seam. It should be about 50 cm (20 inches) and about 3 mm (about 1/8 inch) thick.
+
+![First fold](step4.jpg)
+
+![Second fold](step5.jpg)
 
 Now complete the first turn. With the long side of the dough parallel to your body, fold a few centimeters from the left over, and then fold from the other side to meet it. Fold this in half again, and gently press it together to seal with a rolling pin. Using a baker's lame or sharp knife, slit the dough at each of the three folds. Wrap the dough in plastic again, and refrigerate it for about 45 minutes to let the butter firm back up.
 
