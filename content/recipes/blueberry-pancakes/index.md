@@ -14,7 +14,7 @@ kind: Hot
 
 If I'm at home on a Sunday morning, I make pancakes. The recipe has gone through many variations over time: this is my current favorite. The tahini gives it a nice earthiness versus the tang of crème fraîche.
 
-While hardly make-or-break, I like using small wild blueberries from the Northeast over the larger ones cultivated more deliberately. They tend to be smaller and thus incorporate more nicely into the batter.
+While hardly make-or-break, I like using small wild blueberries from the Northeast over the larger cultivated ones. They tend to be smaller and thus incorporate more nicely into the batter.
 
 It doesn't really matter what kind of flour you use. I like the in-between character of King Arthur's white whole wheat flour here. All-purpose works, as does whole wheat. I find the whole wheat a little too stogy and the all-purpose a little too saccharine.
 
@@ -36,7 +36,7 @@ If you're in the mood for something with more of a buttermilk-style tang than ea
 
 ### Method
 
-Combine the flour, baking powder, sugar, and salt in a mixing bowl. With a whisk, stir the dry ingredients together until they're well-combined. Then make a well in the center of the dry ingredients, and pour in the milk, eggs, and tahini. Whisk together the wet ingredients in the center of the bowl, then gently minimally mix the wet and try ingredients together.
+Combine the flour, baking powder, sugar, and salt in a mixing bowl. With a whisk, stir the dry ingredients together until they're well-combined. Then make a well in the center of the dry ingredients, and pour in the milk, eggs, and tahini. Whisk together the wet ingredients in the center of the bowl, then gently and minimally mix the wet and dry ingredients together. The mixture should be lumpy, not smooth. You're really only looking to get rid of any very large pockets of dry ingredients.
 
 Heat a nonstick frying pan or griddle over medium-low heat. When it's up to temperature, add a small amount of butter. Swirl the butter around the pan to coat the bottom, and then take a kitchen towel and wipe out the excess. We are only looking for a small amount of fat on the surface of the pan.
 
