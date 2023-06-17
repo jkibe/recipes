@@ -7,7 +7,7 @@ tags: [
     "vegan"
 ]
 cover:
-    image: 
+    image: chickpeas.jpg
 service: Mains
 kind: Veggies
 ---

@@ -9,7 +9,7 @@ tags: [
     "anchovy",
 ]
 cover:
-    image: 
+    image: sauce.jpg
 service: Basics
 kind: Sauces
 ---
