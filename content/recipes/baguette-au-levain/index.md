@@ -20,7 +20,7 @@ One challenge is replicating the environment in a professional oven. They typica
 
 ![A cut section of baguette](slice.jpg)
 
-I'm a huge fan of the [baking steel](https://bakingsteel.com) from a company of the same name. It's what it says on the tin: a 7 kilo slab of steel. For the steam, I stick a standard baking tray (such as a half-sheet pan) in the oven during the preheat, and then dump boiling water onto that after sliding in the bread. If you want to go to the next level, it's possible to get a home combi-oven (Miele makes [a nice one](https://www.mieleusa.com/e/steam-oven-with-full-fledged-oven-function-and-xxl-cavity-dgc-6760-clean-touch-steel-10265740-p)) or something like the Anova [Precision Oven](https://anovaculinary.com/anova-precision-oven/).
+I'm a huge fan of the [baking steel](https://bakingsteel.com) from a company of the same name. It's what it says on the tin: a 7 kilo slab of steel. For the steam, I stick a standard baking tray (such as a half-sheet pan) in the oven during the preheat, and then dump boiling water onto that after sliding in the bread. If you want to go to the next level, it's possible to get a home combi-oven (Miele makes nice ones) or something like the Anova [Precision Oven](https://anovaculinary.com/anova-precision-oven/).
 
 Shaping baguettes is a pretty complicated procedure. I've learned everything I know watching the excellent [Boulangerie Pas à Pas channel](https://www.youtube.com/boulangeriepasapas) on YouTube. I'll attempt to describe the process here in text, but you're much better off watching his videos (even if you don't understand what he's saying) than trying to puzzle through with my instructions.
 
@@ -45,14 +45,27 @@ Fold the dough over itself to create a smooth surface. Then tightly cover the mi
 
 Take the dough out of the refrigerator and let it come up to room temperature. It doesn't need to warm up completely: around 17 °C is fine. Divide the dough into thirds (each portion will be around 240 g), and form them into small oblongs. Place those on a floured couche to relax for about 10 minutes.
 
+![The portioned dough](1.jpg)
+
 At this point, preheat your oven to 250 °C (480 °F) with the baking stone and second sheet pan inside. You want everything to be extremely hot when you start baking.
 
 Form the baguettes by taking a portion of dough and gently patting it out into a rectangle. With the longer side parallel to your body, fold the top quarter down into the center, gently pressing with your fingers to seal the dough together. Turn the dough 180 degrees, and repeat again. Then fold the two halves over each other, pressing firmly but gently to seal the shaped baguette. Gently roll the dough to even it out, and then transfer it back to the couche.
 
-Cover the bread and let the baguettes rise for about an hour, until they're about 50% bigger by volume. You're not looking for a dramatic rise.
+![Flattened](2.jpg)
+![First fold](3.jpg)
+![Second fold](4.jpg)
+![Baguettes on a couche](couche.jpg)
 
-Then transfer those to a baking peel and slide them directly onto the preheated baking stone in the oven. If you're not using a steam or combi-oven, pour boiling water into the preheated baking tray to generate water vapor. This all needs to be done as quickly as possible.
+Cover the bread and let the baguettes rise for about an hour, until they're about 20-30% bigger by volume. You're not looking for a dramatic rise.
+
+![Baguettes after a rise](ready.jpg)
+
+![Scarifiée](scarifiee.jpg)
+
+Then transfer those to a baking peel, score each loaf, and slide them directly onto the preheated baking stone in the oven. If you're not using a steam or combi-oven, pour boiling water into the preheated baking tray to generate water vapor. This all needs to be done as quickly as possible.
 
 Bake the bread for 15-25 minutes. How dark you'd like the bread is a matter of taste. For a baguette, you would be a little eccentric if it's too light (which smacks of questionable grocery store "French" "bread") or has the deep amber color of a classic Poilâne mîche.
+
+![Finished](finished.jpg)
 
 Slide the bread out of the oven and let it cool, inverted, to room temperature.
