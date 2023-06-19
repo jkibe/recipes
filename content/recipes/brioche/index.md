@@ -13,13 +13,15 @@ kind: Breads
 
 This is a great basic brioche recipe I've taken from my favorite YouTube channel on baking.
 
-There are million different ways to take this dough and turn it into bread. I'll outline some here, but this is hardly exhaustive.
+There are million different ways to take this dough and turn it into bread. I'll outline some here in the [method](#method) below, but this is hardly exhaustive.
 
 A couple of other notes worth mentioning.
 
 First, make sure to weigh out your eggs. This recipe will use about three. A gram or two either way of the specified amount won't do much harm. While it may feel weird if you're not used to it, if you're substantially out, it's going to cause problems.
 
-Second, many people struggle with brioche dough because it can be tricky to incorporate the butter into the rest of the dough. It's important that the butter be at room temperature, around 20 °C (about 70 °F). Making a batch that's incorrectly sized will also make this difficult. If your stand mixer isn't really kneading the dough because it has too much or too little material to work with, it's going to be tricky to get the butter to incorporate correctly. This batch size is on the lower limit of what my 6 quart KitchenAid mixer can handle, for example.
+Second, many people struggle with brioche dough because it can be tricky to incorporate the butter into the rest of the dough. It's important that the butter be at room temperature, around 20 °C (about 70 °F), and cut into reasonably small pieces.
+
+Making a batch that's incorrectly sized will also make this difficult. If your stand mixer isn't meaningfully kneading the dough because it has too much or too little material to work with, it's going to be tricky to get the butter to incorporate correctly. For example, if I make the batch size much smaller than this in my KitchenAid "Professional" mixer with a 6 quart bowl, there really isn't enough material for the machine to get purchase.
 
 ### Ingredients
 
