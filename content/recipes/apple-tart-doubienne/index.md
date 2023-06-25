@@ -45,7 +45,7 @@ Roll out the pastry dough to approximately a 2 mm thickness, large enough for th
 
 Chill the prepared dough for 20-30 minutes in the refrigerator.
 
-Preheat an oven to 220 °C (425 °F), with fan (convection) if available.
+Preheat an oven to 220 °C (425 °F) with fan (convection) if available.
 
 Prepare the glaze: combine the butter, lemon juice, and sugar in a small saucepan over medium heat. Heat the mixture and whisk until the butter has melted and the mixture is homogeneous. Then whisk in the alcohol.
 
@@ -53,7 +53,7 @@ Arrange the apple slices in the chilled tart base. Brush the apples with the pre
 
 Transfer the tart to the preheated oven. Bake the tart for 10 minutes.
 
-Then, lower the oven to 200 °C (400 °F), with fan (convection) if available. Bake the tart for a further 20 minutes.
+Then, lower the oven to 200 °C (400 °F) with fan (convection) if available. Bake the tart for a further 20 minutes.
 
 Prepare the filling by whisking the egg together with the sugar and cream.
 
