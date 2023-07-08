@@ -1,5 +1,5 @@
 ---
-title: "Neopolitan Pizza Dough"
+title: "Neapolitan Pizza Dough"
 date: 2021-05-30T03:08:11Z
 draft: false
 tags: [
@@ -17,7 +17,7 @@ cover:
 
 Credit where credit is due: I got this from Ken Forkish of Ken's Artisan Pizza in Portland. It's one of my favorite pizza places. Sadly I don't have a wood-burning oven at home. But at least I can use the same dough.
 
-When I make this, I do use the Caputo 00 flour that good Neopolitan pizza places tend to use. Though in my informal testing, it's very difficult to perceive the difference between it and my usual King Arthur all-purpose flour.
+When I make this, I do use the Caputo 00 flour that good Neapolitan pizza places tend to use. Though in my informal testing, it's very difficult to perceive the difference between it and my usual King Arthur all-purpose flour.
 
 ### Ingredients
 
