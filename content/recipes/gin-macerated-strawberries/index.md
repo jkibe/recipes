@@ -13,7 +13,7 @@ tags: [
     "vegan",
 ]
 cover:
-    image: berries.jpg
+    image: strawberries.jpg
 service: Desserts
 kind: Fruit
 ---
