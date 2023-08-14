@@ -22,6 +22,8 @@ My moment of discovery with alcohol and desserts came one of the first times I w
 
 I've taken that idea and crossed it with a Pimm's cup, usually made with gin and strawberries.
 
+![Raw strawberries](raw.jpg)
+
 Adding gin to the macerating liquid is akin to adding miso to a peanut butter cookie. The hint of alcohol comes through, but I doubt anyone would know it's gin specifically as much as the strawberries taste even better than usual.
 
 While I suppose it's possible to make this with any strawberries, I reserve this treatment for the brief window in the summer when I can get my hands on really good local strawberries.
