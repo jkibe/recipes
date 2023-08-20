@@ -86,11 +86,13 @@ A non-exhaustive list of places I like to eat out. Prices approximate.
 * [Balthazar](https://balthazarny.com), French, $$
 * [Bâtard](https://www.batardtribeca.com), French, $$$
 * [Café Luxembourg](https://cafeluxembourg.com), French, $$
+* [Gramcery Tavern](http://gramercytavern.com), New American, \$\$\$\$
 * [Il laboratorio del gelato](https://www.laboratoriodelgelato.com), Dessert, $
 * [La Mercerie](https://www.lamercerieny.com/), New American, $$$
 * [Marta](https://www.martamanhattan.com), Italian, $$
 * [Mermaid Inn](https://www.themermaidnyc.com), Seafood, $$
 * [The Smith](https://thesmithrestaurant.com), New American, $$
+* [Upland](https://uplandnyc.com), New American, $$
 
 ### San Francisco, USA
 
