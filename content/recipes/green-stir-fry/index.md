@@ -6,7 +6,7 @@ tags: [
     
 ]
 cover:
-    image: 
+    image: stirfry.jpg
 service: Mains
 kind: Veggies
 ---
