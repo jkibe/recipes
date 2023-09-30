@@ -16,6 +16,8 @@ A non-exhaustive list of places I like to eat out. Prices approximate.
 
 ### Amsterdam, Netherlands
 
+![Café Curon in Paris](/images/amsterdam-curon.jpg)
+
 * [Café Curon](http://cafecaron.nl), French, $$$
 
 ### Boston, USA
@@ -37,6 +39,15 @@ A non-exhaustive list of places I like to eat out. Prices approximate.
 * [Sportello](http://sportelloboston.com), Italian, $$
 * [The Helmand](https://www.helmandrestaurant.com), Afghani, $$
 
+### Copenhagen, Denmark
+
+![Selma in Copenhagen](/images/copenhagen-selma.jpg)
+
+* Hanoi Alley, Vietnamese, $
+* Norrlyst, New Nordic, $$$
+* Selma, New Nordic, $$
+* Uformel, New Nordic, $$$
+
 ### London, UK
 
 * [Honey & Co](https://honeyandco.co.uk), Middle Eastern, $$
@@ -44,6 +55,8 @@ A non-exhaustive list of places I like to eat out. Prices approximate.
 * [Bibendum](https://claudebosi.com), French, $$$
 
 ### Paris, France
+
+![Maison Plisson in Paris](/images/paris-plisson.jpg)
 
 * [Divellec](https://www.divellec-paris.fr), Seafood, $$$
 * [Boulangerie Utopie](http://boulangerieutopie.com), Bakery, $
@@ -106,3 +119,11 @@ A non-exhaustive list of places I like to eat out. Prices approximate.
 
 * [Café Campagne](https://cafecampagne.com), French, $$
 * [Café Press](https://cafepresseseattle.com), French, $$
+
+### Stockholm, Sweden
+
+* Babette, French, $$
+* Lilla Ego, French Fusion, $$$
+* Lillebrors Bageri, Bakery, $
+* Meno Male, Pizza, $$
+* Skeppsbro Bageri, Bakery, $
