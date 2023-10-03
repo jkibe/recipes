@@ -8,7 +8,7 @@ Maybe someday I'll expand this to include the specific make and model of every p
 
 ### A Good Knife
 
-There is nothing more dangerous or more frustrating than being in the kitchen without a good, sharp knife. Dull knives mean that you don't have control, and it's that, not the raw cutting power, that's dangerous. You also don't have to work as hard, which will make prep that much more pleasant.
+There is nothing more dangerous or more frustrating than being in the kitchen without a good, sharp knife. Dull knives mean that you don't have control, and it's that, not the raw cutting power, that's dangerous. You also don't have to work as hard with a sharp knife, which will make prep that much more pleasant.
 
 I honestly don't care enough about knives to have deeply opinionated recommendations. As long as it's sharp and a shape you find comfortable, it's a good knife.
 
@@ -42,8 +42,10 @@ Not that the precision doesn't matter at all. Especially with difficult ingredie
 
 ### Tableware
 
+* [Ditte Fischer](https://dittefischer.dk)
 * [Fog Linen](https://www.shop-foglinen.com)
 * [Heath Ceramics](https://www.heathceramics.com)
+* [Illums Bolighus](https://www.illumsbolighus.com)
 * [Liberty](https://www.libertylondon.com)
 * [Merci](http://merci-merci.com)
 * [Myrth](https://www.myrth.us)
