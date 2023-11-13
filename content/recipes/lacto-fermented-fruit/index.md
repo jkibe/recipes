@@ -31,9 +31,9 @@ And don't toss the fermentation medium. The fermenting liquid makes an amazing a
 
 ### Method
 
-In a large vacuum bag, toss together the fruit with the salt. Then vacuum seal the bag.
+In a large vacuum bag, toss together the fruit with the salt, ensuring an even mix. Then vacuum seal the bag.
 
-Leave the bag out at room temperature or just above (ca. 20-30 °C). Periodically burp the bag by cutting it open to release the built up gasses, and taste the fruit and fermentation medium.
+Leave the bag out at room temperature or just above (ca. 20-30 °C). Periodically burp the bag by cutting it open to release the built up gasses, and taste the fruit and fermentation medium. Close and re-vacuum seal the bag.
 
 Over time the fruit should develop more acidity and a lightly alcoholic fizz when the process is working correctly.
 
