@@ -16,7 +16,7 @@ A non-exhaustive list of places I like to eat out. Prices approximate.
 
 ### Amsterdam, Netherlands
 
-![Café Curon in Amsterdam](/images/amsterdam-curon.jpg)
+[![Café Curon in Amsterdam](/images/amsterdam-curon.jpg)](http://cafecaron.nl)
 
 * [Café Curon](http://cafecaron.nl), French, $$$
 
