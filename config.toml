@@ -2,9 +2,9 @@ baseURL = "https://therecipelog.com/"
 languageCode = "en-us"
 title = "The Recipe Log"
 theme = "PaperMod"
-summaryLength = 10
+summaryLength = 30
 paginate = 10
-enableGitInfo = true
+enableGitInfo = false
 rssLimit = 10
 
 [params]
