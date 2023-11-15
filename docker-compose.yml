@@ -2,7 +2,6 @@ version: "3.7"
 services:
 
   blog:
-    # image: klakegg/hugo:0.83.1-ext-alpine
     image: hugomods/hugo:0.120.4
     ports:
      - "1313:1313"
