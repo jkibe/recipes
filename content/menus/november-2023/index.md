@@ -15,7 +15,7 @@ Moving into the deep fall and closer to winter, I find myself both celebrating t
 
 Getting deeper into my experiments with fermentation, the pain is all the more acute. My tiny stash of lacto-fermented strawberries are the last I'll have until next June or July.
 
-Not to be completely deterred, I did try a batch of lacto-fermented blueberries using fruit from the freezer aisle. Frozen berries usually has better flavor than the bred-for-transport berries you get most of the year, since I can no longer get good fresh blueberries. It worked reasonably well, though of course I have no reference point for doing it from fresh. I continue to be a big fan of this flavor of fermentation. As in the _Noma Guide_, the blueberries are great in as simple an application as adorning some Greek yogurt with honey.
+Not to be completely deterred, I did try a batch of lacto-fermented blueberries using fruit from the freezer aisle. Frozen berries usually have better flavor than the bred-for-transport berries you get most of the year, since I can no longer get good fresh blueberries. It worked reasonably well, though of course I have no reference point for doing it from fresh. I continue to be a big fan of this flavor of fermentation. As in the _Noma Guide_, the blueberries are great in as simple an application as adorning some Greek yogurt with honey.
 
 ![Lacto-fermented blueberries over Greek yogurt with honey](blueberries.jpg)
 
