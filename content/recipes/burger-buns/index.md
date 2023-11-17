@@ -9,18 +9,22 @@ tags: [
     "vegan",
 ]
 cover:
-    image: 
+    image: buns.jpg
 service: Basics
 kind: Breads
 ---
 
 This [recipe](https://www.youtube.com/watch?v=YOkZCTuGvs0) comes to me almost exactly from my favorite YouTube channel, Boulangerie Pas à pas. I won't pretend these are quite as easy as popping to the store and buying burger buns. But they're not all that hard to make and they taste a lot better.
 
-The [tangzhong](https://www.kingarthurbaking.com/blog/2018/03/26/introduction-to-tangzhong) technique here is critical to giving them an ultra soft crumb: don't skip it.
+The [tangzhong](https://www.kingarthurbaking.com/blog/2018/03/26/introduction-to-tangzhong) technique here is critical to giving them an ultra soft crumb. It changes the way the dough absorbs water to produce the super spongy, soft texture we associate with a burger bun.
 
-The hard levain is less essential. It adds flavors, but omitting it won't ruin the buns. Once again, I'm using King Arthur flours here. You may get slightly different results with other brands due to our lack of standardization.
+Ditto the addition of fat. While we need some gluten to give the buns their elasticity, adding a bit of fat helps temper that a little bit, making the crumb a bit more tender.
 
-This makes about four medium-size or three large buns, depending on what's going inside them.
+The hard levain is less essential. It adds flavor, but omitting it won't ruin the buns.
+
+Once again, I'm using King Arthur flours here. You may get slightly different results with other brands.
+
+This makes about four medium-size or three large buns, depending on what you're aiming for.
 
 ### Ingredients
 
