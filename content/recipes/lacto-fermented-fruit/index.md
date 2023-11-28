@@ -14,7 +14,7 @@ kind: Fruit
 
 This is one of the easier ferments that I've gotten familiar with. All you need is a clean container, some fruit, salt, and a bit of time. It's a lactic acid fermentation, probably most familiar to people (certainly to me) through kimchi.
 
-The team at Noma suggest letting the fermentation happen a bit warmer than room temperature, closer to 28 °C (82 °F). Unless you happen to keep your house very warm, that probably means using a dedicate fermentation chamber. I'm not quite at that point yet, so if you're not ready to make that commitment, don't worry. This will still work at room temperature, even if it will take a bit longer.
+The team at Noma suggest letting the fermentation happen a bit warmer than room temperature, closer to 28 °C (82 °F). Unless you happen to keep your house very warm, that probably means using a dedicated fermentation chamber. I'm not quite at that point yet, so if you're not ready to make that commitment, don't worry. This will still work at room temperature, even if it will take a bit longer.
 
 The formula lists out the ingredients --- all two of them --- for a kilo of fruit. Obviously, this is incredibly easy to scale up and down if you want or need a bit less output.
 
