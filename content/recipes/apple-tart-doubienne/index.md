@@ -1,14 +1,16 @@
 ---
-title: "Tarte aux pommes à la doubienne"
+title: "Apple Tart (Tarte aux pommes à la doubienne)"
 date: 2023-06-24T12:00:00Z
 draft: false
 tags: [
     "dessert",
     "france",
     "veggie",
+    "apple",
+    "tart",
 ]
 cover:
-    image: 
+    image: tart.jpg
 service: Desserts
 kind: Tarts
 ---
@@ -45,11 +47,15 @@ Roll out the pastry dough to approximately a 2 mm thickness, large enough for th
 
 Chill the prepared dough for 20-30 minutes in the refrigerator.
 
+![Docked pastry](docked.jpg)
+
 Preheat an oven to 220 °C (425 °F) with fan (convection) if available.
 
 Prepare the glaze: combine the butter, lemon juice, and sugar in a small saucepan over medium heat. Heat the mixture and whisk until the butter has melted and the mixture is homogeneous. Then whisk in the alcohol.
 
 Arrange the apple slices in the chilled tart base. Brush the apples with the prepared glaze.
+
+![Arranged apples in the tart shell](apple.jpg)
 
 Transfer the tart to the preheated oven. Bake the tart for 10 minutes.
 
