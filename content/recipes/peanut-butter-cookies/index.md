@@ -32,7 +32,7 @@ I first had miso in a dessert at a restaurant in Portland called Biwa, I want to
 
 Fit a stand mixer with its paddle attachment. Add the butter, peanut butter, miso, and sugars to the bowl. Then cream together the wet ingredients on medium speed. The mixture should be lighter and fluffy.
 
-Then add the add, and mix it in on low speed until just integrated into the dough.
+Then add the egg, and mix it in on low speed until just integrated into the dough.
 
 Add the baking soda and flour. Mix again on low speed until just combined.
 
