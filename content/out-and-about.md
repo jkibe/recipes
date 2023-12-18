@@ -85,6 +85,10 @@ A non-exhaustive list of places I like to eat out. Prices approximate.
 ### Madrid, Spain
 
 * Matilda Café, Spanish, $$
+* Noi Due, Italian, $$
+* Nokoribi, Yakitori, $$
+* Vanille Bakery Lab & Café, Bakery, $
+* Zapato Veloz Taco Bar, Mexican, $$
 
 ### Napa Valley, USA
 
