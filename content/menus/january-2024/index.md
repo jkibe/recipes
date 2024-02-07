@@ -1,6 +1,6 @@
 ---
 title: "January 2024"
-date: 2023-02-06T12:00:00Z
+date: 2024-02-06T12:00:00Z
 draft: false
 tags: [
     
