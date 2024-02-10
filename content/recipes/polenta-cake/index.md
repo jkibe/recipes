@@ -8,7 +8,7 @@ tags: [
     "veggie"    
 ]
 cover:
-    image: 
+    image: top.jpg
 service: Desserts
 kind: Cakes
 ---
@@ -29,9 +29,9 @@ This is also an excellent incidentally gluten-free dessert.
 * 150 g almond flour
 * 1 lemon, zest and juiced
 * 75 g polenta flour
-* 1/2 teaspoon baking powder
+* 3 g baking powder
 * Pinch salt
-* 150 g raspberries
+* 100 g raspberries
 
 ### Method
 
@@ -46,5 +46,7 @@ Then add the eggs, and stir them just to break up the eggs and begin to combine 
 Add the almond flour plus the lemon zest and juice, and mix until the mixture is roughly uniform. Then add the polenta flour, baking powder, and salt, again mixing until the mixture is uniform. With a spatula, fold the raspberries into the mixture by hand.
 
 Pour the batter into the lined cake tin. Bake the cake in the preheated oven for 40-50 minutes. It should be nicely browned and a cake tester should come out clean.
+
+![Polenta cake cooling](cake.jpg)
 
 Let the cake cool in the pan to room temperature before serving.
