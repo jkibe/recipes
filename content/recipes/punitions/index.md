@@ -8,7 +8,7 @@ tags: [
     "dessert"
 ]
 cover:
-    image: 
+    image: punitions.jpg
 service: Desserts
 kind: Biscuits and Cookies
 ---
