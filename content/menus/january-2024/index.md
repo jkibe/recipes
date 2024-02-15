@@ -78,3 +78,5 @@ I'm also continuing my bread experiments. Suffice to say I haven't made any subs
 * The excellent [Ledbury in London](https://www.theguardian.com/food/2024/feb/05/sublime-flavours-at-ledbury-in-west-london-win-it-three-michelin-stars) achieves a third Michelin star --- it's gratifying that I discovered it when they had but one
 
 * In The New York Times, [an examination](https://www.nytimes.com/2024/01/29/insider/menus-project.html) of how we present food
+
+_[Subscribe](https://landing.mailerlite.com/webforms/landing/k5w5z0) to get notified every month when new issues go out_
