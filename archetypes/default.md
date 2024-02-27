@@ -8,6 +8,6 @@ tags: [
 cover:
     image: 
 service: 
-kind: 
+subservice: 
 ---
 

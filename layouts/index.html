@@ -22,7 +22,7 @@
         
         <a href="{{ .Permalink }}">
         {{- $isHidden := (site.Params.cover.hidden | default site.Params.cover.hiddenInList) }}
-        {{- partial "cover.html" (dict "cxt" . "IsHome" true "isHidden" $isHidden) }}
+        {{- partial "cover.html" (dict "cxt" . "IsHome" true "isHidden" $isHidden "IsSingle" false) }}
         </a>
 
         <p>{{ .Summary }}</p>
@@ -49,7 +49,7 @@
     {{ range where .Site.RegularPages "Type" "recipes" | first 5 }}
         <article class="post-entry">
           {{- $isHidden := (site.Params.cover.hidden | default site.Params.cover.hiddenInList) }}
-          {{- partial "cover.html" (dict "cxt" . "IsHome" true "isHidden" $isHidden) }}
+          {{- partial "cover.html" (dict "cxt" . "IsHome" true "isHidden" $isHidden "IsSingle" false) }}
           <header class="entry-header">
             <h2>
               {{- .Title }}
