@@ -19,10 +19,12 @@ Credit where credit is due: I got this from Ken Forkish of Ken's Artisan Pizza i
 
 When I make this, I do use the Caputo 00 flour that good Neapolitan pizza places tend to use. Though in my informal testing, it's very difficult to perceive the difference between it and my usual King Arthur all-purpose flour.
 
+The relatively tiny amount of yeast isn't a mistake. You really just need enough to get the process going, since the dough gets such a long time to ferment. I usually eyeball a really tiny amount with a demitasse spoon, and it works well.
+
 ### Ingredients
 
 * 350 g tepid water (ca. 30 °C)
-* 0.3 g active dry yeast
+* 0.3 g (ca. 1/8 teaspoon) active dry yeast
 * 500 g 00 pizza flour (such as Caputo brand)
 * 15 g salt
 
