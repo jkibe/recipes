@@ -10,7 +10,7 @@ tags: [
 cover:
     image: choufleur.jpg
 service: Small Plates
-kind: Veggies
+subservice: Veggies
 ---
 
 This is a simple, excellent way to prepare cauliflower. I claim no credit: it was made famous by Café Miznon. They have locations all around the world; I learned about it [via Le Fooding](https://lefooding.com/en/recipes-video-toquera/toquera-295-an-affair-with-un-chou-fleur).

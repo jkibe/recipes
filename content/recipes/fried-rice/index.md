@@ -9,7 +9,7 @@ tags: [
 cover:
     image: rice.jpg
 service: Mains
-kind: Rice
+subservice: Rice
 ---
 
 While you could make this with leftover rice, you'll get a better result steaming the rice specifically for this purpose. That was surprising to me when I learned about this technique via [Chinese Cooking Demystified](https://www.youtube.com/c/ChineseCookingDemystified). Once I had tried it, I was convinced.

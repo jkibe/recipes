@@ -8,7 +8,7 @@ tags: [
     "veggie",
 ]
 service: Desserts
-kind: Biscuits and Cookies
+subservice: Biscuits and Cookies
 ---
 
 The original source for this recipe is lost to my memory. It entered my repertoire one Christmas when I needed something new to bake. They're more or less the sweet version of grissini.

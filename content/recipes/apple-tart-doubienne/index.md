@@ -12,7 +12,7 @@ tags: [
 cover:
     image: tart.jpg
 service: Desserts
-kind: Tarts
+subservice: Tarts
 ---
 
 This is, with some adaptations and tweaks, a recipe from Raymond Blanc, the French-British chef. It's his take on the simple apple tart his mother used to make. In honor of that culinary tradition, I've given this a name in honor of the region where he grew up.

@@ -10,7 +10,7 @@ tags: [
 cover:
     image: eggs.jpg
 service: Basics
-kind: Eggs
+subservice: Eggs
 ---
 
 Poached eggs can be a pain. There's nothing fun about hunching over a giant pot of boiling water or delicately sliding raw eggs into the pot, hoping they won't fall apart. It's bad enough doing one or two for a quiet breakfast at home: only a masochist would do it for a larger group of people, especially without being paid.

@@ -9,7 +9,7 @@ tags: [
 cover:
     image: 
 service: Small Plates
-kind: Soups
+subservice: Soups
 ---
 
 Soups can be very complicated in their simplicity.

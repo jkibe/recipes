@@ -10,7 +10,7 @@ tags: [
     "vegan",
 ]
 service: Basics
-kind: Sauces
+subservice: Sauces
 ---
 
 A vinaigrette (as well as the mayonnaise and the aïoli) is an emulsion. That is, a mixture of two liquids that are otherwise difficult to combine. In this case, that's the vinegar, which is mostly water, with the oil. With very specialized lab equipment that's pretty impractical for a home cook, it is actually possible to make a stable emulsion (one that won't separate) with only the vinegar and the oil.

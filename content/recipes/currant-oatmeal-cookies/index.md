@@ -9,7 +9,7 @@ tags: [
 cover:
     image: 
 service: Desserts
-kind: Biscuits and Cookies
+subservice: Biscuits and Cookies
 ---
 
 While it may not stand up to logical scrutiny, I'm a big fan of dried currants and not so much a fan of raisins. Thus: the currant oatmeal cookie. A classic tuned to my whims.

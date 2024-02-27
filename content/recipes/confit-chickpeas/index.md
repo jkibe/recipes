@@ -9,7 +9,7 @@ tags: [
 cover:
     image: chickpeas.jpg
 service: Mains
-kind: Veggies
+subservice: Veggies
 ---
 
 This chickpea preparation is dead-simple. It was a pandemic discovery via the incomparable Ottolenghi team.

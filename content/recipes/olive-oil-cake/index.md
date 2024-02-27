@@ -8,7 +8,7 @@ tags: [
     "veggie",
 ]
 service: Desserts
-kind: Cakes
+subservice: Cakes
 cover:
     image: cake.jpg
 ---
@@ -46,3 +46,6 @@ Pour the batter into the prepared cake tin, and then bake the cake for about 30 
 Let the cake cool for at least an hour before serving.
 
 
+juice of 1 lemon
+80 g blueberries
+no rosewater

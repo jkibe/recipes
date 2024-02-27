@@ -10,7 +10,7 @@ tags: [
     "valencia"
 ]
 service: Mains
-kind: Rice
+subservice: Rice
 cover:
     image: seafood.jpg
 ---

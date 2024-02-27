@@ -9,7 +9,7 @@ tags: [
 cover:
     image: hxb.jpg
 service: Basics
-kind: Breads
+subservice: Breads
 ---
 
 While I'm not at all religious, a few years ago I decided to embrace the ritual of making hot cross buns for Good Friday.

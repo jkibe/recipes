@@ -8,7 +8,7 @@ tags: [
 cover:
     image: 
 service: Mains
-kind: Fish
+subservice: Fish
 ---
 
 This comes from an Ottolenghi cookbook. It's a great weeknight fish dish, and it finally got me to stock za'atar and sumac in my pantry. I'll certainly [credit the OTK team](https://food52.com/recipes/86926-sauteed-salmon-recipe-with-tahini-greens) with the idea. That hasn't stopped me from tinkering a bit and refining the instructions to accommodate my own foibles and knowledge gaps.

@@ -9,7 +9,7 @@ tags: [
 cover:
     image: 
 service: Breakfast
-kind: Hot
+subservice: Hot
 ---
 
 If I'm at home on a Sunday morning, I make pancakes. The recipe has gone through many variations over time: this is my current favorite. The tahini gives it a nice earthiness versus the tang of crème fraîche.

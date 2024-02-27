@@ -10,7 +10,7 @@ tags: [
 cover: 
     image: crumble.jpg
 service: Desserts
-kind: Fruit
+subservice: Fruit
 ---
 
 A crumble is about the easiest dessert it's possible to make. Get good fruit, toss it in a bit of sugar to taste, add some cornflour to thicken, and then cover with this topping.

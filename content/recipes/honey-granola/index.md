@@ -10,7 +10,7 @@ tags: [
 cover:
     image: granola.jpg
 service: Breakfast
-kind: Cold
+subservice: Cold
 ---
 
 Based solely on my experience buying groceries, I'd say granola has gone mainstream. At the point you can buy something pre-packaged that's been flavored with real Madagascar vanilla, it's not exactly hippie food any more.

@@ -15,7 +15,7 @@ tags: [
 cover:
     image: strawberries.jpg
 service: Desserts
-kind: Fruit
+subservice: Fruit
 ---
 
 My moment of discovery with alcohol and desserts came one of the first times I went to the [River Cafe](https://rivercafe.co.uk) and ordered the panna cotta. At the time, they were serving it with raspberries and a healthy dose of grappa poured over the plate. It wasn't much --- certainly not enough to really affect anything --- but that boozy note was really nice.

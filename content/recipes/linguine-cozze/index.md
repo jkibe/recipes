@@ -8,7 +8,7 @@ tags: [
     "seafood",
 ]
 service: Small Plates
-kind: Noodles
+subservice: Noodles
 cover:
     image: noodles.jpg
 ---

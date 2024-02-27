@@ -6,7 +6,7 @@ tags: [
     "japan",
 ]
 service: Mains
-kind: Fish
+subservice: Fish
 cover:
     image: 
 ---

@@ -8,7 +8,7 @@ tags: [
 cover:
     image: meringue.jpg
 service: Desserts
-kind: Cakes
+subservice: Cakes
 ---
 
 I've learned to be skeptical about vegan substitutes. While I try to keep an open mind, it would take some serious persuasion to get me to try another avocado-based chocolate mousse.

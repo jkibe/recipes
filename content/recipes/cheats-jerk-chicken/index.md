@@ -10,7 +10,7 @@ tags: [
 cover:
     image: chicken.jpg
 service: Mains
-kind: Poultry
+subservice: Poultry
 ---
 
 I'm not claiming this is the apotheosis of jerk chicken. The people of Jamaica have nothing to worry about. But it's pretty tasty, is easy enough to do on a weeknight, and doesn't require faffing around with briquets.

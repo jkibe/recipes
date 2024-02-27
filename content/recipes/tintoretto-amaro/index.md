@@ -9,7 +9,7 @@ tags: [
 cover:
     image: /recipes/tintoretto-amaro/tintoretto.jpg
 service: Drinks
-kind: Cocktails
+subservice: Cocktails
 ---
 
 I had this at one of those great restaurants that reinvents its menu every day. They usually have one or two house cocktails on, and this one was particularly great.

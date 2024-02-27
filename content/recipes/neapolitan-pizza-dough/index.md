@@ -10,7 +10,7 @@ tags: [
     "veggie",
 ]
 service: Basics
-kind: Breads
+subservice: Breads
 cover:
     image: dough.jpg
 ---

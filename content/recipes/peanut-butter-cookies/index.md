@@ -12,7 +12,7 @@ tags: [
 cover:
     image: cookies.jpg
 service: Desserts
-kind: Biscuits and Cookies
+subservice: Biscuits and Cookies
 ---
 
 I first had miso in a dessert at a restaurant in Portland called Biwa, I want to say in an ice cream. While I grew up eating and liking miso, it wasn't ever something you'd add to a dessert. And yet, it really works. Not in adding any sort of funk, but simply to add an almost indescribable complexity that makes the peanut butter taste even more of peanut butter.

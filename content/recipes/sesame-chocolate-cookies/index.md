@@ -13,7 +13,7 @@ tags: [
 cover:
     image: cookies.jpg
 service: Desserts
-kind: Biscuits and Cookies
+subservice: Biscuits and Cookies
 ---
 
 These come from the excellent Mokonuts in Paris. Everything they do is delicious, these as much or more than everything else.

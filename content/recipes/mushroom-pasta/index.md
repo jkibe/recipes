@@ -8,7 +8,7 @@ tags: [
 cover:
     image: pasta.jpg
 service: Small Plates
-kind: Noodles
+subservice: Noodles
 ---
 
 I've taken this from Felicity Cloake's "How to Make the Perfect…" series. Pulverizing the porcini into a paste is a genius idea that I think makes this dish. The process of getting the porcini into a powder can be a bit of an ordeal. Make sure to cover any openings in your food processors, and be prepared for some amount of porcini powder to be floating around in the air.

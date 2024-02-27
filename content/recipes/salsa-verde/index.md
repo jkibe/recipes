@@ -11,7 +11,7 @@ tags: [
 cover:
     image: sauce.jpg
 service: Basics
-kind: Sauces
+subservice: Sauces
 ---
 
 

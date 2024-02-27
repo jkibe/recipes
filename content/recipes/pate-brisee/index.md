@@ -9,7 +9,7 @@ tags: [
 cover:
     image: 
 service: Desserts
-kind: Tarts
+subservice: Tarts
 ---
 
 While I don't totally understand the soft matter physics at work, this is easily the best and, importantly, easiest tart base to work with.

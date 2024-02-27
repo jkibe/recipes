@@ -10,7 +10,7 @@ tags: [
 cover:
     image: 
 service: Desserts
-kind: Cakes
+subservice: Cakes
 ---
 
 After doing some research, I learned that a _clafoutis_ is meant to be made with cherries. If you're using the same technique with other stone fruit, it's called a _flaugnarde_. The name comes from the Occitan word _fleunhe_ or _flaunhard_, meaning soft or duvet.

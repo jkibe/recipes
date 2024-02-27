@@ -8,7 +8,7 @@ tags: [
 cover:
     image: 
 service: 
-kind: 
+subservice: 
 ---
 
 Olive oil

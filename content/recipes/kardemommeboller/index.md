@@ -9,7 +9,7 @@ tags: [
     "veggie",
 ]
 service: Basics
-kind: Breads
+subservice: Breads
 ---
 
 I've wanted to visit Denmark for years. Between other plans and (more recently) the global pandemic, I still haven't been. But I've learned the rudiments of the language, and thus discovered that the Danes love their buns.

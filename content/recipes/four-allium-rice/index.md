@@ -9,7 +9,7 @@ tags: [
 cover:
     image: 
 service: Small Plates
-kind: Grains
+subservice: Grains
 ---
 
 Baked rice isn't a particularly novel concept. But for whatever reason this version from the Ottolenghi team's weekly column in _The Guardian_ really captured my heart.

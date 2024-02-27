@@ -11,7 +11,7 @@ tags: [
 cover:
     image: after.jpg
 service: Desserts
-kind: Cakes
+subservice: Cakes
 ---
 
 According to my notebook, this was at least initially inspired by a Felicity Cloake column, though which one is lost to the sands of time.

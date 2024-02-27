@@ -9,7 +9,7 @@ tags: [
 cover:
     image: 
 service: Small Plates
-kind: Veggies
+subservice: Veggies
 ---
 
 ### Ingredients

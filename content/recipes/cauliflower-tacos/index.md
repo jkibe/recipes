@@ -10,7 +10,7 @@ tags: [
 cover:
     image: 
 service: Small Plates
-kind: Tacos
+subservice: Tacos
 ---
 
 From a [Rick Bayless recipe](https://www.rickbayless.com/recipe/roasted-cauliflower-tacos-with-poblano-chile-and-caramelized-onion/).

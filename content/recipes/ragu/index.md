@@ -10,7 +10,7 @@ tags: [
 cover:
     image: rigatoni.jpg
 service: Small Plates
-kind: Noodles
+subservice: Noodles
 ---
 
 This is one of those dishes that's ubiquitous and still manages to raise the hackles of purists. I would argue that the purity tests around the _ragù alla bolognese_ are unfounded. Yes, fine, there is an organization in Bologna (or maybe in Emilia-Romagna) that has tried to codify the "real" _ragù_ recipe. But like so many regional dishes, everyone has their own variation.

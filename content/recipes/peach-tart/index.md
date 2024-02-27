@@ -10,7 +10,7 @@ tags: [
 cover:
     image: tart.jpg
 service: Desserts
-kind: Tarts
+subservice: Tarts
 ---
 
 Longtime readers will recall that on a trip to Nice, France, I had a transcendent peach tart. After nearly a decade of tinkering and dozens of peach tarts later, I think I have something that comes close to its inspiration.

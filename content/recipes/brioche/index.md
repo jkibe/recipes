@@ -8,7 +8,7 @@ tags: [
 cover:
     image: baked.jpg
 service: Basics
-kind: Breads
+subservice: Breads
 ---
 
 This is a great basic brioche recipe I've taken from my favorite YouTube channel on baking.

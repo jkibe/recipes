@@ -12,7 +12,7 @@ tags: [
 cover:
     image: biscuits.jpg
 service: Desserts
-kind: Biscuits and Cookies
+subservice: Biscuits and Cookies
 ---
 
 ### Ingredients

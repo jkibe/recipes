@@ -10,7 +10,7 @@ tags: [
 cover:
     image: 
 service: Desserts
-kind: Tarts
+subservice: Tarts
 ---
 
 The galette has an excellent effort-reward ratio. The fancy French name aside, they're incredibly easy to make and look reasonably impressive if executed well.

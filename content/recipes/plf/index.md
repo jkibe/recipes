@@ -11,7 +11,7 @@ tags: [
 cover:
     image: dough.jpg
 service: Basics
-kind: Viennoiserie
+subservice: Viennoiserie
 ---
 
 This is the dough to make _viennoiserie_, risen buttery concoctions like croissants and pains au chocolat. It's incredibly fiddly to say the least.

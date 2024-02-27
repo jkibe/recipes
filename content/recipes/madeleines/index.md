@@ -8,7 +8,7 @@ tags: [
     "veggie"
 ]
 service: Desserts
-kind: Biscuits and Cookies
+subservice: Biscuits and Cookies
 cover:
     image: madeleines.jpg
 ---

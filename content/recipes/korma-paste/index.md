@@ -12,7 +12,7 @@ tags: [
 cover:
     image: paste.jpg
 service: Basics
-kind: Sauces
+subservice: Sauces
 ---
 
 After doing some research, I decided to use [this recipe](https://nishkitchen.com/korma-paste/) from Nish Kitchen as a starting point.

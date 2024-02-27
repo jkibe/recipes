@@ -11,7 +11,7 @@ tags: [
 cover:
     image: baguette.jpg
 service: Basics
-kind: Breads
+subservice: Breads
 ---
 
 While there is some pleasure to be had in baking my own bread, I'd honestly be a lot happier if I could pop into a bakery in the morning and pick up a great loaf of professionally-baked bread every day. Until I buy my second home in Paris, though, this is my go-to recipe for making baguettes at home.

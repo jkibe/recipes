@@ -10,7 +10,7 @@ tags: [
 cover:
     image: punitions.jpg
 service: Desserts
-kind: Biscuits and Cookies
+subservice: Biscuits and Cookies
 ---
 
 This is a favorite little biscuit from the wonderful people at [Poilâne](https://www.poilane.com).

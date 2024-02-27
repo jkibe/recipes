@@ -11,7 +11,7 @@ tags: [
 cover:
     image: greens.jpg
 service: Small Plates
-kind: Veggies
+subservice: Veggies
 ---
 
 This is really just a specific realization of a broader technique for stir frying vegetables. But it's a combination I really like, so I figured I'd write it down. It's a bit of a hodgepodge of Chinese technique with some Japanese ingredients that I tend to have on hand more readily in my kitchen.

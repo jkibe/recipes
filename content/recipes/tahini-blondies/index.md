@@ -11,7 +11,7 @@ tags: [
 cover:
     image: blondies.jpg
 service: Desserts
-kind: Biscuits and Cookies
+subservice: Biscuits and Cookies
 ---
 
 If I've learned anything from devotedly following of the Ottolenghi team, it's that tahini makes everything better.

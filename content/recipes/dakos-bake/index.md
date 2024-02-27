@@ -10,7 +10,7 @@ tags: [
 cover:
     image: baked.jpg
 service: Mains
-kind: Veggies
+subservice: Veggies
 ---
 
 Credit where credit is due, this is something I saw at least 10 years ago when the inimitable Yotam Ottolenghi did a TV series on the islands of the Mediterranean. Through a bit of sleuthing, I managed to find a recording online, tried the recipe, and got something I thought was worth memorializing here.

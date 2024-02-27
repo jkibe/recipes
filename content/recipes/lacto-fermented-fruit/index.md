@@ -9,7 +9,7 @@ tags: [
 cover:
     image: strawberries.jpg
 service: Basics
-kind: Fruit
+subservice: Fruit
 ---
 
 This is one of the easier ferments that I've gotten familiar with. All you need is a clean container, some fruit, salt, and a bit of time. It's a lactic acid fermentation, probably most familiar to people (certainly to me) through kimchi.

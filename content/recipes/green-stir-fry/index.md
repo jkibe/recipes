@@ -8,7 +8,7 @@ tags: [
 cover:
     image: stirfry.jpg
 service: Mains
-kind: Veggies
+subservice: Veggies
 ---
 
 This is yet another great idea I've taken from the Ottolenghi team. If nothing else, I think this version of the recipe is easier to follow for the first time.
