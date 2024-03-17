@@ -8,7 +8,7 @@ tags: [
 cover:
     image: street.jpg
 service: 
-kind: 
+subservice: 
 ---
 
 It's been an interesting month. Beginning most obviously with the couple weeks that I spent in Scandinavia (Denmark and Sweden) the second half of September.

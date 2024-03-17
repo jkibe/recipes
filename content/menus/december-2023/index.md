@@ -8,7 +8,7 @@ tags: [
 cover:
     image: lights.jpg
 service: 
-kind: 
+subservice: 
 ---
 
 Short days make me want food that's warming, even as we've had unusually warm late November and early December weather.

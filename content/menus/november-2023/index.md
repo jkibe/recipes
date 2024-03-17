@@ -8,7 +8,7 @@ tags: [
 cover:
     image: fall.jpg
 service: 
-kind: 
+subservice: 
 ---
 
 Moving into the deep fall and closer to winter, I find myself both celebrating the excuse to switch up my menus even as I miss summer produce. Looking only at the photos, everything is much more beige and monochrome than it has been.

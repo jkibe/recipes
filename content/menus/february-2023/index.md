@@ -8,7 +8,7 @@ tags: [
 cover:
     image: madrid.jpg
 service: 
-kind: 
+subservice: 
 ---
 
 Despite my kitchen still (!) not quite being done, I feel like I'm beginning to get my groove back.

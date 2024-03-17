@@ -8,7 +8,7 @@ tags: [
 cover:
     image: hxb.jpg
 service: 
-kind: 
+subservice: 
 ---
 
 In my obliviousness, I completely missed the fact daylight saving time returned a few weeks ago. What a difference that makes. Both because it's nice the sun doesn't set at 5 PM, and also as it means I have more potential for getting lots of natural light for photos when I'm throwing together dinner in the evenings.

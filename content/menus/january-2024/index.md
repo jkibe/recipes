@@ -8,7 +8,7 @@ tags: [
 cover:
     image: korean.jpg
 service: 
-kind: 
+subservice: 
 ---
 
 The last month has been dominated by the usual festive madness with all its ups and downs. And some other developments got in the way of getting this issue out at the usual cadence.

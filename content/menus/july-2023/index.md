@@ -8,7 +8,7 @@ tags: [
 cover:
     image: strawberries.jpg
 service: 
-kind: 
+subservice: 
 ---
 
 Between travel and a more general desire to get out of the house, I found a few outlets for my food obsession outside the worlds of restaurants and my kitchen.

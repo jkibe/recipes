@@ -8,7 +8,7 @@ tags: [
 cover:
     image: neighborhood.jpg
 service: 
-kind: 
+subservice: 
 ---
 
 The weather here in New England has been a bit indecisive over the last month. Some days have been decidedly in the summer column. Others make me hesitate to pack away the coats and sweaters even though we're now halfway through June.

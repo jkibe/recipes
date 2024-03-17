@@ -8,7 +8,7 @@ tags: [
 cover:
     image: dishwasher.jpg
 service: 
-kind: 
+subservice: 
 ---
 
 With painful slowness, my kitchen is coming together at last. My architects and I brought in a new crew to deal with the points of finesse the previous contractor couldn't quite get right. My dishwasher finally stays open without holding the door with my foot, and my vent hood is in.

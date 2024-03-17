@@ -8,7 +8,7 @@ tags: [
 cover:
     image: charles.jpg
 service: 
-kind: 
+subservice: 
 ---
 
 I've settled into something like a lazy summer pattern. I needed a bit of a break after a few frenetic weeks squeezing in a bit of travel and a few group events I decided to organize. It takes real effort on my part to embrace the joy of an otherwise ordinary summer evening with a nice breeze.

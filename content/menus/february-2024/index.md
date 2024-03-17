@@ -8,7 +8,7 @@ tags: [
 cover:
     image: lny.jpg
 service: 
-kind: 
+subservice: 
 ---
 
 After a bit of a wacky month, I'm trying to get this back on schedule, so this month's notes will be a little sparer than usual. It hasn't been that long!

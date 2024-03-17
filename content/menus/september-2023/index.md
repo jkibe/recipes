@@ -8,7 +8,7 @@ tags: [
 cover:
     image: snap-peas.jpg
 service: 
-kind: 
+subservice: 
 ---
 
 The last of summer was in many ways more of the same.
