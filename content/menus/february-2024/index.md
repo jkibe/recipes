@@ -68,4 +68,4 @@ I've made a lot of French-style crusty bread over the last couple of months, whi
 * A great [primer on cookies](https://jepensedoncjecuis.com/2024/02/la-meilleure-recette-de-cookies-la-votre.html) from one of my favorite food blogs
 
 
-_[Subscribe](https://landing.mailerlite.com/webforms/landing/k5w5z0) to get notified every month when new issues go out_
+_[Subscribe](/subscribe) to get notified every month when new issues go out_

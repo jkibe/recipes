@@ -87,6 +87,6 @@ Something about the time of year also puts me in the mood for [salmon with lenti
 
 * Eric Ripert of Le Bernadin has a great new cookbook out, [_Seafood Simple_](https://www.penguinrandomhouse.com/books/703357/seafood-simple-a-cookbook-by-eric-ripert/)
 
-_[Subscribe](https://landing.mailerlite.com/webforms/landing/k5w5z0) to get notified every month when new issues go out_
+_[Subscribe](/subscribe) to get notified every month when new issues go out_
 
 

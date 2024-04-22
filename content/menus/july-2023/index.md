@@ -112,4 +112,4 @@ In the pastry department, after seeing a photo somewhere, I really want to make 
 * Another story about our collective [aversion to chewing](https://www.theatlantic.com/science/archive/2023/07/american-gummy-candy-chewy-food-texture-preferences/674635/) in _The Atlantic_
 
 
-_[Subscribe](https://landing.mailerlite.com/webforms/landing/k5w5z0) to get notified every month when new issues go out_
+_[Subscribe](/subscribe) to get notified every month when new issues go out_

@@ -105,4 +105,4 @@ Much as I love French food, it's not something I'd usually go for. It reminds me
 
 * Tim Hayward takes on the [recent resurgence in picnicking](https://www.ft.com/content/e78572e7-0848-4444-be66-b04b21a33b77)
 
-_[Subscribe](https://landing.mailerlite.com/webforms/landing/k5w5z0) to get notified every month when new issues go out_
+_[Subscribe](/subscribe) to get notified every month when new issues go out_

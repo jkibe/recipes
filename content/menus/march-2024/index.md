@@ -127,4 +127,4 @@ I'm hoping a few more attempts with this additional research will get me closer 
 
 * In _The Guardian_, the [limitless possibilities](https://www.theguardian.com/lifeandstyle/2024/mar/08/tap-water-is-boring-so-they-invent-new-products-how-did-humble-h2o-become-such-big-business) of applying marketing to water
 
-_[Subscribe](https://landing.mailerlite.com/webforms/landing/k5w5z0) to get notified every month when new issues go out_
+_[Subscribe](/subscribe) to get notified every month when new issues go out_

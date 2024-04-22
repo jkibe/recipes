@@ -79,4 +79,4 @@ I'm also continuing my bread experiments. Suffice to say I haven't made any subs
 
 * In The New York Times, [an examination](https://www.nytimes.com/2024/01/29/insider/menus-project.html) of how we present food
 
-_[Subscribe](https://landing.mailerlite.com/webforms/landing/k5w5z0) to get notified every month when new issues go out_
+_[Subscribe](/subscribe) to get notified every month when new issues go out_

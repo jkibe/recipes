@@ -69,4 +69,4 @@ From everything I've heard, the Nordic countries have a really vibrant modern fo
 
 
 
-_[Subscribe](https://landing.mailerlite.com/webforms/landing/k5w5z0) to get notified every month when new issues go out_
+_[Subscribe](/subscribe) to get notified every month when new issues go out_

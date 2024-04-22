@@ -89,6 +89,6 @@ More firmly in the pastry column, something dislodged a memory from my trip to S
 
 * Thinking of kitchen organization, an interesting take on the [cult of organization](https://www.youtube.com/watch?v=nlTLd0hj7Mg)
 
-_[Subscribe](https://landing.mailerlite.com/webforms/landing/k5w5z0) to get notified every month when new issues go out_
+_[Subscribe](/subscribe) to get notified every month when new issues go out_
 
 

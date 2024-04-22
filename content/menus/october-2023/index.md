@@ -119,4 +119,4 @@ Similarly on the bread front, spending so much time in Denmark and Sweden, it wa
 
 * In a similar vein, the team behind _Boiling Point_ has adapted the characters into [a TV series](https://www.bbc.co.uk/iplayer/episodes/p0g5h206/boiling-point) of the same name.
 
-_[Subscribe](https://landing.mailerlite.com/webforms/landing/k5w5z0) to get notified every month when new issues go out_
+_[Subscribe](/subscribe) to get notified every month when new issues go out_

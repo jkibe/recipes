@@ -91,4 +91,4 @@ I'm still hoping to make some international travel happen either in the summer, 
 
 * In the _Observer_, Sunday with one of my favorite food writers, [Nigella Lawson](https://www.theguardian.com/food/2023/aug/13/sunday-with-nigella-lawson-i-spend-much-of-the-day-pottering-)
 
-_[Subscribe](https://landing.mailerlite.com/webforms/landing/k5w5z0) to get notified every month when new issues go out_
+_[Subscribe](/subscribe) to get notified every month when new issues go out_

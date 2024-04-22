@@ -60,4 +60,4 @@ As with the asparagus, much will depend on the produce I can get my hands on. Th
 
 In a distant future where I have a second home somewhere out in the middle of nowhere, I love the idea of having a fashionable outdoor pizza oven. Alas, I may have to content myself with something indoors or suburban. In either case, summer (or at least warm weather) says pizza to me.
 
-_[Subscribe](https://landing.mailerlite.com/webforms/landing/k5w5z0) to get notified every month when new issues go out_
+_[Subscribe](/subscribe) to get notified every month when new issues go out_
