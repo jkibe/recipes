@@ -3,7 +3,8 @@ title: "Almond Tart"
 date: 2024-04-14T17:40:35Z
 draft: false
 tags: [
-    
+    "desserts",
+    "veggie",
 ]
 cover:
     image: complete.jpg

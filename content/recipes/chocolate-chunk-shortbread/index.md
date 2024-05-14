@@ -44,13 +44,13 @@ Place each piece of dough onto a large sheet of plastic wrap. Using the plastic 
 
 Preheat an oven to 180 °C (350 °F) with fan (convection) if available.
 
-Line two baking trays with Silpats or parchement paper.
+Line two baking trays with Silpats or parchment paper.
 
 Take the chilled dough out of the refrigerator and remove it from the plastic. Then brush each portion with beaten egg and roll each log in the demerara sugar.
 
 Using a serrated knife, cut the dough into 1 cm (ca. 1/2") slices. Arrange them on the prepared baking trays. They will spread minimally, so it's fine to pack them tightly. Then sprinkle each biscuit with fleur de sel.
 
-Bake the shortbreads unitl they're lightly golden and no longer shiny, about 10 to 15 minutes.
+Bake the shortbreads until they're lightly golden and no longer shiny, about 10 to 15 minutes.
 
 Let them cool on the baking trays for 5 to 10 minutes, then transfer them to a cooling rack.
 
