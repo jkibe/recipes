@@ -7,7 +7,7 @@ tags: [
     "pasta",
 ]
 cover:
-    image: 
+    image: pasta.jpg
 service: Small Plates
 subservice: Noodles
 ---

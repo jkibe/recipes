@@ -1,5 +1,5 @@
 ---
-title: "Lemon Garlic Beans"
+title: "Lemon-Garlic Beans"
 date: 2024-05-23T21:21:59Z
 draft: false
 tags: [
