@@ -24,6 +24,16 @@ I've had success using this technique with everything I've tried. I'll also admi
 
 And don't toss the fermentation medium. The fermenting liquid makes an amazing addition to a cocktail or, after reduction, an incredible glaze for a piece of fish, or a vegetable like corn on the cob.
 
+Empirically, the fermentation with all the fruit that I've tried has peaked at a pH around 2.5, so reasonably acidic.
+
+The type of salt used also can have an impact on flavor and, potentially, fermentation speed. As I try more, I'll attempt to update this page.
+
+| Reagent | Composition | Characterization |
+| -----|-------------|
+| Diamond Crystal kosher salt | ~100% NaCl | Aggressive, punchy, easy to taste distinct flavors |
+| Sel gris de guérande | ~99% NaCl with traces of other minerals | Round, soft, and uniform flavors |
+
+
 ### Ingredients
 
 * 1 kg fresh fruit
