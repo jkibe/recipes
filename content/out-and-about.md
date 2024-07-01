@@ -24,19 +24,19 @@ A non-exhaustive list of places I like to eat out. Prices approximate.
 
 * [B&G Oysters](http://bandgoysters.com), Seafood, $$
 * [Bar Mezzana](http://barmezzana.com), Italian, $$
-* [Cafe Sushi](https://cafesushishoten.com), Japanese, $$
 * [Clover Food Lab](https://www.cloverfoodlab.com), Vegan, $
 * [Coppa](https://www.coppaboston.com), Italian, $$
 * [Daily Catch](https://thedailycatch.com), Italian, $$
+* [Dear Annie](https://www.dearanniebar.com), Wine Bar, $$
 * [George Howell](https://georgehowellcoffee.com), Coffee, $
 * [Juliet](https://www.julietsomerville.com), New American, $$
+* [Michette](https://michette.square.site), Bakery, $
 * [Oleana](http://oleanarestaurant.com), Middle Eastern, $$$
 * [Pagu](http://www.gopagu.com), Asian Fusion, $$
 * [Puritan & Company](https://www.puritancambridge.com), New American, $$
 * [Sarma](http://sarmarestaurant.com), Middle Eastern, $$
 * [Select Oyster Bar](http://selectboston.com), Seafood, $$
 * [South End Buttery](http://southendbuttery.com), New American, $$
-* [Sportello](http://sportelloboston.com), Italian, $$
 * [The Helmand](https://www.helmandrestaurant.com), Afghani, $$
 
 ### Copenhagen, Denmark
@@ -60,7 +60,6 @@ A non-exhaustive list of places I like to eat out. Prices approximate.
 
 * [Divellec](https://www.divellec-paris.fr), Seafood, $$$
 * [Boulangerie Utopie](http://boulangerieutopie.com), Bakery, $
-* [Da Graziella](https://dagraziella.fr), Pizza, $$
 * Du pain et des idées, Bakery, $
 * [Ellsworth](http://ellsworthparis.com), American, $$
 * [Caillebotte](https://www.lapantruchoise.com/caillebotte), Neobistrot, $$
@@ -68,7 +67,6 @@ A non-exhaustive list of places I like to eat out. Prices approximate.
 * Maison Plisson, French, $$
 * [Neige d'été](https://www.neigedete.fr), French, $$$
 * Poilâne, Bakery, $
-* [Pompette](https://pompetteparis.com), Neobistrot, $$
 * [Lazare](https://lazare-paris.fr), French, $$
 
 ### Portland, ME, USA
@@ -106,7 +104,6 @@ A non-exhaustive list of places I like to eat out. Prices approximate.
 * [Gramcery Tavern](http://gramercytavern.com), New American, \$\$\$\$
 * [Il laboratorio del gelato](https://www.laboratoriodelgelato.com), Dessert, $
 * [La Mercerie](https://www.lamercerieny.com/), New American, $$$
-* [Marta](https://www.martamanhattan.com), Italian, $$
 * [Mermaid Inn](https://www.themermaidnyc.com), Seafood, $$
 * [The Smith](https://thesmithrestaurant.com), New American, $$
 * [Upland](https://uplandnyc.com), New American, $$
