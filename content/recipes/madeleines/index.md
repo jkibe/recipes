@@ -89,7 +89,7 @@ Then add the flour and baking powder, and to just combine the wet and dry ingred
 
 Cover the bowl and refrigerate it for at least two hours, up to overnight.
 
-Preheat an oven to 200 °C (400 °F) with fan assist (convection) if available.
+Preheat an oven to 230 °C (450 °F) with fan assist (convection) if available.
 
 If you're using a metal madeleine tin, brush it with melted butter and dust the tin with flour to prevent sticking.
 
