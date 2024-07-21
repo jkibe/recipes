@@ -7,7 +7,7 @@ tags: [
     "pork"
 ]
 cover:
-    image: 
+    image: tacos.jpg
 service: Small Plates
 subservice: Tacos
 ---
