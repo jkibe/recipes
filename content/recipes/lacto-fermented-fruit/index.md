@@ -29,7 +29,7 @@ Empirically, the fermentation with all the fruit that I've tried has peaked at a
 The type of salt used also can have an impact on flavor and, potentially, fermentation speed. As I try more, I'll attempt to update this page.
 
 | Reagent | Composition | Characterization |
-| -----|-------------|
+| -----|-------------|----------------------|
 | Diamond Crystal kosher salt | ~100% NaCl | Aggressive, punchy, easy to taste distinct flavors |
 | Sel gris de guérande | ~99% NaCl with traces of other minerals | Round, soft, and uniform flavors |
 
