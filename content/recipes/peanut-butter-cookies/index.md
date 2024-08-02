@@ -8,6 +8,7 @@ tags: [
     "usa",
     "veggie",
     "baking",
+    "peanut butter",
 ]
 cover:
     image: cookies.jpg
