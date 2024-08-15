@@ -34,6 +34,12 @@ Not that the precision doesn't matter at all. Especially with difficult ingredie
 
 ## Sources
 
+### Cookware
+
+* [All-Clad](http://all-clad.com)
+* [Le Creuset](https://www.lecreuset.com)
+* [Mauviel](http://mauviel-usa.com)
+
 ### Storecupboard
 
 * [Curio Spice Company](http://curiospice.com)
