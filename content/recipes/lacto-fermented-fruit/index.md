@@ -20,6 +20,8 @@ The formula lists out the ingredients --- all two of them --- for a kilo of frui
 
 For anything other than very small fruit (e.g., blueberries, raspberries), I'd halve or quarter the pieces before starting the ferment.
 
+![Lacto fermented blueberries](blueberries.jpg)
+
 I've had success using this technique with everything I've tried. I'll also admit it can be a bit of an acquired taste. There isn't really an easy way to provide a guide for when the ferment is ready. You have to taste it along the way to find something that works for what you're trying to achieve.
 
 And don't toss the fermentation medium. The fermenting liquid makes an amazing addition to a cocktail or, after reduction, an incredible glaze for a piece of fish, or a vegetable like corn on the cob.
