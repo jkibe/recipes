@@ -14,7 +14,6 @@ service: Basics
 subservice: Sauces
 ---
 
-
 Confusingly, the words for sauce and green are identical in Spanish and Italian. This sauce is the Italian salsa verde. I'll keep saying this over and over: don't let the anchovies put you off. They blend into the background of the sauce and give it a salty-earthy complexity.
 
 This is one of my favorite sauces. When I'm pressed for time, I can quickly grill some fish, and instantly make something great by pouring the sauce over. But it's also great to finish a soup or even on a steak.
