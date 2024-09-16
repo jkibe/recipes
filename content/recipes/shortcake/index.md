@@ -9,14 +9,12 @@ tags: [
     "veggie",
 ]
 cover:
-    image: after.jpg
+    image: shortcake.jpg
 service: Desserts
 subservice: Cakes
 ---
 
 According to my notebook, this was at least initially inspired by a Felicity Cloake column, though which one is lost to the sands of time.
-
-![Before baking](before.jpg)
 
 These are great to toss together when there's some excellent summer fruit to be enjoyed. Toss over some macerated fraises des bois and whipped cream and there's little better.
 
@@ -28,15 +26,18 @@ These are great to toss together when there's some excellent summer fruit to be 
 * 8 g baking powder
 * 85 g unsalted butter, cut into small cubes
 * 160 g cream
+* Egg, beaten
 
 ### Method
 
 Combine the dry ingredients in a medium bowl. Whisk them together until they're a homogeneous mixture. Then, add the butter and rub it into the flour with clean hands. The mixture should be well-combined and sandy in texture. Add the cream and mix until the dough is just combined, minimizing gluten formation.
 
+Roll the dough out to about 20 mm (1") thick on a lightly floured work surface. Form it into a rectangle and tightly cover it in plastic. Refrigerate it for at least an hour, up to overnight.
+
 Preheat an oven to 200 °C (400 °F).
 
-Roll the dough out to about 5 mm (1/4") thick on a lightly floured work surface. Cut it into eight pieces with an approximately 6 cm (3") round cutter.
+Trim 2-3 mm (1/8") off each of the four sides of the chilled dough to expose all the edges. Then divide the block of dough into eight equal pieces.
 
-Place the rounds on a baking tray and bake them in the preheated oven for about 20 minutes, or until they're matte, well-risen, and the edges are just beginning to color.
+Place the shortcakes on a baking tray and brush them with the beaten egg. Bake them in the preheated oven for about 20 minutes, or until they're matte, shiny, well-risen, and the edges are just beginning to color.
 
 Remove the shortcakes to a wire cooling rack and let them cool to room temperature before serving.
