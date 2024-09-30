@@ -20,6 +20,14 @@ A non-exhaustive list of places I like to eat out. Prices approximate.
 
 * [Café Curon](http://cafecaron.nl), French, $$$
 
+### Annecy, France
+
+* Bloomer, Neobistrot, $$
+* Boulangerie Aristide, Bakery, $
+* Choral, Neobistrot, $$$
+* Le Comptoir du Palais, French, $$
+* Slake Coffee, Coffee, $
+
 ### Boston, USA
 
 * [B&G Oysters](http://bandgoysters.com), Seafood, $$
@@ -39,6 +47,11 @@ A non-exhaustive list of places I like to eat out. Prices approximate.
 * [South End Buttery](http://southendbuttery.com), New American, $$
 * [The Helmand](https://www.helmandrestaurant.com), Afghani, $$
 
+### Chicago, USA
+
+* The Phoenix, Chinese, $$
+* Topolobampo, Mexican, $$$
+
 ### Copenhagen, Denmark
 
 ![Selma in Copenhagen](/images/copenhagen-selma.jpg)
@@ -50,24 +63,31 @@ A non-exhaustive list of places I like to eat out. Prices approximate.
 
 ### London, UK
 
-* [Honey & Co](https://honeyandco.co.uk), Middle Eastern, $$
-* [River Cafe](http://rivercafe.co.uk), Italian, $$$
+![The River Cafe in London](/images/london-cafe.jpg)
+
 * [Bibendum](https://claudebosi.com), French, $$$
+* [Honey & Co](https://honeyandco.co.uk), Middle Eastern, $$
+* [Nécco](https://www.necco.london/menus), Japanese, $$
+* [The River Cafe](http://rivercafe.co.uk), Italian, $$$
+* Rovi, Middle Eastern, $$$
 
 ### Paris, France
 
 ![Maison Plisson in Paris](/images/paris-plisson.jpg)
 
-* [Divellec](https://www.divellec-paris.fr), Seafood, $$$
 * [Boulangerie Utopie](http://boulangerieutopie.com), Bakery, $
-* Du pain et des idées, Bakery, $
-* [Ellsworth](http://ellsworthparis.com), American, $$
+* Breizh Café, Crêpes, $$
 * [Caillebotte](https://www.lapantruchoise.com/caillebotte), Neobistrot, $$
-* [Le Saint Sebastien](https://www.lesaintsebastien.paris), Neobistrot, $$
+* [Divellec](https://www.divellec-paris.fr), Seafood, \$\$\$\$
+* [Ellsworth](http://ellsworthparis.com), American, $$
+* Fulgurances, Auteur, $$$
+* [Lazare](https://lazare-paris.fr), French, $$
 * Maison Plisson, French, $$
 * [Neige d'été](https://www.neigedete.fr), French, $$$
+* Du pain et des idées, Bakery, $
 * Poilâne, Bakery, $
-* [Lazare](https://lazare-paris.fr), French, $$
+* [Le Saint Sebastien](https://www.lesaintsebastien.paris), Neobistrot, $$
+* Sanjo, Japanese, $$
 
 ### Portland, ME, USA
 
@@ -98,6 +118,7 @@ A non-exhaustive list of places I like to eat out. Prices approximate.
 
 ### New York, USA
 
+* Aldo Sohm Wine Bar, Wine Bar, $$
 * [Balthazar](https://balthazarny.com), French, $$
 * [Bâtard](https://www.batardtribeca.com), French, $$$
 * [Café Luxembourg](https://cafeluxembourg.com), French, $$
@@ -107,6 +128,7 @@ A non-exhaustive list of places I like to eat out. Prices approximate.
 * [Mermaid Inn](https://www.themermaidnyc.com), Seafood, $$
 * [The Smith](https://thesmithrestaurant.com), New American, $$
 * [Upland](https://uplandnyc.com), New American, $$
+* Via Carota, Italian, $$
 
 ### San Francisco, USA
 
