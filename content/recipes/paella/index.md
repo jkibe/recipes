@@ -15,11 +15,13 @@ cover:
     image: seafood.jpg
 ---
 
-I've never been to Spain, so I have only hints at what a great paella is or could be. In the meantime, the wonders of the Internet, restaurants, and lots of home tinkering have given me enough information to form an opinion.
+After having great paella in Spain, I've accepted that anything done in a normal home kitchen isn't going to be quite as transcendent.
 
-The trick with paella is replicating the technical conditions a "traditional" one might be cooked under. That is, a giant wood fire with a very wide, very shallow pan. The term _paella_ means "pan" in Valencian. Paella pans are readily available if you want one --- they're not strictly speaking necessary --- but the heat source is more of an issue.
+To the extent it can be made at home more successfully, the trick is replicating the conditions a "traditional" one might be cooked under. That is, a giant wood fire with a very wide, very shallow pan. The term _paella_ means "pan" in Valencian. Paella pans are readily available if you want one --- they're not strictly speaking necessary --- but the heat source is more of an issue than the cookware.
 
-My workaround is pretty simple: only cook paella for one or two people at a time. Even on my (as of writing) circa 1980 GE electric range, this works. If you want to cook for a bigger group and don't want to build a wood fire, a grill (gas or otherwise) actually does work pretty well.
+It's easy enough to replicate the _paella_ by not using the whole volume of whatever pan you use. The pan shouldn't be filled more than about 1.5 cm (5/8").
+
+The heat matters because uneven heating means the rice will cook unevenly. Now that I have an induction cooktop that heats extremely evenly, this isn't much of an issue. If you don't have that rare luxury, make sure to use a pan that's as close to the size of your cooktop's burners or heating elements, and move the pan around to try and even out the cooking.
 
 ![Paella](cooking.jpg)
 
