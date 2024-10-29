@@ -11,7 +11,7 @@ service: Small Plates
 subservice: Veggies
 ---
 
-This is another one of those recipes where I feel slightly ridiculous writing it down as a recipe. It's the kind of thing I'd throw together almost reflexively when the mood hits. But as this is at least in part 
+This is another one of those recipes where I feel slightly ridiculous writing it down as a recipe. It's the kind of thing I'd throw together almost reflexively when the mood hits. But as this is at least in part a digital notebook, it seemed worth writing down.
 
 Doing beans this way really highlights great product. I like to do this with heirloom beans from producers like [Rancho Gordo](http://ranchogordo.com). While you could make this with a can or jar of beans, I don't think it has the same impact. This is really a way to highlight good inputs more than anything.
 
