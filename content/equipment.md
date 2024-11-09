@@ -55,5 +55,6 @@ Not that the precision doesn't matter at all. Especially with difficult ingredie
 * [Liberty](https://www.libertylondon.com)
 * [Merci](http://merci-merci.com)
 * [Myrth](https://www.myrth.us)
+* [Richard Brendon](https://richardbrendon.com)
 * [Williams Sonoma](https://www.williams-sonoma.com)
 * [Zara Home](https://www.zarahome.com)
