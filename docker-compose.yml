@@ -2,7 +2,7 @@ version: "3.7"
 services:
 
   blog:
-    image: hugomods/hugo:0.138.0
+    image: hugomods/hugo:0.124.1
     ports:
      - "1313:1313"
     networks:
