@@ -1,7 +1,18 @@
 <!-- Squeaky Tracking Code for https://therecipelog.com -->
 <script async data-id="101410015" src="//static.getclicky.com/js"></script>
 <style type="text/css">
+{{ if .Params.accent }}
+  body {
+    background-color: {{ .Params.accent.background.color }};
+    --primary: {{ .Params.accent.text.primary }};
+    --secondary: {{ .Params.accent.text.secondary }};
+    --tertiary: {{ .Params.accent.text.tertiary }};
+    --content: {{ .Params.accent.text.content }};
+  }
+{{ end }}
+
   .post-content div {
     margin: 1em 0;
   }
 </style>
+

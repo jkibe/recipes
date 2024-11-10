@@ -1,6 +1,14 @@
 ---
 title: "Out & About"
 type: section
+accent:
+    background:
+        color: "#0f1a35"
+    text:
+        primary: "#d3daed"
+        secondary: "#fff"
+        tertiary: "#b0bbd8"
+        content: "#fff"
 ---
 
 ## Les bonnes addresses

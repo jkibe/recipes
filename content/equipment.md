@@ -1,5 +1,14 @@
 ---
 title: "Equipment"
+accent:
+    background:
+        color: "#f4e8f3"
+    text:
+        primary: "#54194f"
+        secondary: "#111"
+        tertiary: "#7d4278"
+        content: "#222"
+
 ---
 
 Maybe someday I'll expand this to include the specific make and model of every piece of cooking gear I own, for the equipment fetishists. For now, this is mostly a page for me to tell you to get a good knife and a scale.
