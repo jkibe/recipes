@@ -99,6 +99,8 @@ A non-exhaustive list of places I like to eat out. Prices approximate.
 
 ### Portland, ME, USA
 
+![Oysters at Eventide](/images/portland-oysters.jpg)
+
 * [Eventide](https://www.eventideoysterco.com), Seafood, $$
 
 ### Portland, OR, USA
