@@ -1,0 +1,48 @@
+baseURL: https://therecipelog.com/
+languageCode: en-us
+title: The Recipe Log
+theme: PaperMod
+summaryLength: 30
+paginate: 10
+enableGitInfo: false
+rssLimit: 10
+params:
+  disableThemeToggle: true
+  ShowFullTextinRSS: true
+  ShowPostNavLinks: true
+taxonomies:
+  tag: tags
+menu:
+  main:
+    - identifier: home
+      name: Home
+      url: /
+      weight: 1
+    - identifier: about
+      name: About
+      url: /about
+      weight: 20
+    - identifier: recipes
+      name: Recipes
+      url: /recipes
+      weight: 3
+    - identifier: menus
+      name: What's Cooking
+      url: /menus
+      weight: 3
+    - identifier: out-and-about
+      name: Out & About
+      url: /out-and-about
+      weight: 3
+    - identifier: equipment
+      name: Equipment
+      url: /equipment
+      weight: 10
+    - identifier: tags
+      name: Tags
+      url: /tags
+      weight: 10
+    - identifier: subscribe
+      name: Subscribe
+      url: /subscribe
+      weight: 10
