@@ -15,7 +15,7 @@ subservice: Veggies
 
 I take inspiration here from the people at Café Miznon, now with locations all over the world. Though I learned about it [via Le Fooding](https://lefooding.com/en/recipes-video-toquera/toquera-295-an-affair-with-un-chou-fleur), and their old Toquéra series.
 
-The original recipe suggests boiling the whole head of cauliflower in salty boiling water. Admittedly this has the advantage of doing a really good job of seasoning the cauliflower. But it also has some disadvantages. You need a huge pot and a lot of water. This is both cumbersome and very resource-hungry. Keeping all that water at a boil uses a ton of energy.
+The original recipe suggests boiling the whole head of cauliflower in salty boiling water. Admittedly this has the advantage of doing a really good job of seasoning the cauliflower. But it also has some disadvantages. Or perhaps one very big disadvantage singular. Namely: you need a huge pot of boiling water. One big enough to accommodate a whole cauliflower with some headroom. This is both cumbersome and very resource-hungry. Keeping all that water at a boil uses a ton of energy.
 
 At some stage, I realized there's a simple workaround. Water in the form of steam can get a lot hotter than water in its liquid state, and keeping a relatively small amount of steam going is both less cumbersome and a lot more energy efficient. It does mean being a little more generous with the salt for good seasoning.
 
