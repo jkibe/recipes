@@ -45,6 +45,6 @@ Preheat an oven to 180 °C (350 °F) with fan (convection) if available.
 
 Line 12-portion muffin tin with parchment liners, or grease the muffin tin.
 
-Distribute the batter evenly among the cups. Sprinkle the muffin batter with pepitas.
+Distribute the batter evenly among the cups. Each muffin should use about 90-95 g of the muffin mix. Sprinkle the muffin batter with pepitas.
 
 Bake the muffins until they're lightly golden on the edges and a cake tester comes out clean, 20 to 25 minutes.
