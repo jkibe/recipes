@@ -7,7 +7,7 @@ tags: [
     "rice"
 ]
 cover:
-    image: 
+    image: rice.jpg
 service: Small Plates
 subservice: Grains
 ---
