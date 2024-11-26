@@ -86,6 +86,7 @@ A non-exhaustive list of places I like to eat out. Prices approximate.
 * [Boulangerie Utopie](http://boulangerieutopie.com), Bakery, $
 * Breizh Café, Crêpes, $$
 * [Caillebotte](https://www.lapantruchoise.com/caillebotte), Neobistrot, $$
+* [La Dame de Pic](https://anne-sophie-pic.com/paris/#damedepic), French, \$\$\$\$
 * [Divellec](https://www.divellec-paris.fr), Seafood, \$\$\$\$
 * [Ellsworth](http://ellsworthparis.com), American, $$
 * Fulgurances, Auteur, $$$
