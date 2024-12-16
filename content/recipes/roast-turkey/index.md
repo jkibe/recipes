@@ -46,6 +46,3 @@ Take the turkey out of the oven again. Insert a temperature probe, and brush the
 Raise the oven temperature to 150 °C (300 °F). Cook the turkey until its core temperature reaches 68 °C (155 °F), about 5-7 hours.
 
 Remove the roast turkey from the oven and let it rest for 20-30 minutes to finish cooking before carving.
-
-
-
