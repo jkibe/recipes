@@ -13,7 +13,7 @@ tags: [
     "veggie",
 ]
 cover:
-    image: 
+    image: cake.jpg
 service: Desserts
 subservice: Cakes
 ---
