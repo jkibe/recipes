@@ -8,7 +8,7 @@ tags: [
     "vegan",
 ]
 cover:
-    image: choufleur.jpg
+    image: cauliflower.jpg
 service: Small Plates
 subservice: Veggies
 ---
