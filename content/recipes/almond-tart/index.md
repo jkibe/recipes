@@ -5,6 +5,9 @@ draft: false
 tags: [
     "desserts",
     "veggie",
+    "almond",
+    "raspberry",
+    "tart",
 ]
 cover:
     image: complete.jpg

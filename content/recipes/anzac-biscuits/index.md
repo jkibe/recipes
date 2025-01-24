@@ -7,7 +7,11 @@ tags: [
     "dessert",
     "baking",
     "australia",
-    "new zealand"
+    "new zealand",
+    "coconut",
+    "oats",
+    "biscuit",
+    "cookie",
 ]
 cover:
     image: biscuits.jpg
