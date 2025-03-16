@@ -37,15 +37,15 @@ The rosewater is worth seeking out. They stock it alongside other ingredients fr
 
 Preheat an oven to 180 °C (350 °F). Grease a 20 cm (8") cake tin with a small amount of olive oil, and then line the bottom with parchment paper.
 
-Combine the sugar and eggs in a large bowl and whisk them together vigorously. The mixture should be a light pale yellow and fall in a ribbon from the whisk. Then add the rosewater and olive oil, whisking to combine and make the mixture homogeneous.
+Combine the sugar and eggs in a large bowl and whisk them together vigorously. The mixture should be a light pale yellow, very airy, and fall in a ribbon from the whisk. Then add the rosewater and olive oil, whisking to combine and make the mixture homogeneous.
 
-Sift in the flours and baking powder, whisking minimally just until the batter is relatively smooth. A few small lumps are preferable to a completely uniform mixture.
+Sift in the flours and baking powder, whisking minimally just until the batter is smooth.
 
 Pour the batter into the prepared cake tin, and then bake the cake for about 30 minutes. The surface should be matte, and the edges just browned. A knife inserted into the cake should come out clean.
 
 Let the cake cool for at least an hour before serving.
 
+#### Variant: Blood Orange
 
-juice of 1 lemon
-80 g blueberries
-no rosewater
+Omit the rosewater and replace it with 50 g blood orange juice. Additionally, add 20 g of finely grated blood orange zest.
+

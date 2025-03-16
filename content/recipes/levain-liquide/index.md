@@ -22,6 +22,7 @@ If you're not planning to bake every day --- I certainly don't --- it's easy eno
 Recipes that use this levain:
 
 * [Baguettes]({{< ref "recipes/baguette-au-levain" >}})
+* [Levain Pizza Dough]({{< ref "recipes/levain-pizza-dough" >}})
 
 ### On flour
 
