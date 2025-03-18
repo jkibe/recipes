@@ -84,3 +84,5 @@ Last but not least, I'll likely be spending some time in one of the great food c
 * Food critic Jay Rayner has taken over at the FT as its [new food critic](https://www.ft.com/content/e184e9a4-d653-41ff-9fd5-c9ddc0064e00)
 
 * The team behind _No Such Thing as a Fish_ have a new podcast in the family on food, [_Lunchbox Envy_](https://www.qi.com/lunchbox)
+
+_[Subscribe](/subscribe) to get notified every month when new issues go out_
