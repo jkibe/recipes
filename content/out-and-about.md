@@ -38,8 +38,8 @@ A non-exhaustive list of places I like to eat out. Prices approximate.
 
 ### Boston, USA
 
-* [B&G Oysters](http://bandgoysters.com), Seafood, $$
 * [Bar Mezzana](http://barmezzana.com), Italian, $$
+* [Chickadee](https://www.chickadeerestaurant.com), Mediterranean, $$
 * [Clover Food Lab](https://www.cloverfoodlab.com), Vegan, $
 * [Coppa](https://www.coppaboston.com), Italian, $$
 * [Daily Catch](https://thedailycatch.com), Italian, $$
@@ -47,6 +47,7 @@ A non-exhaustive list of places I like to eat out. Prices approximate.
 * [George Howell](https://georgehowellcoffee.com), Coffee, $
 * [Juliet](https://www.julietsomerville.com), New American, $$
 * [Michette](https://michette.square.site), Bakery, $
+* [No Relation](https://www.norelationboston.com), \$\$\$\$
 * [Oleana](http://oleanarestaurant.com), Middle Eastern, $$$
 * [Pagu](http://www.gopagu.com), Asian Fusion, $$
 * [Puritan & Company](https://www.puritancambridge.com), New American, $$

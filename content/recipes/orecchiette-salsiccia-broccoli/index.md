@@ -44,5 +44,3 @@ Emulsify and season the sauce with the starchy pasta cooking water.
 Toss the cooked orecchiette in the sauce.
 
 Serve it with a drizzle of olive oil and black pepper to taste.
-
-
