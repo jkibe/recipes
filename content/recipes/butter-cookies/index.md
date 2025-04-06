@@ -21,7 +21,7 @@ This version has a few more technical flourishes. It's also a way for me to reco
 
 * 350 g unsalted butter, room temperature
 * 150 g granulated sugar
-* 50 (about 1 large) eggs
+* 50 g (about 1 large) eggs
 * Pinch salt
 * 500 g all-purpose flour
 
