@@ -33,4 +33,17 @@ Then add the eggs. Follow the eggs with the salt and flour.
 
 Preheat an oven to 170 °C (340 °F).
 
-Bake the cookies until they're golden brown. Time will vary depending on the shaping.
+### Variations
+
+#### Vanilla almond thumbprints
+
+Add to the dough:
+
+* 10 g vanilla extract
+* 80 g flaked almonds
+
+Line two baking trays with Silpats or parchment paper.
+
+Form the cookies into 30 g portions. Roll each portion into a ball, and, using your thumb, flatten each portion with a small indentation. The cookies do not spread much, and so can be packed quite densely on the tray.
+
+Bake the cookies until they're lightly golden, about 30 minutes.
