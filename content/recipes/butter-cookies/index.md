@@ -47,3 +47,16 @@ Line two baking trays with Silpats or parchment paper.
 Form the cookies into 30 g portions. Roll each portion into a ball, and, using your thumb, flatten each portion with a small indentation. The cookies do not spread much, and so can be packed quite densely on the tray.
 
 Bake the cookies until they're lightly golden, about 30 minutes.
+
+#### Chocolate orange
+
+Add to the dough:
+
+* 40 g dutched cocoa powder
+* Zest of three medium oranges
+
+Line two baking trays with Silpats or parchment paper.
+
+Form the cookies into 30 g portions. Roll each portion into a ball, and, using your thumb, flatten each portion with a small indentation. The cookies do not spread much, and so can be packed quite densely on the tray.
+
+Bake the cookies until they're lightly golden, about 30 minutes.

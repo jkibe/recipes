@@ -28,6 +28,8 @@ Adding gin to the macerating liquid is akin to adding miso to a peanut butter co
 
 While I suppose it's possible to make this with any strawberries, I reserve this treatment for the brief window in the summer when I can get my hands on really good local strawberries.
 
+These work really well on a [pavlova](/recipes/pavlova/).
+
 ### Ingredients
 
 * 250 g strawberries, halved and hulled
