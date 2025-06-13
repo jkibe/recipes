@@ -70,6 +70,11 @@ A non-exhaustive list of places I like to eat out. Prices approximate.
 * Selma, New Nordic, $$
 * Uformel, New Nordic, $$$
 
+### Houston, USA
+
+* Common Bond, Café-Bakery, $
+* The Blind Duck, Vietnamese, $$
+
 ### London, UK
 
 ![The River Cafe in London](/images/london-cafe.jpg)
