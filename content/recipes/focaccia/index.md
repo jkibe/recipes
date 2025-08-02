@@ -95,7 +95,7 @@ Let the dough rise for 30 minutes, until some bubbles begin to develop.
 
 Mix together equal quantities of additional olive oil and water.
 
-Then confidently push dimples into the dough. Generously drizzle the dough with the water and olive oil mixture. Sprinkle over the flaky salt and any herbs.
+Then confidently push dimples into the dough. Drizzle the dough with the prepared water and olive oil mixture. Sprinkle over the flaky salt and any herbs.
 
 Transfer the bread to the oven and bake it until it's lightly browned, about 20 minutes.
 
