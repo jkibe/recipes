@@ -9,7 +9,7 @@ tags: [
     "summer",
 ]
 cover:
-    image: 
+    image: ragu.jpg
 service: Small Plates
 subservice: Noodles
 ---
