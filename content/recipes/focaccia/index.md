@@ -100,3 +100,18 @@ Then confidently push dimples into the dough. Drizzle the dough with the prepare
 Transfer the bread to the oven and bake it until it's lightly browned, about 20 minutes.
 
 When the focaccia has finished baking, remove it from the oven and transfer the bread to a cooling rack. Let the bread cool to room temperature.
+
+### Variations
+
+#### Focaccia au levain
+
+Focaccia can also be great _au levain_, using a sourdough starter rather than with a commercial yeast. The recipe is largely the same, doing a simple reduction of the flour and water to compensate for the quantity of levain required.
+
+* 200 g well-fed [levain liquide](/recipes/levain-liquide)
+* 900 g all-purpose flour
+* 700 g water, warm (ca. 30 °C)
+* 100 g olive oil
+* Pinch sugar
+* 10 g salt
+
+In my experience, doing the focaccia with a levain requires a longer rise time.
