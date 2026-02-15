@@ -6,7 +6,7 @@ tags: [
     "italy",
     "veggie",
     "vegan",
-    "rice",    
+    "rice",
 ]
 cover:
     image: risotto.jpg
