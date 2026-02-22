@@ -69,7 +69,7 @@ The amount of kinako mix required will depend on the batch size. It's very easy 
 
 Mix together the flour, sugar, and salt in a small bowl or in a small tray until it is completely homogeneous.
 
-Dip the mochi in water to moisten the surface, and then 
+Dip the mochi in water to moisten the surface, and then generously dredge the mochi in the kinako mix.
 
 #### Daifuku mochi
 
