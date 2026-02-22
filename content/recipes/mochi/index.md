@@ -14,7 +14,7 @@ service: Desserts
 subservice: Cakes
 ---
 
-The procedure for doing the mochi itself is somewhat specific to the Tiger SMJ-B18U machine. The water and rice amounts, or the timings might work in other machines. From experience, however, each machine tends to require a fit of finesse to get right.
+The procedure for doing the mochi itself is somewhat specific to the Tiger SMJ-B18U machine. The water and rice amounts, or the timings might work in other machines. From experience, however, each machine tends to require a bit of finesse to get right.
 
 For true mochi --- made from pounding steamed rice, not using _mochiko_ flour --- you really do need a machine. I've tried making it in a stand mixer and the results were very underwhelming. And the _mochiko_ flour doesn't produce the same quality of mochi as pounding whole grains of rice.
 
