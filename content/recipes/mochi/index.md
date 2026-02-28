@@ -9,7 +9,7 @@ tags: [
     "dessert",
 ]
 cover:
-    image: 
+    image: mochi.jpg
 service: Desserts
 subservice: Cakes
 ---
