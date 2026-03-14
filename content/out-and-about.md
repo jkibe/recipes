@@ -15,8 +15,8 @@ accent:
 
 A non-exhaustive list of places I like to eat out. Prices approximate.
 
-* **$** Under $20 per person
-* **$$** Under $60 per person
+* **$** Under $25 per person
+* **$$** Under $80 per person
 * **$$$** Under $150 per person
 * **$$$$** Over $150 per person
 
@@ -94,8 +94,6 @@ A non-exhaustive list of places I like to eat out. Prices approximate.
 * [Caillebotte](https://www.lapantruchoise.com/caillebotte), Neobistrot, $$
 * [La Dame de Pic](https://anne-sophie-pic.com/paris/#damedepic), French, \$\$\$\$
 * [Divellec](https://www.divellec-paris.fr), Seafood, \$\$\$\$
-* [Ellsworth](http://ellsworthparis.com), American, $$
-* Fulgurances, Auteur, $$$
 * [Lazare](https://lazare-paris.fr), French, $$
 * Maison Plisson, French, $$
 * [Neige d'été](https://www.neigedete.fr), French, $$$
@@ -116,6 +114,7 @@ A non-exhaustive list of places I like to eat out. Prices approximate.
 * [Boulangerie St Honoré](https://www.sainthonorebakery.com), Bakery, $
 * [Ken's Artisan Pizza](https://kensartisan.com/pizza), Pizza, $$
 * [Salt & Straw](https://saltandstraw.com), Dessert, $
+* [Dolly Olive](https://www.sesamecollective.com/dollyolive), Mediterranean, $$
 
 ### Madrid, Spain
 
