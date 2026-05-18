@@ -39,6 +39,7 @@ A non-exhaustive list of places I like to eat out. Prices approximate.
 ### Boston, USA
 
 * [Bar Mezzana](http://barmezzana.com), Italian, $$
+* Baleia, Portuguese, $$$
 * [Chickadee](https://www.chickadeerestaurant.com), Mediterranean, $$
 * [Clover Food Lab](https://www.cloverfoodlab.com), Vegan, $
 * [Coppa](https://www.coppaboston.com), Italian, $$
@@ -55,6 +56,7 @@ A non-exhaustive list of places I like to eat out. Prices approximate.
 * [Select Oyster Bar](http://selectboston.com), Seafood, $$
 * [South End Buttery](http://southendbuttery.com), New American, $$
 * [The Helmand](https://www.helmandrestaurant.com), Afghani, $$
+* Willie's, Italian fusion, $$
 
 ### Chicago, USA
 
@@ -92,7 +94,6 @@ A non-exhaustive list of places I like to eat out. Prices approximate.
 * [Boulangerie Utopie](http://boulangerieutopie.com), Bakery, $
 * Breizh Café, Crêpes, $$
 * [Caillebotte](https://www.lapantruchoise.com/caillebotte), Neobistrot, $$
-* [La Dame de Pic](https://anne-sophie-pic.com/paris/#damedepic), French, \$\$\$\$
 * [Divellec](https://www.divellec-paris.fr), Seafood, \$\$\$\$
 * [Lazare](https://lazare-paris.fr), French, $$
 * Maison Plisson, French, $$
