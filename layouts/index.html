@@ -1,72 +1,375 @@
 {{ define "main" }}
-    <div class="post-content">
-        <h1>Welcome</h1>
+<style>
+/* ── Homepage grid ── */
+.homepage-grid {
+  display: grid;
+  grid-template-columns: repeat(4, 1fr);
+  grid-template-rows: repeat(4, 1fr);
+  /* Lock the whole grid to a 3:2 ratio so every cell is also 3:2 */
+  aspect-ratio: 3 / 2;
+  /* Full-bleed with consistent site margins */
+  width: calc(100vw - var(--gap) * 6);
+  min-width: calc(700px - var(--gap) * 6);
+  margin-left: calc(50% - 50vw + var(--gap) * 3);
+  overflow: hidden;
+  gap: 1em;
+}
 
-        <p>In the spring of 2020 the world shut down confronted with an immense public health crisis. It meant I couldn't eat out, be fed by friends, or even go to the store more than once a week. I started a weekly newsletter to document my experience over the span of that unusual period in our history.</p>
+/* ── Panel base (menu posts with cover image + overlay) ── */
+.hp-panel {
+  position: relative;
+  overflow: hidden;
+}
 
-        <p>I've decided to continue that on a slightly different basis while slowly transitioning my paper notebooks into a digital format. Each month, I'll do a write up in the What's Cooking section, the latest just below. In the Recipes section, I'll slowly add and refine the formulas for what I cook and bake.</p>
+.hp-panel-cover {
+  position: absolute;
+  inset: 0;
+}
+
+.hp-panel-cover img {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+  display: block;
+}
+
+.hp-panel-overlay {
+  position: absolute;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  padding: 1rem 1.25rem;
+  background: linear-gradient(to top, rgba(0,0,0,0.78) 0%, rgba(0,0,0,0) 100%);
+  color: #fff;
+}
+
+.hp-panel-overlay a {
+  color: #fff;
+  text-decoration: none;
+}
+
+.hp-panel-overlay a:hover {
+  text-decoration: underline;
+}
+
+.hp-panel-overlay h2 {
+  margin: 0 0 0.3rem;
+  font-size: 1.25rem;
+  line-height: 1.2;
+}
+
+.hp-secondary .hp-panel-overlay h2 {
+  font-size: 0.95rem;
+}
+
+.hp-panel-overlay p {
+  margin: 0;
+  font-size: 0.8rem;
+  opacity: 0.9;
+  display: -webkit-box;
+  -webkit-line-clamp: 2;
+  -webkit-box-orient: vertical;
+  overflow: hidden;
+}
+
+.hp-secondary .hp-panel-overlay p {
+  -webkit-line-clamp: 1;
+}
+
+/* ── Shared tile shape ── */
+.hp-main,
+.hp-secondary,
+.hp-recipe,
+.hp-subscribe {
+  border-radius: var(--radius);
+}
+
+/* ── Grid positions: upper section ── */
+.hp-main {
+  grid-column: 1 / 4;
+  grid-row: 1 / 3;
+  display: flex;
+  overflow: hidden;
+}
+
+.hp-main-text {
+  flex: 0 0 33.333%;
+  padding: 1.5rem;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  gap: 0.75rem;
+  background: var(--theme);
+  overflow: hidden;
+}
+
+.hp-main-text h2 {
+  margin: 0;
+  font-size: 1.4rem;
+  line-height: 1.2;
+}
+
+.hp-main-text h2 a {
+  text-decoration: none;
+  color: var(--primary);
+}
+
+.hp-main-text h2 a:hover {
+  text-decoration: underline;
+}
+
+.hp-main-text p {
+  margin: 0;
+  font-size: 0.85rem;
+  color: var(--primary);
+  opacity: 0.85;
+  display: -webkit-box;
+  -webkit-line-clamp: 8;
+  -webkit-box-orient: vertical;
+  overflow: hidden;
+}
+
+.hp-main-image {
+  flex: 1;
+  overflow: hidden;
+}
+
+.hp-main-image img {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+  display: block;
+}
+
+.hp-secondary {
+  grid-column: 4 / 5;
+  grid-row: 1 / 3;
+  display: flex;
+  flex-direction: column;
+  overflow: hidden;
+}
+
+/* ── Recipe panels ── */
+.hp-recipe-1 { grid-column: 1 / 2; grid-row: 3 / 5; }
+.hp-recipe-2 { grid-column: 2 / 3; grid-row: 3 / 5; }
+.hp-recipe-3 { grid-column: 3 / 4; grid-row: 3 / 5; }
+
+.hp-recipe {
+  display: flex;
+  flex-direction: column;
+  overflow: hidden;
+  position: relative;
+}
+
+.hp-recipe-image {
+  flex: 1;
+  overflow: hidden;
+  position: relative;
+}
+
+.hp-recipe-image .hp-tag {
+  position: absolute;
+  top: 0.6em;
+  left: 0.6em;
+}
+
+.hp-recipe-image img {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+  display: block;
+}
+
+.hp-recipe-text {
+  flex: 1;
+  padding: 0.6rem 0.75rem;
+  overflow: hidden;
+  display: flex;
+  flex-direction: column;
+  gap: 0.2rem;
+  background: var(--theme);
+}
+
+.hp-recipe-text h3 {
+  margin: 0;
+  font-size: 0.85rem;
+  line-height: 1.3;
+}
+
+.hp-recipe-text h3 a {
+  text-decoration: none;
+  color: var(--primary);
+}
+
+.hp-recipe-text h3 a:hover {
+  text-decoration: underline;
+}
+
+.hp-recipe-meta {
+  font-size: 0.68rem;
+  color: var(--secondary);
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
+}
+
+.hp-recipe-text p {
+  margin: 0;
+  font-size: 0.72rem;
+  color: var(--primary);
+  display: -webkit-box;
+  -webkit-line-clamp: 3;
+  -webkit-box-orient: vertical;
+  overflow: hidden;
+  opacity: 0.85;
+}
+
+.hp-recipe-link {
+  position: absolute;
+  inset: 0;
+  z-index: 1;
+}
+
+/* ── Content-type tags ── */
+.hp-tag {
+  display: inline-block;
+  padding: 0.2em 0.5em;
+  font-size: 0.65rem;
+  font-weight: 600;
+  letter-spacing: 0.04em;
+  text-transform: uppercase;
+  color: #fff;
+  border-radius: 2px;
+  flex-shrink: 0;
+}
+
+.hp-tag-menu   { background: #bf7635; }
+.hp-tag-recipe { background: #222; }
+
+/* ── Subscribe CTA ── */
+.hp-subscribe {
+  grid-column: 4 / 5;
+  grid-row: 3 / 5;
+  background-color: #1a2b4a;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  padding: 1.5rem;
+  gap: 0.75rem;
+  overflow: hidden;
+}
+
+.hp-subscribe h3 {
+  margin: 0;
+  font-size: 1.1rem;
+  color: #fff;
+  line-height: 1.2;
+}
+
+.hp-subscribe p {
+  margin: 0;
+  font-size: 0.8rem;
+  color: rgba(255,255,255,0.8);
+  line-height: 1.5;
+}
+
+.hp-subscribe a.hp-subscribe-link {
+  display: inline-block;
+  margin-top: 0.25rem;
+  padding: 0.45em 1em;
+  font-size: 0.75rem;
+  font-weight: 600;
+  color: #1a2b4a;
+  background: #fff;
+  border-radius: 2px;
+  text-decoration: none;
+  align-self: flex-start;
+}
+
+.hp-subscribe a.hp-subscribe-link:hover {
+  background: rgba(255,255,255,0.85);
+}
+</style>
+
+<div class="homepage-grid">
+
+  {{/* ── Main panel: most recent menu (text left, image right) ── */}}
+  {{ range where .Site.RegularPages "Type" "menus" | first 1 }}
+  {{- $img := "" }}
+  {{- if .Params.cover.image }}
+    {{- $res := (.Resources.ByType "image").GetMatch (printf "*%s*" .Params.cover.image) }}
+    {{- if $res }}{{ $img = $res.Permalink }}{{ else }}{{ $img = .Params.cover.image | absURL }}{{ end }}
+  {{- else }}
+    {{- range (.Resources.ByType "image" | first 1) }}{{ $img = .Permalink }}{{ end }}
+  {{- end }}
+  <div class="hp-main">
+    <div class="hp-main-text">
+      <span class="hp-tag hp-tag-menu">What's Cooking</span>
+      <h2><a href="{{ .Permalink }}">{{ .Title }}</a></h2>
+      <p>{{ .Summary | plainify | htmlUnescape }}</p>
     </div>
+    <a class="hp-main-image" href="{{ .Permalink }}">
+      {{- if $img }}<img src="{{ $img }}" alt="{{ .Title }}" loading="eager">{{ end }}
+    </a>
+  </div>
+  {{ end }}
 
-    <hr>
-
-    <div class="post-content">
-    <h2>What I'm Cooking</h2>
-
-    {{ range where .Site.RegularPages "Type" "menus" | first 1 }}
-    <article>
-        <h3>
-            <a href="{{ .Permalink }}">
-                {{ .Title }}
-            </a>
-        </h3>
-        
-        <a href="{{ .Permalink }}">
-        {{- $isHidden := (site.Params.cover.hidden | default site.Params.cover.hiddenInList) }}
-        {{- partial "cover.html" (dict "cxt" . "IsHome" true "isHidden" $isHidden "IsSingle" false) }}
-        </a>
-
-        <p>{{ .Summary }}</p>
-        <div class="post-footer">
-
-        <!-- Display tags -->
-        {{if .Params.tags}}
-            {{ range .Params.tags }}
-                <a class="tag" href="/tags/{{ . | urlize }}">#{{.}}</a>
-            {{ end }}
-        {{ end }}
-        </div> 
-    </article>
-    {{ end }}
-
+  {{/* ── Secondary panel: second most recent menu ── */}}
+  {{ $allMenus := where .Site.RegularPages "Type" "menus" }}
+  {{ range $allMenus | after 1 | first 1 }}
+  <div class="hp-secondary">
+    {{- $img := "" }}
+    {{- if .Params.cover.image }}
+      {{- $res := (.Resources.ByType "image").GetMatch (printf "*%s*" .Params.cover.image) }}
+      {{- if $res }}{{ $img = $res.Permalink }}{{ else }}{{ $img = .Params.cover.image | absURL }}{{ end }}
+    {{- else }}
+      {{- range (.Resources.ByType "image" | first 1) }}{{ $img = .Permalink }}{{ end }}
+    {{- end }}
+    <a class="hp-recipe-image" href="{{ .Permalink }}">
+      {{- if $img }}<img src="{{ $img }}" alt="{{ .Title }}" loading="lazy">{{ end }}
+      <span class="hp-tag hp-tag-menu">What's Cooking</span>
+    </a>
+    <div class="hp-recipe-text">
+      <h3><a href="{{ .Permalink }}">{{ .Title }}</a></h3>
+      <p>{{ .Summary | plainify | htmlUnescape }}</p>
     </div>
+  </div>
+  {{ end }}
 
-    <hr>
+  {{/* ── Recipe panels: 3 most recent recipes ── */}}
+  {{ $recipeClasses := slice "hp-recipe-1" "hp-recipe-2" "hp-recipe-3" }}
+  {{- $recipesWithCover := slice }}
+  {{- range where .Site.RegularPages "Type" "recipes" }}
+    {{- if .Params.cover.image }}{{ $recipesWithCover = $recipesWithCover | append . }}{{ end }}
+  {{- end }}
+  {{ range $i, $p := ($recipesWithCover | first 3) }}
+  <div class="hp-recipe {{ index $recipeClasses $i }}">
+    {{- $img := "" }}
+    {{- if $p.Params.cover.image }}
+      {{- $res := ($p.Resources.ByType "image").GetMatch (printf "*%s*" $p.Params.cover.image) }}
+      {{- if $res }}{{ $img = $res.Permalink }}{{ else }}{{ $img = $p.Params.cover.image | absURL }}{{ end }}
+    {{- else }}
+      {{- range ($p.Resources.ByType "image" | first 1) }}{{ $img = .Permalink }}{{ end }}
+    {{- end }}
+    <div class="hp-recipe-image">
+      {{- if $img }}<img src="{{ $img }}" alt="{{ $p.Title }}" loading="lazy">{{ end }}
+      <span class="hp-tag hp-tag-recipe">Recipe</span>
+    </div>
+    <div class="hp-recipe-text">
+      <h3><a href="{{ $p.Permalink }}" tabindex="-1">{{ $p.Title }}</a></h3>
+      <div class="hp-recipe-meta">{{- partial "post_meta.html" $p -}}</div>
+      <p>{{ $p.Summary | plainify | htmlUnescape }}</p>
+    </div>
+    <a class="hp-recipe-link" href="{{ $p.Permalink }}" aria-label="{{ $p.Title | plainify }}"></a>
+  </div>
+  {{ end }}
 
-    <header class="page-header">
-        <h2>Newest Recipes</h2>
-    </header>
+  {{/* ── Subscribe CTA ── */}}
+  <div class="hp-subscribe">
+    <h3>Subscribe</h3>
+    <p>Subscribe to get notified with updates once a month.</p>
+    <a class="hp-subscribe-link" href="/subscribe">Subscribe</a>
+  </div>
 
-    {{ range where .Site.RegularPages "Type" "recipes" | first 5 }}
-        <article class="post-entry">
-          {{- $isHidden := (site.Params.cover.hidden | default site.Params.cover.hiddenInList) }}
-          {{- partial "cover.html" (dict "cxt" . "IsHome" true "isHidden" $isHidden "IsSingle" false) }}
-          <header class="entry-header">
-            <h2>
-              {{- .Title }}
-              {{- if .Draft }}<sup><span class="entry-isdraft">&nbsp;&nbsp;[draft]</span></sup>{{- end }}
-            </h2>
-          </header>
-          {{- if (ne (.Param "hideSummary") true) }}
-          <div class="entry-content">
-            <p>{{ .Summary | plainify | htmlUnescape }}{{ if .Truncated }}...{{ end }}</p>
-          </div>
-          {{- end }}
-          {{- if not (.Param "hideMeta") }}
-          <footer class="entry-footer">
-            {{- partial "post_meta.html" . -}}
-          </footer>
-          {{- end }}
-          <a class="entry-link" aria-label="post link to {{ .Title | plainify }}" href="{{ .Permalink }}"></a>
-        </article>
-    {{ end }}
+</div>
 {{ end }}
