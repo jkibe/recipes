@@ -5,7 +5,8 @@ draft: false
 tags: [
     "italy",
     "dessert",
-    "veggie"    
+    "veggie",
+    "cake",
 ]
 cover:
     image: top.jpg

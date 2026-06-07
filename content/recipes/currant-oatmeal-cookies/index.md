@@ -5,6 +5,7 @@ draft: false
 tags: [
     "dessert",
     "usa",
+    "cookie",
 ]
 cover:
     image: 

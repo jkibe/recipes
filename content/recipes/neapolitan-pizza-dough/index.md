@@ -8,6 +8,7 @@ tags: [
     "naples",
     "vegan",
     "veggie",
+    "bread",
 ]
 service: Basics
 subservice: Breads

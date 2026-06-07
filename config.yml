@@ -6,6 +6,14 @@ summaryLength: 30
 paginate: 10
 enableGitInfo: false
 rssLimit: 10
+related:
+  includeNewer: true
+  threshold: 50
+  toLower: true
+  indices:
+    - name: tags
+      weight: 100
+
 params:
   disableThemeToggle: true
   ShowFullTextinRSS: true
@@ -27,16 +35,13 @@ menu:
       url: /recipes
       weight: 3
     - identifier: menus
-      name: What's Cooking
+      name: What’s Cooking
       url: /menus
       weight: 3
     - identifier: out-and-about
       name: Out & About
       url: /out-and-about
       weight: 3
-    - identifier: equipment
-      name: Equipment
-      url: /equipment
       weight: 10
     - identifier: tags
       name: Tags

@@ -3,7 +3,11 @@ title: "Brioche"
 date: 2023-06-19T00:45:18Z
 draft: false
 tags: [
-    
+    "france",
+    "veggie",
+    "bread",
+    "baking",
+    "basics",
 ]
 cover:
     image: baked.jpg

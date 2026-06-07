@@ -5,7 +5,8 @@ draft: false
 tags: [
     "veggie",
     "france",
-    "dessert"
+    "dessert",
+    "cookie",
 ]
 cover:
     image: punitions.jpg

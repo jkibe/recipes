@@ -6,6 +6,7 @@ tags: [
     "butter",
     "dessert",
     "uk",
+    "cookie",
 ]
 cover:
     image: cookies.jpg

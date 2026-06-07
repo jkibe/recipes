@@ -4,6 +4,7 @@ date: 2021-11-14T19:42:01Z
 draft: false
 tags: [
     "japan",
+    "fish",
 ]
 service: Mains
 subservice: Fish

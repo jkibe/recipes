@@ -5,7 +5,8 @@ draft: false
 tags: [
     "france",
     "dessert",
-    "veggie"
+    "veggie",
+    "cookie",
 ]
 service: Desserts
 subservice: Biscuits and Cookies

@@ -4,6 +4,8 @@ date: 2024-11-26T02:50:31Z
 draft: false
 tags: [
     "chicken",
+    "basics",
+    "france",
 ]
 cover:
     image: stock.jpg

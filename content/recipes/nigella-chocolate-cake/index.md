@@ -5,7 +5,8 @@ draft: false
 tags: [
     "chocolate",
     "vegan",
-    "dessert"
+    "dessert",
+    "cake",
 ]
 cover:
     image: 

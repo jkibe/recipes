@@ -6,6 +6,8 @@ tags: [
     "dessert",
     "paca",
     "veggie",
+    "france",
+    "cake",
 ]
 service: Desserts
 subservice: Cakes

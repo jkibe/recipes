@@ -3,7 +3,8 @@ title: "Za'atar and Tahini Salmon"
 date: 2022-01-17T21:53:15Z
 draft: false
 tags: [
-    
+    "salmon",
+    "fish",    
 ]
 cover:
     image: 

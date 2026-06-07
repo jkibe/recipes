@@ -3,7 +3,10 @@ title: "Mushroom Pasta"
 date: 2022-12-31T01:00:49Z
 draft: false
 tags: [
-    
+    "veggie",
+    "italy",
+    "mushrooms",
+    "pasta",
 ]
 cover:
     image: pasta.jpg

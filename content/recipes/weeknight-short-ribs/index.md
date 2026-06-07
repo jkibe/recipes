@@ -3,7 +3,9 @@ title: "Weeknight Short Ribs"
 date: 2025-01-21T17:56:45Z
 draft: false
 tags: [
-    
+    "beef",
+    "braise",
+    "france",    
 ]
 cover:
     image: 

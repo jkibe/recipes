@@ -7,6 +7,7 @@ tags: [
     "sauce",
     "basil",
     "anchovy",
+    "basics",
 ]
 cover:
     image: sauce.jpg

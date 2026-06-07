@@ -6,6 +6,7 @@ tags: [
     "dessert",
     "italy",
     "veggie",
+    "cookie",
 ]
 service: Desserts
 subservice: Biscuits and Cookies

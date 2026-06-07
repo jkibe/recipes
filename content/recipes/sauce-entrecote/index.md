@@ -5,6 +5,7 @@ draft: false
 tags: [
     "france",
     "sauce",
+    "basics",
 ]
 cover:
     image: 

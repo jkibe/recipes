@@ -7,6 +7,7 @@ tags: [
     "veggie",
     "vegan",
     "sauce",
+    "basics",
 ]
 cover:
     image: 

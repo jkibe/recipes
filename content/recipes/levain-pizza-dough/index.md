@@ -5,6 +5,7 @@ draft: false
 tags: [
     "italy",
     "levain",
+    "bread",
 ]
 cover:
     image: pizza.jpg

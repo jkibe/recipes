@@ -4,7 +4,8 @@ date: 2023-04-08T13:38:12Z
 draft: false
 tags: [
     "veggie",
-    "baking"
+    "baking",
+    "bread",
 ]
 cover:
     image: hxb.jpg

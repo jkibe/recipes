@@ -3,7 +3,9 @@ title: "Aquafaba Meringue"
 date: 2023-06-16T02:47:42Z
 draft: false
 tags: [
-    
+    "vegan",
+    "veggie",
+    "dessert",    
 ]
 cover:
     image: meringue.jpg

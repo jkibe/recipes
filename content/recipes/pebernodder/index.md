@@ -8,6 +8,7 @@ tags: [
     "dessert",
     "christmas",
     "veggie",
+    "cookie",
 ]
 cover:
     image: biscuits.jpg

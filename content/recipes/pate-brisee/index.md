@@ -5,6 +5,7 @@ draft: false
 tags: [
     "france",
     "veggie",
+    "basics",
 ]
 cover:
     image: 

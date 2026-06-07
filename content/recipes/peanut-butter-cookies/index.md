@@ -9,6 +9,7 @@ tags: [
     "veggie",
     "baking",
     "peanut butter",
+    "cookie",
 ]
 cover:
     image: cookies.jpg

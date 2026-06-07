@@ -3,7 +3,8 @@ title: "Green Stir Fry"
 date: 2023-08-28T19:01:21Z
 draft: false
 tags: [
-    
+    "veggie",
+    "vegan",
 ]
 cover:
     image: stirfry.jpg

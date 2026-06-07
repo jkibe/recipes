@@ -6,6 +6,7 @@ tags: [
     "pasta",
     "sauce",
     "italy",
+    "braise",
 ]
 cover:
     image: rigatoni.jpg

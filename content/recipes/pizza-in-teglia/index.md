@@ -4,6 +4,8 @@ date: 2023-10-07T14:25:31Z
 draft: false
 tags: [
     "italy",
+    "bread",
+    "baking",
 ]
 cover:
     image: 

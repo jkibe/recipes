@@ -7,6 +7,7 @@ tags: [
     "dessert",
     "chocolate",
     "tahini",
+    "cookie",
 ]
 cover:
     image: blondies.jpg
