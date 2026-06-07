@@ -15,7 +15,7 @@ subservice: Fish
 
 As with most good fish stews, you can use just about any fish and shellfish. Though I would avoid anything too delicate, because it will fall apart and be difficult to serve.
 
-While I suppose you could blanch and peel fresh tomatoes here, I tend to use a high-quality canned variety. The hard works is already done for you, and they're almost certainly better than whatever "fresh" tomatoes you can find. And if you do get really amazing in-season tomatoes, I think there are better ways to use them.
+While I suppose you could blanch and peel fresh tomatoes here, I tend to use a high-quality canned variety. The hard work is already done for you, and they're almost certainly better than whatever "fresh" tomatoes you can find. And if you do get really amazing in-season tomatoes, I think there are better ways to use them.
 
 I would steer clear of pre-diced tomatoes, however counterintuitive. Producers will often add something like calcium chloride to tinned tomatoes to help them retain firmness, and they'll add more to help the smaller pieces in pre-diced tomatoes hold their shape.
 

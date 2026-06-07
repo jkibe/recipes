@@ -11,7 +11,7 @@ cover:
 
 Summer has clung on with tenacity in New England this year. It was warm enough this weekend to have dinner outside without even a sweater. Though it's certainly (and reassuringly) getting cooler.
 
-All of which is to say, it's been a balancing act. I still haven't done a ragù to try out the fancy Sporkful pasta. The weather hasn't felt bracing enough for something so rich and warming. But I have begun to dabble: I managed to get my hands on delicatta squash to roast, and to get back into soups with a pasta e fagioli and the last of my Rancho Gordo beans. On one of the colder evenings, I did a white wine chicken braise. I could tell I was a bit out of practice: it needed more time braising, and was a bit tough. My seafood risotto --- light enough to feel like a fall dish, but with that creamy, starchy denseness from the stirred rice --- was more successful.
+All of which is to say, it's been a balancing act. I still haven't done a ragù to try out the fancy Sporkful pasta. The weather hasn't felt bracing enough for something so rich and warming. But I have begun to dabble: I managed to get my hands on delicata squash to roast, and to get back into soups with a pasta e fagioli and the last of my Rancho Gordo beans. On one of the colder evenings, I did a white wine chicken braise. I could tell I was a bit out of practice: it needed more time braising, and was a bit tough. My seafood risotto --- light enough to feel like a fall dish, but with that creamy, starchy denseness from the stirred rice --- was more successful.
 
 ![Delicatta squash](squash.jpg)
 

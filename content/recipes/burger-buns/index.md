@@ -50,10 +50,10 @@ This makes about four medium-size or three large buns, depending on what you're 
 
 First, make the tangzhong. In a small saucepan, whisk together the flour and water until they're well-combined and no lumps of flour remain. Then place the pan over low heat and cook, stirring occasionally, until the mixture reaches 65 °C (150 °F). Remove the pan from the heat and allow the tangzhong to cool to room temperature.
 
-For the dough, combine all the ingredients, staring with the liquids, in the bowl of a stand mixer fitted with its dough hook attachment. Mix the dough on the lowest speed for four minutes, then on the second lowest speed for six minutes. The dough should be smooth and elastic.
+For the dough, combine all the ingredients, starting with the liquids, in the bowl of a stand mixer fitted with its dough hook attachment. Mix the dough on the lowest speed for four minutes, then on the second lowest speed for six minutes. The dough should be smooth and elastic.
 
 Form the kneaded dough into a ball and then cover the bowl tightly. Let it rise for 45 minutes at room temperature.
 
-Divide the dough into portions, 130 g each for medium-size buns. Form the dough into balls, then transfer them to a baking tray. TIghtly cover the baking tray and let the dough rise for around 60 minutes, until the buns have significantly risen, at room temperature.
+Divide the dough into portions, 130 g each for medium-size buns. Form the dough into balls, then transfer them to a baking tray. Tightly cover the baking tray and let the dough rise for around 60 minutes, until the buns have significantly risen, at room temperature.
 
 Preheat an oven to 170 °C (340 °F). Then bake the buns for about 15 minutes, or until they're matte on the surface and just beginning to brown. Remove them to a cooling rack and let them come down to room temperature before halving them to make burgers.

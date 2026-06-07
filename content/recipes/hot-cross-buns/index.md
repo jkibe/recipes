@@ -48,7 +48,7 @@ In the bowl of a stand mixer, combine the flour and butter. Mix the two until th
 
 Tip the kneaded dough onto a clean work surface. Lightly pat it out into a rectangle and scatter over the currants and orange zest. Knead the dough by hand until the currants and zest are well-distributed though the dough.
 
-Lightly grease a large bowl. Fold the kneaded dough into a taught ball and place it in the prepared bowl. Tightly cover the bowl with plastic, and let it rise in a warm place until it's roughly doubled in volume. This should take about 1-3 hours.
+Lightly grease a large bowl. Fold the kneaded dough into a taut ball and place it in the prepared bowl. Tightly cover the bowl with plastic, and let it rise in a warm place until it's roughly doubled in volume. This should take about 1-3 hours.
 
 Preheat an oven to 200 °C (400 °F).
 

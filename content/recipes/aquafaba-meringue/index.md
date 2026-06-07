@@ -6,6 +6,7 @@ tags: [
     "vegan",
     "veggie",
     "dessert",    
+    "chickpeas",
 ]
 cover:
     image: meringue.jpg

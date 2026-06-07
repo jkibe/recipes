@@ -31,5 +31,5 @@ While any flour will work, I like what's sold in the US as "white whole wheat". 
 
 Roughly stir together the flour, sugar, and baking powder. Then add the butter. Rub the butter into the dry ingredients with your hands until the mixture is sandy, but still has some uneven chunks.
 
-For a bigger batch that's been scaled up, use the paddle attachement of a stand mixer.
+For a bigger batch that's been scaled up, use the paddle attachment of a stand mixer.
 

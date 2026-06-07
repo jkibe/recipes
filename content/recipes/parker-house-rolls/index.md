@@ -35,11 +35,11 @@ Combine the milk and yeast in the bowl of a stand mixer. Let the yeast bloom and
 
 Using the dough hook attachment, mix the dough on a low speed until the mixture for four minutes, or until the mixture is very well-combined. Then, with the mixer still running, add the soft butter 10 to 20 g at a time, and wait until each portion of butter is completely incorporated into the dough before adding more.
 
-Pour the dough out of the mixer bowl. Shape it into a taught ball and store it in a large airtight container or a large bowl covered tightly with plastic.
+Pour the dough out of the mixer bowl. Shape it into a taut ball and store it in a large airtight container or a large bowl covered tightly with plastic.
 
 Let the dough rise until it's roughly doubled, about 90 minutes at room temperature.
 
-Portion the dough into fifteen balls, 65-70 g each, rolling each one into a taught shape. Let those relax for 10 to 15 minutes.
+Portion the dough into fifteen balls, 65-70 g each, rolling each one into a taut shape. Let those relax for 10 to 15 minutes.
 
 Lightly grease a quarter sheet pan, and line the bottom with parchment.
 

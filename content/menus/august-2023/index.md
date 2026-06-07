@@ -13,7 +13,7 @@ subservice:
 
 I've settled into something like a lazy summer pattern. I needed a bit of a break after a few frenetic weeks squeezing in a bit of travel and a few group events I decided to organize. It takes real effort on my part to embrace the joy of an otherwise ordinary summer evening with a nice breeze.
 
-Stepping into my food world, much as I love French bread, I thought it might be fun to try my hand at something a bit different. I've been experimenting a bit with Turkish menemen after seeing it in [Felicty Cloake's _Guardian_ column](https://www.theguardian.com/food/2023/may/24/how-to-cook-the-perfect-menemen-recipe-turkish-eggs-breakfast-peppers-felicity-cloake) a few months ago, and thought a Turkish bread might be interesting to go with it. Unfortunately, my first attempts at making Turkish _pide_ were not very successful. I'm on the fence whether to continue.
+Stepping into my food world, much as I love French bread, I thought it might be fun to try my hand at something a bit different. I've been experimenting a bit with Turkish menemen after seeing it in [Felicity Cloake's _Guardian_ column](https://www.theguardian.com/food/2023/may/24/how-to-cook-the-perfect-menemen-recipe-turkish-eggs-breakfast-peppers-felicity-cloake) a few months ago, and thought a Turkish bread might be interesting to go with it. Unfortunately, my first attempts at making Turkish _pide_ were not very successful. I'm on the fence whether to continue.
 
 As planned, I had some fun playing with the idea of Cretan _dakos_ after finally finding a source for the bread piece at a local Greek fast casual restaurant, of all places.
 
@@ -21,7 +21,7 @@ As planned, I had some fun playing with the idea of Cretan _dakos_ after finally
 
 I did some more straightforward dakos --- tomatoes, olive oil, cheese, and a bit of dried oregano --- which were great. More ambitiously, I tried something I saw ages ago on a Yotam Ottolenghi TV vehicle, [a baked version](/recipes/baked-dakos) of the dish. I'm a fan. It's light, summery, and --- if you omit the dairy component --- even vegan. But it has enough heft I think it could easily work as a main course.
 
-For no particular reason, I dug out an excellent recipe for tahini-crusted egpplant I got from Honey and Co. It's a wonderfully simple technique that gives the roasted eggplant a certain something extra. I even had a bit of leftover tahini crust material that I was able to use on some fish the next day.
+For no particular reason, I dug out an excellent recipe for tahini-crusted eggplant I got from Honey and Co. It's a wonderfully simple technique that gives the roasted eggplant a certain something extra. I even had a bit of leftover tahini crust material that I was able to use on some fish the next day.
 
 ![Tahini-crusted eggplant](eggplant.jpg)
 

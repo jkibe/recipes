@@ -77,7 +77,7 @@ I liked this video from the _Cook's Illustrated_ team. It does a great job givin
 
 {{< youtube AiZSVmmLYrE >}}
 
-On the savory side, I like the idea of doing this panissa that I saw on the Pasta Grannies channel. I love risotto, and this looks like a fun twist on the idea. I love the seeming sacriligious step of adding red wine to an Italian rice dish. I doubt I'll follow this exact procedure. There's a bunch of chicken stock I need to use up.
+On the savory side, I like the idea of doing this panissa that I saw on the Pasta Grannies channel. I love risotto, and this looks like a fun twist on the idea. I love the seeming sacrilegious step of adding red wine to an Italian rice dish. I doubt I'll follow this exact procedure. There's a bunch of chicken stock I need to use up.
 
 {{< youtube kRii8CDLD0g >}}
 

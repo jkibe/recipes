@@ -4,7 +4,8 @@ date: 2022-12-31T00:59:21Z
 draft: false
 tags: [
     "veggie",
-    "vegan"
+    "vegan",
+    "chickpeas",
 ]
 cover:
     image: chickpeas.jpg

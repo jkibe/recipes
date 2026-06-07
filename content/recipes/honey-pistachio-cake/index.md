@@ -13,7 +13,7 @@ service: Desserts
 subservice: Cakes
 ---
 
-I snagged the basis for this recipe from a Jamie Olive food travel program. It caught my eye because it's a lot like a great cake I've had at a favorite restaurant. Though this adds pistachios, which are a nice flourish.
+I snagged the basis for this recipe from a Jamie Oliver food travel program. It caught my eye because it's a lot like a great cake I've had at a favorite restaurant. Though this adds pistachios, which are a nice flourish.
 
 ### Ingredients
 
@@ -24,7 +24,7 @@ I snagged the basis for this recipe from a Jamie Olive food travel program. It c
 * 225 g granulated sugar
 * 180 g olive oil
 * Zest of 1 lemon
-* Zest of 1 blood orange orange
+* Zest of 1 blood orange
 * 75 g almond flour
 * 150 g all-purpose flour
 * 200 g semolina

@@ -33,7 +33,7 @@ For extra polish, you could blanch the bok choy in boiling water rather than pan
 
 Put the bok choy in a wok, or substitute a large nonstick or carbon steel frying pan. Add a small splash of water, then cover the pan. Heat the pan over medium-high heat, and pan steam the greens until they're mostly wilted and bright green. Evaporate off the remaining water.
 
-Remove the greens from then pan and set them aside. Then pour in a small amount of neutral oil followed by the garlic and ginger. Fry the aromatics until they're fragrant, 30-60 seconds.
+Remove the greens from the pan and set them aside. Then pour in a small amount of neutral oil followed by the garlic and ginger. Fry the aromatics until they're fragrant, 30-60 seconds.
 
 Add back the bok choy, and stir it to combine it with the aromatics. Then add the mirin, and continue cooking until it's almost completely evaporated. Pour in the shoyu, and once again cook it until it's almost completely evaporated.
 

@@ -21,7 +21,7 @@ By way of example, I wouldn't normally reach for a pork tenderloin or feel compe
 
 I was once again reminded that home really is now in New England. It took a few tries to adjust to an oven other than the one in my new kitchen, or to not having all my kitchen gear easily to hand. It's pretty clear that the convection fan in my new oven is a lot more powerful and consistent than what you get in a more typical US kitchen.
 
-Out of the house, and despite a mild mystery upper respiratory infection --- not Covid, thankfully --- I was able to give a few places a try. I went back to ¿Por Que No? for the first time in ages. It can be frustratingly difficult to find good tacos on the East Coast.
+Out of the house, and despite a mild mystery upper respiratory infection --- not Covid, thankfully --- I was able to give a few places a try. I went back to ¿Por Qué No? for the first time in ages. It can be frustratingly difficult to find good tacos on the East Coast.
 
 On an extended family outing, I had a chance to try some very Portland (and tasty) Korean fried chicken. I was perhaps even more tickled and impressed that they were thoughtful enough to include a pair of gloves with my order. It made everything that bit easier, even if it felt a little too on the nose for a $20 bobo food cart meal.
 

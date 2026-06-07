@@ -42,7 +42,7 @@ Combine the butter, salt, sugars, and vanilla in the bowl of a stand mixer fitte
 
 Add the flour and chocolate, and then mix the dough on low briefly to begin to combine it.
 
-Then pour the dough out onto a clean work surface and roughly knead the dough by hand to from a cohesive mass. Divide the dough in half.
+Then pour the dough out onto a clean work surface and roughly knead the dough by hand to form a cohesive mass. Divide the dough in half.
 
 Place each piece of dough onto a large sheet of plastic wrap. Using the plastic wrap, roll each portion into a ballotine. Refrigerate the dough for at least two hours, up to overnight.
 

@@ -38,7 +38,7 @@ The madeleine is an odd case in the world of pastry. It's one of the few common 
 
 Madeleines also demand a special mold. In my mind, you have to use a shell-shaped madeleine pan for something to be a madeleine. In the same way it would be strange to call something a cupcake if it were pyramid-shaped and the size of a watermelon.
 
-The why behind these two traits are shrouded in mystery. The name is variously attributed to different notable people in French history. The shell shape is equally mysterious. Most stories tend to revolve around someone deciding to put the batter in a shell for fun.
+The why behind these two traits is shrouded in mystery. The name is variously attributed to different notable people in French history. The shell shape is equally mysterious. Most stories tend to revolve around someone deciding to put the batter in a shell for fun.
 
 Trying to bound these two questions has been tricky. It's an ongoing exercise.
 
@@ -60,7 +60,7 @@ In my reading, the novelty of the cake's shell shape is ambiguous. I can't tell 
 
 Either way, the first volume of _À la recherche du temps perdu_ (with the madeleine reference) was published in 1913. Which suggests the shell shape was at least relatively common by 1913.
 
-Whereas the most proximate recipe I could find doesn't make any reference to the cake's shape. The handwritten notebooks of Georges Bachmmann, complied 1899 to 1902, contain several recipes for madeleines. None mentions how to bake the madeleines beyond one that suggests using a "hot oven."
+The most proximate recipe I could find, however, doesn't make any reference to the cake's shape. The handwritten notebooks of Georges Bachmmann, compiled 1899 to 1902, contain several recipes for madeleines. None mentions how to bake the madeleines beyond one that suggests using a "hot oven."
 
 Whether this means the shell shape was so common it didn't need to be mentioned is unclear. Most early cookbook authors assume a certain amount of skill on the part of the reader. Early recipes are often lists of ingredients with no instructions on putting them together at all. The authors assume you know how to make a sauce; all they need to provide are its contents. Likewise, most cooks wouldn't have had access to instruments to make more detailed instructions useful. Accurate clocks would not have been the province of most cooks until at least the mid-19th century. Most ovens didn't have thermostats until well into the 20th century. Even today, some recipes will include instructions for baking with a gas mark in addition to a precise temperature.
 
@@ -86,7 +86,7 @@ Melt the butter in a small saucepan. Then stir in the honey. Let this mixture co
 
 In a large bowl, whisk together the eggs and sugar until the mixture is foamy and has lightened in color.
 
-Then add the flour and baking powder, and to just combine the wet and dry ingredients. Follow that with the cooled butter-honey mixture, the milk, vanilla extract, and salt. Whisk together to form a homogeneous mixture.
+Then add the flour and baking powder, mixing to just combine the wet and dry ingredients. Follow that with the cooled butter-honey mixture, the milk, vanilla extract, and salt. Whisk together to form a homogeneous mixture.
 
 Cover the bowl and refrigerate it for at least two hours, up to overnight.
 

@@ -50,6 +50,6 @@ Heat a film of olive oil over medium heat. Then, add the onion, carrot, and cele
 
 Then add the ground beef and pork, followed immediately by the milk. Use a spoon or spatula to break up the meat. Keep the heat on medium and cook the sauce until all the liquid has evaporated and the mixture begins to sizzle.
 
-Add the wine plus the star anise and bay, and cook it until most of the liquid has evaporated and it no longer smells of alcohol. Then add the re-hydrated mushrooms and the strained liquid. Cook that down until the pan is one again fairly dry.
+Add the wine plus the star anise and bay, and cook it until most of the liquid has evaporated and it no longer smells of alcohol. Then add the re-hydrated mushrooms and the strained liquid. Cook that down until the pan is once again fairly dry.
 
 Make a space in the pan and add more olive oil, followed by the tomato paste. Cook and fry the tomato paste until it's a deep rust color. Then stir the tomato through the rest of the sauce. Add some of the water from cooking the pasta to dilute the sauce. It should be loose, but not watery. Then season to taste with salt. Remove and discard the star anise and bay. Serve immediately.

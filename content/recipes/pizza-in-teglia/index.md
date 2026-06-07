@@ -47,7 +47,7 @@ In a large bowl, combine the water with the yeast. Gently mix the yeast into the
 
 Cover the bowl and let the dough rest for 30 minutes.
 
-After the first rest, gently fold the dough onto itself, taking edges and folding them into the center of the dough. Re-cover the bowl, and let it rest for a further 30 minutes. Knead the dough again and form it into a taught ball.
+After the first rest, gently fold the dough onto itself, taking edges and folding them into the center of the dough. Re-cover the bowl, and let it rest for a further 30 minutes. Knead the dough again and form it into a taut ball.
 
 Cover the bowl again, and refrigerate it for at least six hours, up to 36 hours, to ferment.
 

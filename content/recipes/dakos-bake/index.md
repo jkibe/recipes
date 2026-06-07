@@ -6,6 +6,8 @@ tags: [
     "greece",
     "veggie",
     "crete",
+    "chickpeas",
+    "tomatoes",
 ]
 cover:
     image: baked.jpg

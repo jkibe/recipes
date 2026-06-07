@@ -21,7 +21,7 @@ I've been noodling with different recipes for tahini-flecked blondies, where I t
 
 While it's hard to really mess these up, I think the results are a bit nicer with distinct pieces of chocolate. Chopping away at a block of couverture chocolate, you'll inevitably create lots of fine pieces and shavings. Those have a tendency to melt together into a chocolate blob. It will still taste great, but it ruins the look. If you're going for broke, I would sift the chocolate rubble to get rid of those fine pieces. You can always save them for later when you need to melt down chocolate for something else.
 
-If you're looking for an easier out, you can always substitute chocolate chips. Those require no chopping to get down to bite size, and they have emulsifiers that ensure the chips hold their shape and don't run together. I prefer the texture of couverture chocolate --- it's a bit smoother without the added sufactants --- and I don't think chips look quite as seductive.
+If you're looking for an easier out, you can always substitute chocolate chips. Those require no chopping to get down to bite size, and they have emulsifiers that ensure the chips hold their shape and don't run together. I prefer the texture of couverture chocolate --- it's a bit smoother without the added surfactants --- and I don't think chips look quite as seductive.
 
 By contrast, I wouldn't worry about the tahini swirl step. The pale beige of the batter almost perfectly matches the color of tahini, so you're not ruining the effect here the way you might if you were making tahini-laced brownies.
 

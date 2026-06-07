@@ -9,7 +9,7 @@ cover:
     image: sushi.jpg
 ---
 
-I'm attempting to reset the monthly updates to the usual mid-month release cycle. The jucier content from my jaunt abroad will have to wait for the next installment.
+I'm attempting to reset the monthly updates to the usual mid-month release cycle. The juicier content from my jaunt abroad will have to wait for the next installment.
 
 Though amazingly [my kitchen](http://jkibe.github.io/kitchen145/) still isn't done. It's still very close. I still don't have a working vent hood or handles on any of my cabinet doors.
 

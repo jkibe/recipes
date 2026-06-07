@@ -40,6 +40,6 @@ Let the dough sit for 10-15 minutes, then return and, without adding any additio
 
 Transfer the dough to a very lightly greased bowl or container and let it sit at room temperature for 2-4 hours. It should rise slightly (20-30% by volume), but not significantly. If it rises faster than that with a very lively levain, move to the next step immediately.
 
-Portion the dough into thirds, about 288 g per portion. Roll each portion into a taught ball.
+Portion the dough into thirds, about 288 g per portion. Roll each portion into a taut ball.
 
 Transfer the dough portions into an airtight container, and then refrigerate the dough. Let it ferment in the refrigerator for at least 24 hours, up to 96 hours, or, ideally, 48-72 hours.

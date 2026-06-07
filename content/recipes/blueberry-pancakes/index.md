@@ -16,7 +16,7 @@ If I'm at home on a Sunday morning, I make pancakes. The recipe has gone through
 
 While hardly make-or-break, I like using small wild blueberries from the Northeast over the larger cultivated ones. They tend to be smaller and thus incorporate more nicely into the batter.
 
-It doesn't really matter what kind of flour you use. I like the in-between character of King Arthur's white whole wheat flour here. All-purpose works, as does whole wheat. I find the whole wheat a little too stogy and the all-purpose a little too saccharine.
+It doesn't really matter what kind of flour you use. I like the in-between character of King Arthur's white whole wheat flour here. All-purpose works, as does whole wheat. I find the whole wheat a little too stodgy and the all-purpose a little too saccharine.
 
 I haven't tried this with a faux egg substitute such as Just Eggs. Sometimes I will use oat milk in place of real milk. In that case, it's usually necessary to increase the amount of milk by about 10%. Anecdotally, oat milk is either more poorly absorbed or drier than cow's milk.
 

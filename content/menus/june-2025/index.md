@@ -13,7 +13,7 @@ subservice:
 
 It's been another month of ebbs and flows. I had a bit of a chance to relax, and I also had quite a bit going on.
 
-On the calmer side, I had time one evening to try another recipe from the Ottolgenhi team's _Comfort_ book. This time, an herb-y smoked salmon and potato bake, inspired by a Swedish lax pudding.
+On the calmer side, I had time one evening to try another recipe from the Ottolenghi team's _Comfort_ book. This time, an herb-y smoked salmon and potato bake, inspired by a Swedish lax pudding.
 
 ![Salmon bake](salmon.jpg)
 

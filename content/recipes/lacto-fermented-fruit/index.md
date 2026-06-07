@@ -49,7 +49,7 @@ Leave the bag out at room temperature or just above (ca. 20-30 °C). Periodicall
 
 Over time the fruit should develop more acidity and a lightly alcoholic fizz when the process is working correctly.
 
-When it doubt, if the products taste off, discard them.
+When in doubt, if the products taste off, discard them.
 
 When the fermentation has developed to taste, stop the fermentation by transferring to a refrigerator, where it will keep for 2-3 days. For longer term storage, freeze the fruit and liquid separately.
 

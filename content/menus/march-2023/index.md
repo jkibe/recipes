@@ -19,7 +19,7 @@ In the meantime, I've been continuing to tinker to the extent possible.
 
 Once the vent hood went in, I took the opportunity to [stir fry](/recipes/lemongrass-chicken) for the first time in almost a year. Here again I'm still getting used to my new kitchen. The power of my new cooktop is really something else. To the extent that even when doing a stir fry, I couldn't use the highest power level without risking burning the food. Perhaps next month when I've got a better handle on it, I'll post some photos. Scrambling around so much trying to figure out my new environment, I didn't have the presence of mind to get out my camera.
 
-I got somewhat frustrated struggling with the tourte auvergnate. It's a very finicky loaf of bread with so little gluten to support itself. I need to find a new source for rye flour as well. For my usual occasional needs, I haven't minded paying the absurd price my local Whole Foods exacts for a dinky one-pound bag. When you need most of the $5 bag for one loaf of bread that probably won't quite work, it feels wrong.
+I got somewhat frustrated struggling with the tourte auvergnate. It's a very finicky loaf of bread with so little gluten to support itself. I need to find a new source for rye flour as well. For my usual occasional needs, I haven't minded paying the absurd price my local Whole Foods extracts for a dinky one-pound bag. When you need most of the $5 bag for one loaf of bread that probably won't quite work, it feels wrong.
 
 Faced with that, I started exploring the world of more traditional sourdough breads. Nothing was photogenic enough to share, though I got the flavor right on my first try. I suspect I need to actually buy a set of proving baskets and perhaps be a little more patient.
 

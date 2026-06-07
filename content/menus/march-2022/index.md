@@ -23,7 +23,7 @@ While flour is not necessarily perishable, the less I have to store, the easier,
 
 Not to say there was no space for me to experiment.
 
-I did get around to one of the desserts I had been planning to try out. While the mood was not right for photos, I tried the madeleine recipe from my favorite YouTube baking channel. As sacrilegious as it may seem, the flavor wasn't noticeably affected by the substitution of butter for a neutral oil. I am going to have try the recipe again with some tweaks, though. My madeleines didn't have the characteristic dome they were supposed to. The recipe is promising enough I'm willing to test out at least a couple of hypotheses. Either French baking powder is more potent, and I need to add more, or I need to up the baking temperature in my fanless circa 1980 oven.
+I did get around to one of the desserts I had been planning to try out. While the mood was not right for photos, I tried the madeleine recipe from my favorite YouTube baking channel. As sacrilegious as it may seem, the flavor wasn't noticeably affected by the substitution of butter for a neutral oil. I am going to have to try the recipe again with some tweaks, though. My madeleines didn't have the characteristic dome they were supposed to. The recipe is promising enough I'm willing to test out at least a couple of hypotheses. Either French baking powder is more potent, and I need to add more, or I need to up the baking temperature in my fanless circa 1980 oven.
 
 On the savory side, I tried out the Ottolenghi smoky eggplant pasta. It got me closer to using up my cascatelli pasta as well. I was a little skeptical at first, given tahini isn't something typically used in Italian food. But true to form, it was very good.
 

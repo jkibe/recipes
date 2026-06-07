@@ -25,7 +25,7 @@ Fearing the end of strawberry season, I did yet another batch of lacto strawberr
 
 ![Lacto strawberries in the refrigerator](strawberries.jpg)
 
-I've been trying not to think to much about what my strawberry budget has been for the last few months.
+I've been trying not to think too much about what my strawberry budget has been for the last few months.
 
 The figs, by contrast, have been disappointing. I've paid some ridiculous prices, and nothing really brought me joy. Not that New England or the Northeastern US is really prime fig growing territory. But neither is this really a place to grow great peaches 
 

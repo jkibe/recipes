@@ -16,7 +16,7 @@ I did most of it relatively simply. Following [Alain Passard's weekly videos in 
 
 ![Bread](bread.jpg)
 
-I've been trying to recreate a cold soba noodle salad from a favorite Asian fusion restaurant. Perhaps subconsciously trying to prepare for the summer heat. I don't know that I've gotten that salad quite right. But I did buy a lot of soba noodes, and had some fun playing with those in soups and with different Japanese sauces. After my paella experience earlier in the year I've been returning to making _dashi_ (and other flavorful broths and stocks), which makes a great foundation for a soba noodle soup.
+I've been trying to recreate a cold soba noodle salad from a favorite Asian fusion restaurant. Perhaps subconsciously trying to prepare for the summer heat. I don't know that I've gotten that salad quite right. But I did buy a lot of soba noodles, and had some fun playing with those in soups and with different Japanese sauces. After my paella experience earlier in the year I've been returning to making _dashi_ (and other flavorful broths and stocks), which makes a great foundation for a soba noodle soup.
 
 ![Soba noodles in broth](soba.jpg)
 
@@ -36,7 +36,7 @@ On the croissant front, I really went all-in. I hosted a small workshop to show 
 
 ![Croissants about to rise](croissants.jpg)
 
-I had some leftover proseco from that gathering, too, and did some pancakes with it the next morning. Using a bit of bubbly in place of about 20% of the milk adds a nice tang. It's an opportunity I always take when I can. There's no way I'd open a bottle solely for making more interesting pancakes.
+I had some leftover Prosecco from that gathering, too, and did some pancakes with it the next morning. Using a bit of bubbly in place of about 20% of the milk adds a nice tang. It's an opportunity I always take when I can. There's no way I'd open a bottle solely for making more interesting pancakes.
 
 ![Pancakes](pancakes.jpg)
 

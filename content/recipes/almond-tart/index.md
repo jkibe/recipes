@@ -50,7 +50,7 @@ Transfer the filling to a container and cover it tightly. Refrigerate it for at 
 
 Preheat an oven to 190 °C (375 °F) with fan (convection), if available.
 
-Line a baking tray with a Silapt or parchment paper and center a 24 cm (9.5") tart ring on the prepared tray.
+Line a baking tray with a Silpat or parchment paper and center a 24 cm (9.5") tart ring on the prepared tray.
 
 Roll out the pastry dough to approximately a 2 mm thickness, large enough for the tart ring. Drape the pastry dough over the ring, pushing the dough into the corners. Run a rolling pin over the rim of the tart ring to remove the excess dough. Using a fork, gently prick the base of the dough.
 

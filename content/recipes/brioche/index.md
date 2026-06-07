@@ -44,13 +44,13 @@ Pour the sugar, yeast, eggs, and milk in the bowl of a stand mixer fitted with a
 
 Knead the dough on low speed for four minutes, until the mixture is homogeneous. Then increase the speed a notch and knead for a further six minutes. Add the butter and mix for another five minutes
 
-Roughly shape the dough into a taught ball. Transfer the dough to a lightly greased airtight container. Let it rise at room temperature for 30 minutes, then transfer it to the refrigerator to rise for a further 12 to 18 hours. This is good to do overnight.
+Roughly shape the dough into a taut ball. Transfer the dough to a lightly greased airtight container. Let it rise at room temperature for 30 minutes, then transfer it to the refrigerator to rise for a further 12 to 18 hours. This is good to do overnight.
 
 After the bulk fermentation, remove the dough from the refrigerator.
 
 #### Easy brioche
 
-Divide the dough into nine equal portions. Shape them into balls, tucking the dough under while turning to create a taught surface. Arrange the portions of dough in an alternating pattern in a high-sided baking dish.
+Divide the dough into nine equal portions. Shape them into balls, tucking the dough under while turning to create a taut surface. Arrange the portions of dough in an alternating pattern in a high-sided baking dish.
 
 ![Shaped brioche](shaped.jpg)
 

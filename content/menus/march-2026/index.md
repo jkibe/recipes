@@ -61,7 +61,7 @@ At another point, I was in the mood for something chocolate-y, but then realized
 
 It's a great little cake, and incidentally gluten-free. 
 
-The month presented a few unexpected opportunities more to try and taste than necessarily to cook. A friend brought me a bar of Duabi chocolate from Dubai. I'd never had it before, and it tickled me that I was having the real deal. It's an interesting flavor profile. But I couldn't help thinking of Claire Saffitz's videos where she re-creates famous foods. The Duabi chocolate would've been better with a more intense pistachio cream and a better-tempered chocolate shell.
+The month presented a few unexpected opportunities more to try and taste than necessarily to cook. A friend brought me a bar of Dubai chocolate from Dubai. I'd never had it before, and it tickled me that I was having the real deal. It's an interesting flavor profile. But I couldn't help thinking of Claire Saffitz's videos where she re-creates famous foods. The Dubai chocolate would've been better with a more intense pistachio cream and a better-tempered chocolate shell.
 
 Doing some grocery shopping, I accidentally bought a $40 bottle of wine. Apparently I misread the label, and when the person checking me out scanned it, I didn't want to lose face or hold up the (very long) line over $20 more than I was planning to spend. Obviously this wasn't a scientific test, but I thought it was noticeably nicer.
 

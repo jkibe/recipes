@@ -11,7 +11,7 @@ cover:
 
 The last month has been a blend of anxiety and relief. The world continues opening, cautiously. But neither has the pandemic really ended, even in the protective Massachusetts bubble. Indeed, my food adventures have been somewhat curtailed by a not-the-coronavirus respiratory infection.
 
-At home, I've successfully restarted my liquid levain --- a death I'm blaming on my vacation last month --- though it was a little dicey for the first few days. The characteristic yeast-ethanol aroma is one of the most telling signs the culture is healthy. Mine went through a strange intermediate phase that smelled more like rotting food. Fortunately the bread-friendly yeasts won out over whatever other organisms they were competing with.
+At home, I've successfully restarted my liquid levain --- a debt I'm blaming on my vacation last month --- though it was a little dicey for the first few days. The characteristic yeast-ethanol aroma is one of the most telling signs the culture is healthy. Mine went through a strange intermediate phase that smelled more like rotting food. Fortunately the bread-friendly yeasts won out over whatever other organisms they were competing with.
 
 
 In the meantime, I tried baking bread with only baker's yeast. It was pretty disappointing. When I'm doing something like a baguette (_pain courant_ for those in the know), I'm not making a "sourdough" bread. You don't taste the absence of a levain in the way you might if they left the starter out of a tourist-friendly loaf of sourdough bread at Fisherman's Wharf in San Francisco. But in the same way forgetting the salt makes bread taste flat, not having anything long-fermented in the bread makes it taste almost banal.
@@ -32,7 +32,7 @@ I also gave the halibut-artichoke-olive-tomato dish a try, inspired by the kerne
 
 ![Fried rice](fried.jpg)
 
-Watching Kenji Lopez-Alt on his [YouTube channel](https://www.youtube.com/c/JKenjiLopezAlt), I was inspired to dabble further in fried rice. A few weeks ago I tried steaming the rice rather than letting it dry out overnight in the refrigerator. It made a surprisingly big difference, even if that my not be obvious in the photos.
+Watching Kenji Lopez-Alt on his [YouTube channel](https://www.youtube.com/c/JKenjiLopezAlt), I was inspired to dabble further in fried rice. A few weeks ago I tried steaming the rice rather than letting it dry out overnight in the refrigerator. It made a surprisingly big difference, even if that may not be obvious in the photos.
 
 ![Peach galette](peach.jpg)
 

@@ -23,7 +23,7 @@ I finally got around to doing a first run at squash gnocchi, inspired by somethi
 
 ![Squash gnocchi on a tray](gnocchi.jpg)
 
-For the next attempt, I think I need to get more moisture out of the the squash before ricing it into the potatoes. In my more traditional gnocchi experimentation, you can add more flour or egg to improve the structural integrity of each piece, but it begins to dull the flavor and make the gnocchi too gummy. Baking the potatoes necessarily drives moisture out, whereas boiling them only adds more water to the system.
+For the next attempt, I think I need to get more moisture out of the squash before ricing it into the potatoes. In my more traditional gnocchi experimentation, you can add more flour or egg to improve the structural integrity of each piece, but it begins to dull the flavor and make the gnocchi too gummy. Baking the potatoes necessarily drives moisture out, whereas boiling them only adds more water to the system.
 
 After laboriously cleaning a stainless steel pan following a batch of tortillas, I finally broke down and bought myself a carbon steel pan.
 

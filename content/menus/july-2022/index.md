@@ -23,7 +23,7 @@ I'm not entirely sure how this works. A basic Google search suggests that typica
 
 Focusing more on food, something possessed me to start using this project to try out and rank the different versions of common dishes at a variety of places. I started with pasta bologenese, the staple. It's been fun to dig up places within reasonable walking or cycling distance that serve some version of the dish. I've had a ragù alla bolognese over everything from tagliatelle (truly classic) to rigatoni (feels very American) to trombette (innovative).
 
-Thus far my favorite has been at Serafina, the New York chain that's now opened locations around the world. It's at the upper end of my weeknight takeout budget (about $25), but it's definitely the best of the takeout options I've tired so far.
+Thus far my favorite has been at Serafina, the New York chain that's now opened locations around the world. It's at the upper end of my weeknight takeout budget (about $25), but it's definitely the best of the takeout options I've tried so far.
 
 To be clear, this is not the best pasta bolognese I've ever had, nor are the conditions I'm testing the food ideal. I'm eating on the floor, and the food has been sitting in a container for at least 20 minutes before I eat it. So take this as the best pasta bolognese in central Boston under adverse conditions.
 

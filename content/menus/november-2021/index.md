@@ -13,7 +13,7 @@ The month that's been has been mostly uneventful. I managed to keep a number of 
 
 ![Pasta into water](pouring.jpg)
 
-The cascatelli that I got as a birthday gift (and which then took many months to arrive) is almost too good. It clings to the sauce so well, it was hard not not to let one portion of pasta swallow up my whole batch of sauce, which could easily serve four people.
+The cascatelli that I got as a birthday gift (and which then took many months to arrive) is almost too good. It clings to the sauce so well, it was hard not to let one portion of pasta swallow up my whole batch of sauce, which could easily serve four people.
 
 Is it worth hunting down or paying black market prices for? Probably not. But if you have a chance to try it, I'd definitely recommend it for a thick, chunky sauce.
 

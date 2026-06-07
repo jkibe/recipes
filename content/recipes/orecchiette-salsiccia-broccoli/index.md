@@ -23,7 +23,7 @@ This is such a simple pasta that I usually make the sauce while the pasta cooks.
 * Olive oil
 * 250 g broccoli rabe, roughly chopped
 * 500 g sausage meat, removed from its casing
-* 2 gloves garlic, thinly sliced
+* 2 cloves garlic, thinly sliced
 * 500 g dried orecchiette pasta
 * Black pepper
 

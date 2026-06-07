@@ -31,7 +31,7 @@ I'll be honest, I don't usually keep many spice mixes on hand, let alone cajun s
 
 #### For the meatballs
 
-* 1 onion, about 130 g corasely grated, the rest thinly sliced
+* 1 onion, about 130 g coarsely grated, the rest thinly sliced
 * 50 g panko breadcrumbs
 * 60 g whole milk
 * 1.5 teaspoons Cajun spice mix

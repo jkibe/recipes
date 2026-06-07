@@ -24,6 +24,6 @@ subservice: Veggies
 
 ### Method
 
-Using a mandonline, thinly slice the fennel. It should yield something like 100 to 150 grams of shaved fennel.
+Using a mandoline, thinly slice the fennel. It should yield something like 100 to 150 grams of shaved fennel.
 
 Toss the fennel with the olives, lemon, olive oil, and Aleppo pepper. Add lemon juice and salt to taste.

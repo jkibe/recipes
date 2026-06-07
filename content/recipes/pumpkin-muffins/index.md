@@ -14,7 +14,7 @@ service: Breakfast
 subservice: Quick Breads
 ---
 
-This is based on a recipe due to Stella Parks with some modifications as I've adapated it to my own kitchen and preferences.
+This is based on a recipe due to Stella Parks with some modifications as I've adapted it to my own kitchen and preferences.
 
 I usually have King Arthur white whole wheat flour on hand, which is what I use when I make these muffins. If you can't find that, a roughly 1:1 blend of all-purpose and whole wheat flour works well.
 

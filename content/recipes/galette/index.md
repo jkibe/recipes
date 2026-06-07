@@ -51,7 +51,7 @@ Preheat an oven to 220 °C (425 °F).
 
 In a small bowl, toss together the peaches with the sugar, salt, and corn flour.
 
-On a minimally-floured surface, roll out the chilled pasty to a thickness of about 5 mm, or roughly a 30 cm (1 foot) round. Try to work quickly so that the butter does not soften too much. Transfer the dough to a sheet of parchment or a Silpat.
+On a minimally-floured surface, roll out the chilled pastry to a thickness of about 5 mm, or roughly a 30 cm (1 foot) round. Try to work quickly so that the butter does not soften too much. Transfer the dough to a sheet of parchment or a Silpat.
 
 Arrange the peaches in the center, leaving a roughly 5 cm (2") border. Then fold the dough over the fruit, pleating, covering the peaches with 1-2 cm of dough around the whole pastry.
 

@@ -6,6 +6,7 @@ tags: [
     "eggs",
     "basics",
     "veggie",
+    "sousvide",
 ]
 cover:
     image: eggs.jpg

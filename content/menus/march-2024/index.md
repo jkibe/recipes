@@ -23,7 +23,7 @@ In related news, I finally got the shelving for the upper cabinets in my new kit
 
 Moving back matters alimentary, a few issues ago, I embarked on a bit of an experiment with my go-to salt for day-to-day use. I thought it might be fun to try substituting coarse sea salt with my usual Diamond Crystal kosher salt.
 
-While I'm a big fan of coarse sea salt --- I've been using _sel gris de Gurérande_ --- it really isn't as good for everyday seasoning. It clumps, which makes it hard to dose out with your fingers. Because of the high variation in particle size, it doesn't completely dissolve if you put it in something like a cake batter either. It's nice to have on hand, but my salt dish is now filled with Diamond Crystal again.
+While I'm a big fan of coarse sea salt --- I've been using _sel gris de Guérande_ --- it really isn't as good for everyday seasoning. It clumps, which makes it hard to dose out with your fingers. Because of the high variation in particle size, it doesn't completely dissolve if you put it in something like a cake batter either. It's nice to have on hand, but my salt dish is now filled with Diamond Crystal again.
 
 The Lunar New Year celebration continued with a dumpling making gathering another friend hosted. From the cooking perspective, it was a humbling experience for me. Not that I was expecting to waltz in and pleat my dumplings perfectly, but I was surprised at the difficulty in neatly pleating the dumplings and not having the filling get squished out.
 
@@ -35,11 +35,11 @@ Others were a bit more practiced, and, unsurprisingly, did a better job.
 
 Either way, they were pretty tasty.
 
-I tried to redeem myself at home by doing a batch of bao. I had some leftover chorizo, and so wound up using that to make the filling rather than something more traditional. I doped that with some scallions to keep it on-theme. I'd definitely recommend it. While my bao pleating probably still isn't good enough to get me a job in a fine dining kitchen, I'm definitely further along the learning curve.
+I tried to redeem myself at home by doing a batch of bao. I had some leftover chorizo, and so wound up using that to make the filling rather than something more traditional. I doctored that with some scallions to keep it on-theme. I'd definitely recommend it. While my bao pleating probably still isn't good enough to get me a job in a fine dining kitchen, I'm definitely further along the learning curve.
 
 ![Bao](bao.jpg)
 
-As planned, I gave the Ottolenghi tahini chicken schnitzel a try. It took a couple tries before I felt good tossing it together, to make sure I was putting the right pieces in the right places for the coating. I don't know it was the kind of life-changing experience I was hoping. It's a good schnitzel with a nice twist through the tahini and sesame seeds. Next time, I'm probably going to omit or adjust the amount mustard in the dressing. For my money, it overpowers other components. I wanted a more tahini-forward sauce.
+As planned, I gave the Ottolenghi tahini chicken schnitzel a try. It took a couple tries before I felt good tossing it together, to make sure I was putting the right pieces in the right places for the coating. I don't know if it was the kind of life-changing experience I was hoping. It's a good schnitzel with a nice twist through the tahini and sesame seeds. Next time, I'm probably going to omit or adjust the amount of mustard in the dressing. For my money, it overpowers other components. I wanted a more tahini-forward sauce.
 
 ![Chicken schnitzel frying in oil](schnitzel-cooking.jpg)
 

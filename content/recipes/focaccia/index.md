@@ -29,7 +29,7 @@ Then:
 * Divide by 1.5 to get the quantity of flour in grams for a basic focaccia
 * Divide by 1 to get the quantity of flour in grams for a very thick focaccia
 
-I've listed the quantities for a types of baking trays. They may seem like a lot. While the recipe "works" in some sense, I don't think you're getting a particularly nice focaccia out of the process. If you don't need that much bread in one batch, consider using a smaller pan or freezing the extra.
+I've listed the quantities for various types of baking trays. They may seem like a lot. While the recipe "works" in some sense, I don't think you're getting a particularly nice focaccia out of the process. If you don't need that much bread in one batch, consider using a smaller pan or freezing the extra.
 
 ### Ingredients
 

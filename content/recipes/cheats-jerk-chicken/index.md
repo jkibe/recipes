@@ -40,6 +40,6 @@ Combine the spices, herbs, scallions, chilies, sugar, salt, and soy in a blender
 
 Preheat the grill on an oven to its highest setting.
 
-Wipe any excess marinade of the chicken and arrange it onto an oven-safe grill tray. Grill the chicken until lightly charred, flipping halfway through. This should take around 15 minutes total.
+Wipe any excess marinade off the chicken and arrange it onto an oven-safe grill tray. Grill the chicken until lightly charred, flipping halfway through. This should take around 15 minutes total.
 
 Finish the chicken with a squeeze of lime.

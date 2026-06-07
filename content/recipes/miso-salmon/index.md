@@ -12,14 +12,14 @@ cover:
     image: 
 ---
 
-This was a 2020 lockdown favorite of mine. It [comes from the late Taku Sekine](https://www.instagram.com/p/B_edxtSpg3q/) of Dersou and Cheval d'Or, two excellent restaurants in Paris. This makes one portion, though it's easy enough to scale up. I would recommend doing individual filets, however, rather than treating an enitre side of salmon as one piece.
+This was a 2020 lockdown favorite of mine. It [comes from the late Taku Sekine](https://www.instagram.com/p/B_edxtSpg3q/) of Dersou and Cheval d'Or, two excellent restaurants in Paris. This makes one portion, though it's easy enough to scale up. I would recommend doing individual filets, however, rather than treating an entire side of salmon as one piece.
 
 ### Ingredients
 
 * 60 g white miso
 * 30 g dry white wine or sake
 * 15 g sugar
-* 150 g filet salmon
+* 150 g fillet salmon
 
 ### Method
 

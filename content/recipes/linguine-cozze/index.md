@@ -41,7 +41,7 @@ Here in the US, De Cecco is a good choice that's easy to find. Brailla recently 
 
 Halve the chili. De-seed one half and roughly chop it. Optionally, remove the seeds from the other half, but leave it whole.
 
-Heat a generous film of olive oil over medium heat in a large frying pan. When the oil is warm --- it should be less viscous than at room temperature but not to hot as to be shimmering --- add the whole garlic and whole half of the chili. Allow those to infuse for several minutes until the garlic is lightly golden.
+Heat a generous film of olive oil over medium heat in a large frying pan. When the oil is warm --- it should be less viscous than at room temperature but not too hot as to be shimmering --- add the whole garlic and whole half of the chili. Allow those to infuse for several minutes until the garlic is lightly golden.
 
 Add the chopped chili and sliced garlic, cooking them briefly until the garlic scent intensifies. Then add the wine and allow it to reduce to the point it no longer smells of alcohol. Then add the mussels, cover the pan, and shake the pan to more evenly heat the mussels.
 

@@ -29,7 +29,7 @@ After a forced hiatus when my sourdough culture collapsed, I'm slowly getting my
 
 ![Bread](bread.jpg)
 
-Less rosily, the people at Ottolenghi let me down. Not in a big way, but more in an underwhelming way. I tried one of their recipes for a mushroom-orzo dish, which, however much they suggested gussying it up, was exactly what it sounded like. Which is fine: nicely roasted mushrooms with the not pilaf-pilaf quality of the orzo was nice. But it wasn't quite as much of a revelation as something like the black pepper tofu that I tired a few months ago.
+Less rosily, the people at Ottolenghi let me down. Not in a big way, but more in an underwhelming way. I tried one of their recipes for a mushroom-orzo dish, which, however much they suggested gussying it up, was exactly what it sounded like. Which is fine: nicely roasted mushrooms with the not pilaf-pilaf quality of the orzo was nice. But it wasn't quite as much of a revelation as something like the black pepper tofu that I tried a few months ago.
 
 ![Ottolenghi orzo with mushrooms](mushrooms.jpg)
 
@@ -53,6 +53,6 @@ It's apple season in New England, so there's a possibility of getting apples tha
 
 ![Poilane apple tarts](tartes.jpg)
 
-The cooler weather also opens the door to dipping my toes back into the subtle world of the croissant. I've been working on getting those down for two years now, and I'm getting closer. They're a lot easier to pull off when it's not incredibly hot and the butter melts more easily than you'd like. Stayed tuned for photos there.
+The cooler weather also opens the door to dipping my toes back into the subtle world of the croissant. I've been working on getting those down for two years now, and I'm getting closer. They're a lot easier to pull off when it's not incredibly hot and the butter melts more easily than you'd like. Stay tuned for photos there.
 
-Last but not least, I should have more adventures to report on. I'll be making a trip somewhere interesting for both buisness and pleasure next month, which should be a great excuse to try great places to eat.
+Last but not least, I should have more adventures to report on. I'll be making a trip somewhere interesting for both business and pleasure next month, which should be a great excuse to try great places to eat.
