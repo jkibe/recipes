@@ -5,6 +5,7 @@ draft: false
 tags: [
     "veggie",
     "vegan",
+    "beans",
 ]
 cover:
     image: 

@@ -6,6 +6,7 @@ tags: [
     "italy",
     "sicily",
     "fish",
+    "fennel",
 ]
 cover:
     image: 

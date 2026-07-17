@@ -4,6 +4,7 @@ date: 2024-05-23T21:21:59Z
 draft: false
 tags: [
     "veggie",
+    "beans",
 ]
 cover:
     image: 
