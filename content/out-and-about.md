@@ -77,6 +77,11 @@ A non-exhaustive list of places I like to eat out. Prices approximate.
 * Common Bond, Café-Bakery, $
 * The Blind Duck, Vietnamese, $$
 
+### Istanbul, Turkey
+
+* Kumbasar, Bakery, $
+* Cuma, Turkish, $$
+
 ### London, UK
 
 ![The River Cafe in London](/images/london-cafe.jpg)
@@ -84,6 +89,7 @@ A non-exhaustive list of places I like to eat out. Prices approximate.
 * [Bibendum](https://claudebosi.com), French, $$$
 * [Honey & Co](https://honeyandco.co.uk), Middle Eastern, $$
 * [Nécco](https://www.necco.london/menus), Japanese, $$
+* Nopi, Middle Eastern, $$$
 * [The River Cafe](http://rivercafe.co.uk), Italian, $$$
 * Rovi, Middle Eastern, $$$
 
@@ -95,13 +101,15 @@ A non-exhaustive list of places I like to eat out. Prices approximate.
 * Breizh Café, Crêpes, $$
 * [Caillebotte](https://www.lapantruchoise.com/caillebotte), Neobistrot, $$
 * [Divellec](https://www.divellec-paris.fr), Seafood, \$\$\$\$
+* Double Impact, Neobistrot, $$$
 * [Lazare](https://lazare-paris.fr), French, $$
-* Maison Plisson, French, $$
+* Le Mermoz, Neobistrot, $$
 * [Neige d'été](https://www.neigedete.fr), French, $$$
 * Du pain et des idées, Bakery, $
 * Poilâne, Bakery, $
 * [Le Saint Sebastien](https://www.lesaintsebastien.paris), Neobistrot, $$
 * Sanjo, Japanese, $$
+* Ten Belles, Bakery, $
 
 ### Portland, ME, USA
 
