@@ -40,11 +40,9 @@ A non-exhaustive list of places I like to eat out. Prices approximate.
 
 * [Bar Mezzana](http://barmezzana.com), Italian, $$
 * Baleia, Portuguese, $$$
-* [Chickadee](https://www.chickadeerestaurant.com), Mediterranean, $$
 * [Clover Food Lab](https://www.cloverfoodlab.com), Vegan, $
 * [Coppa](https://www.coppaboston.com), Italian, $$
 * [Daily Catch](https://thedailycatch.com), Italian, $$
-* [Dear Annie](https://www.dearanniebar.com), Wine Bar, $$
 * [George Howell](https://georgehowellcoffee.com), Coffee, $
 * [Juliet](https://www.julietsomerville.com), New American, $$
 * [Michette](https://michette.square.site), Bakery, $
@@ -105,7 +103,6 @@ A non-exhaustive list of places I like to eat out. Prices approximate.
 * [Lazare](https://lazare-paris.fr), French, $$
 * Le Mermoz, Neobistrot, $$
 * [Neige d'été](https://www.neigedete.fr), French, $$$
-* Du pain et des idées, Bakery, $
 * Poilâne, Bakery, $
 * [Le Saint Sebastien](https://www.lesaintsebastien.paris), Neobistrot, $$
 * Sanjo, Japanese, $$
